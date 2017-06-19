@@ -13,7 +13,6 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 * In anaconda console,input: conda env create -f gandga_envir.yml
 * If you need to update, input: conda env update -f gandga_envir.yml
 * Finally, if you install this in linux, input: . activate gandga (or . activate  ANY_NAME_U_WANT) 
-
            if you install this in windows, input: activate gandga (or activate  ANY_NAME_U_WANT) 
 * 
 * Then input: jupyter notebook 
