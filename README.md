@@ -35,9 +35,9 @@ Using Deep Learning To Implement Domain Generation Algorithm.
     
 2- input following:
 
-        pip install graphviz
-        pip install ipython
-        pip install matplotlib
+
+        conda install ipython
+        conda install matplotlib
         pip install notebook
         pip install scipy (if failed, try: conda install -c conda-forge scipy )
         pip install numpy
@@ -51,6 +51,7 @@ Using Deep Learning To Implement Domain Generation Algorithm.
         pip install theano
         pip install keras
         pip install pydot-ng   
+        pip install graphviz
 
 
 3- Then input: jupyter notebook 
