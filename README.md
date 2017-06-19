@@ -22,7 +22,7 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 
     conda create --name gandga36 python=3.6
 
-## B. Install all of it in envir gandga27 and envir gandga35
+## B. Install all of the following package
 
 1- First input :(just input one of them, don't input them at the same time)
 
