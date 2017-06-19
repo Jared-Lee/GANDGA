@@ -24,7 +24,7 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 
 ## B. Install all of it in envir gandga27 and envir gandga35
 
-1- First input :
+1- First input :(just input one of them, don't input them at the same time)
 
         (in windows)
     activate gandga27
