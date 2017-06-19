@@ -42,7 +42,16 @@ For example:
             conda install pillow
             conda install pip
             conda install scikit-learn
+            
+            (only use CPU)
             conda install tensorflow            (If failed, try: conda install -c conda-forge tensorflow )
+            
+            (use GPU on windows, reference: https://www.tensorflow.org/install/install_windows )
+            pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.2.0-cp35-cp35m-win_amd64.whl
+            
+            (use GPU on linux, didn't test, reference: https://www.tensorflow.org/install/install_windows )
+            pip3 install --upgrade tensorflow-gpu
+            
             conda install theano
             conda install keras                 (If failed, try: conda install -c conda-forge keras 
                                                  or maybe you can try: pip install keras )
@@ -55,7 +64,7 @@ For example:
 
    Please replace **[ENVIRONMENT_NAME]** to the name of environment which you want to remove.
 
-5- (option) If You want to switch the backend of keras in windows, You can go to **`C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d`** and find out **`keras_activate.bat`** in this folder. Open the file, then you can change **`set "KERAS_BACKEND=theano"`** to **`set "KERAS_BACKEND=tensorflow"`** if you want.
+5- (option) If You want to switch the backend of keras on windows, You can go to **`C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d`** and find out **`keras_activate.bat`** in this folder. Open the file, then you can change **`set "KERAS_BACKEND=theano"`** to **`set "KERAS_BACKEND=tensorflow"`** if you want.
 
 
 #
