@@ -10,17 +10,13 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 # Setting
 ## A. In anaconda console
 
-1- Create Eni with python 2.7 : 
+Chioce what environment you want (but I only use python 3.5) :
 
-    conda create --name gandga27 python=2.7
+1- Create Environment with python 2.7 :     `conda create --name gandga27 python=2.7`
 
-2- Create Eni with python 3.5 : 
+2- Create Environment with python 3.5 :     `conda create --name gandga35 python=3.5`
 
-    conda create --name gandga35 python=3.5
-
-3- Create Eni with python 3.6 : 
-
-    conda create --name gandga36 python=3.6
+3- Create Environment with python 3.6 :     `conda create --name gandga36 python=3.6`
 
 ## B. Install all of the following package
 
@@ -28,33 +24,37 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 
             (in windows)
         activate gandga35
-        activate gandga27
             (in linux)
         . activate gandga35
-        . activate gandga27
     
 2- input following:
 
-
         conda install ipython
+        conda install graphviz
         conda install matplotlib
-        pip install notebook
-        pip install scipy (if failed, try: conda install -c conda-forge scipy )
-        pip install numpy
-        pip install pillow
-        pip install pip
-        pip install scikit-learn
+        conda install notebook
+        conda install scipy (if failed, try: conda install -c conda-forge scipy )
+        conda install numpy
+        conda install pillow
+        conda install pip
+        conda install scikit-learn
         
         (only support python 3.5 in windows-64)
-        pip install tensorflow
+        conda install tensorflow
         
-        pip install theano
-        pip install keras
-        pip install pydot-ng   
-        pip install graphviz
+        conda install theano
+        
+        (only support python 3.5 in windows-64)
+        conda install keras
+        (Maybe you can try: pip install keras)
+        
+        conda install pydot-ng   
 
+3- Then input: `jupyter notebook` 
 
-3- Then input: jupyter notebook 
+4- If you want to remove environment, input `conda remove -n [ENVIRONMENT_NAME] --all`
+
+   Please replace [ENVIRONMENT_NAME] to the name of environment which you want to remove.
 
 This is a very early development project.
 You can mail to s1036051@mail.yzu.edu.tw , if you want to discuss.
