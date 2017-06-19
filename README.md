@@ -49,7 +49,7 @@ For example:
             pip install pydot-ng  
             pip install graphviz
 
-3- Then input: **`jupyter notebook`** 
+3- Clone this repository to any place you want, Then input: **`jupyter notebook`** 
 
 4- If you want to remove environment, input **`conda remove -n [ENVIRONMENT_NAME] --all`**
 
