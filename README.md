@@ -2,10 +2,10 @@
 Using Deep Learning To Implement Domain Generation Algorithm.
 
 # Suggest Requirement
-* Anaconda3 (with Python 3.6)
 * Windows 10 x64
-* CUDA 8.0.61
-* cuDNN v5
+* Anaconda3 x64 (with Python 3.6)
+* CUDA 8.0+
+* cuDNN v5+
 
 # Setting
 ## A. Create anaconda environment
