@@ -43,6 +43,7 @@ Chioce what environment you want (but I only test programs in the environment wi
             conda install keras                 (If failed, try: conda install -c conda-forge keras 
                                                  or maybe you can try: pip install keras )
             pip install pydot-ng  
+            pip install graphviz
 
 3- Then input: `jupyter notebook` 
 
