@@ -20,7 +20,7 @@ For example:
 
 3- Create Environment with python 3.6 :     `conda create --name gandga36 python=3.6`
 
-* But I test most of the programs in the environment with python 3.5, so I suggust to choice the same version.
+* But I test most of the tensorflow programs in the environment with python 3.5, so I suggust to choice the same version.
 
 ## B. Install all of the following package
 
