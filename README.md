@@ -8,9 +8,9 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 * cuDNN v5
 
 # Setting
-## A. In anaconda console
+## A. Create anaconda environment
 
-Chioce what environment you want (but I only use python 3.5) :
+Chioce what environment you want (but I only test the environment with python 3.5) :
 
 1- Create Environment with python 2.7 :     `conda create --name gandga27 python=2.7`
 
