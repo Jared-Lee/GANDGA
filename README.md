@@ -44,7 +44,10 @@ Using Deep Learning To Implement Domain Generation Algorithm.
         pip install pillow
         pip install pip
         pip install scikit-learn
+        
+        (only support python 3.5 in windows-64)
         pip install tensorflow
+        
         pip install theano
         pip install keras
         pip install pydot-ng   
