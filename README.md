@@ -22,10 +22,10 @@ Chioce what environment you want (but I only test the environment with python 3.
 
 1- First input :(just input one of them, don't input them at the same time)
 
-            (in windows)
-        activate gandga35
-            (in linux)
-        . activate gandga35
+            In windows:
+                        activate gandga35
+            In linux:
+                        . activate gandga35
     
 2- input following:
 
@@ -42,7 +42,7 @@ Chioce what environment you want (but I only test the environment with python 3.
             conda install theano
             conda install keras                 (If failed, try: conda install -c conda-forge keras 
                                                  or maybe you can try: pip install keras )
-            pip install pydot-ng  
+            pip install pydot-ng  
 
 3- Then input: `jupyter notebook` 
 
