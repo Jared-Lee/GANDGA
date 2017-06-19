@@ -55,10 +55,10 @@ For example:
 
    Please replace [ENVIRONMENT_NAME] to the name of environment which you want to remove.
 
-5- (option) If You want to switch the backend of keras, You can go to `C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d` and find `keras_activate.bat`. 
+5- (option) If You want to switch the backend of keras, You can go to `C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d` and find `keras_activate.bat`.     Then you can change `set "KERAS_BACKEND=theano"` to `set "KERAS_BACKEND=tensorflow"` if you want.
 
-   Then you can change `set "KERAS_BACKEND=theano"` to `set "KERAS_BACKEND=tensorflow"` if you want.
 
+#
 
 This is a very early development project.
 You can mail to s1036051@mail.yzu.edu.tw , if you want to discuss.
