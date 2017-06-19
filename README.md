@@ -39,7 +39,7 @@ Using Deep Learning To Implement Domain Generation Algorithm.
         pip install ipython
         pip install matplotlib
         pip install notebook
-        pip install numpy (if failed, try: conda install -c conda-forge scipy )
+        pip install scipy (if failed, try: conda install -c conda-forge scipy )
         pip install numpy
         pip install pillow
         pip install pip
