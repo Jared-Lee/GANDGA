@@ -49,13 +49,13 @@ For example:
             pip install pydot-ng  
             pip install graphviz
 
-3- Then input: `jupyter notebook` 
+3- Then input: **`jupyter notebook`** 
 
-4- If you want to remove environment, input `conda remove -n [ENVIRONMENT_NAME] --all`
+4- If you want to remove environment, input **`conda remove -n [ENVIRONMENT_NAME] --all`**
 
    Please replace [ENVIRONMENT_NAME] to the name of environment which you want to remove.
 
-5- (option) If You want to switch the backend of keras, You can go to `C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d` and find `keras_activate.bat`.     Then you can change `set "KERAS_BACKEND=theano"` to `set "KERAS_BACKEND=tensorflow"` if you want.
+5- (option) If You want to switch the backend of keras, You can go to **`C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d`** and find **`keras_activate.bat`**.     Then you can change **`set "KERAS_BACKEND=theano"`** to **`set "KERAS_BACKEND=tensorflow"`** if you want.
 
 
 #
