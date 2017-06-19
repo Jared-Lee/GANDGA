@@ -29,24 +29,20 @@ Chioce what environment you want (but I only test the environment with python 3.
     
 2- input following:
 
-        conda install ipython
-        conda install graphviz
-        conda install matplotlib
-        conda install notebook
-        conda install scipy (if failed, try: conda install -c conda-forge scipy )
-        conda install numpy 
-        conda install pillow
-        conda install pip
-        conda install scikit-learn
-        conda install tensorflow (if failed, try: conda install -c conda-forge tensorflow )
-        
-        conda install theano
-        
-        (only support python 3.5 in windows-64)
-        conda install keras
-        (Maybe you can try: pip install keras)
-        
-        conda install pydot-ng   
+            conda install ipython
+            conda install graphviz
+            conda install matplotlib
+            conda install notebook
+            conda install scipy (if failed, try: conda install -c conda-forge scipy )
+            conda install numpy 
+            conda install pillow
+            conda install pip
+            conda install scikit-learn
+            conda install tensorflow (if failed, try: conda install -c conda-forge tensorflow )
+            conda install theano
+            conda install keras (if failed, try: conda install -c conda-forge keras )
+            (Maybe you can try: pip install keras)
+            conda install pydot-ng   
 
 3- Then input: `jupyter notebook` 
 
