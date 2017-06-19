@@ -10,13 +10,15 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 # Setting
 ## A. Create anaconda environment
 
-Chioce what environment you want (but I only test programs in the environment with python 3.5) :
-
+Set up the environment you want (but I only test programs in the environment with python 3.5) by `conda create --name [YOUR_ENVIRONMENT_NAME] python=[PYTHON_VERSION]`
+For example: 
 1- Create Environment with python 2.7 :     `conda create --name gandga27 python=2.7`
 
 2- Create Environment with python 3.5 :     `conda create --name gandga35 python=3.5`
 
 3- Create Environment with python 3.6 :     `conda create --name gandga36 python=3.6`
+
+
 
 ## B. Install all of the following package
 
@@ -50,6 +52,11 @@ Chioce what environment you want (but I only test programs in the environment wi
 4- If you want to remove environment, input `conda remove -n [ENVIRONMENT_NAME] --all`
 
    Please replace [ENVIRONMENT_NAME] to the name of environment which you want to remove.
+
+5- (option) If You want to switch the backend of keras, You can go to `C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d` and find `keras_activate.bat`. 
+
+   Then you can change `set "KERAS_BACKEND=theano"` to `set "KERAS_BACKEND=tensorflow"` if you want.
+
 
 This is a very early development project.
 You can mail to s1036051@mail.yzu.edu.tw , if you want to discuss.
