@@ -33,7 +33,7 @@ Chioce what environment you want (but I only test the environment with python 3.
         conda install graphviz
         conda install matplotlib
         conda install notebook
-        conda install scipy (if failed, try: conda install -c conda-forge scipy )
+        conda install scipy (if failed, try: conda install -c conda-forge scipy )
         conda install numpy 
         conda install pillow
         conda install pip
