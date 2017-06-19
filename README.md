@@ -16,13 +16,16 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 ## B. Install all of it in envir gandga27 and envir gandga35
 * 1. First input :
 >       (1) activate gandga27 
->>          (in windows)
+>>                            (in windows)
+
 >       (2) activate gandga35 
->>          (in windows)
+>>                            (in windows)
+
 >       (3) . activate gandga27 
->>          (in linux)
+>>                            (in linux)
+
 >       (4) . activate gandga35
->>          (in linux)
+>>                            (in linux)
 
 * You can change the Channel name from "gandga" to "ANY_NAME_U_WANT" in the first line of "gandga_envir.yml"
 * In anaconda console,input: 
