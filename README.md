@@ -49,7 +49,7 @@ For example:
             (use GPU on windows, reference: https://www.tensorflow.org/install/install_windows )
             pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.2.0-cp35-cp35m-win_amd64.whl
             
-            (use GPU on linux, didn't test, reference: https://www.tensorflow.org/install/install_windows )
+            (use GPU on linux, didn't test, reference: https://www.tensorflow.org/install/install_linux )
             pip3 install --upgrade tensorflow-gpu
             
             conda install theano
