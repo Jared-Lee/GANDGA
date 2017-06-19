@@ -27,10 +27,8 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 1- First input :(just input one of them, don't input them at the same time)
 
         (in windows)
-    activate gandga27
     activate gandga35
         (in linux)
-    . activate gandga27
     . activate gandga35
     
 2-input following:
