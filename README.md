@@ -8,17 +8,21 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 * cuDNN v5
 
 # Setting
-* A. In anaconda console
+## A. In anaconda console
 * 1. Create Eni with python 2.7 : conda create --name gandga27 python=2.7
 * 2. Create Eni with python 3.5 : conda create --name gandga35 python=3.5
 * 3. Create Eni with python 3.6 : conda create --name gandga36 python=3.6
 
-* B. Install all of it in envir gandga27 and envir gandga35
-* First input :
-*       (1) activate gandga27 
-*       (2) activate gandga35 
-*       (3) . activate gandga27 
-*       (4) . activate gandga35
+## B. Install all of it in envir gandga27 and envir gandga35
+* 1. First input :
+>       (1) activate gandga27 
+>>          (in windows)
+>       (2) activate gandga35 
+>>          (in windows)
+>       (3) . activate gandga27 
+>>          (in linux)
+>       (4) . activate gandga35
+>>          (in linux)
 
 * You can change the Channel name from "gandga" to "ANY_NAME_U_WANT" in the first line of "gandga_envir.yml"
 * In anaconda console,input: 
