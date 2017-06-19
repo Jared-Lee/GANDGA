@@ -10,15 +10,17 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 # Setting
 ## A. Create anaconda environment
 
-Set up the environment you want (but I only test programs in the environment with python 3.5) by `conda create --name [YOUR_ENVIRONMENT_NAME] python=[PYTHON_VERSION]`
+Set up the environment you want by `conda create --name [YOUR_ENVIRONMENT_NAME] python=[PYTHON_VERSION]`
+
 For example: 
+
 1- Create Environment with python 2.7 :     `conda create --name gandga27 python=2.7`
 
 2- Create Environment with python 3.5 :     `conda create --name gandga35 python=3.5`
 
 3- Create Environment with python 3.6 :     `conda create --name gandga36 python=3.6`
 
-
+* But I test most of the programs in the environment with python 3.5, so I suggust to choice the same version.
 
 ## B. Install all of the following package
 
