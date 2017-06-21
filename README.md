@@ -13,7 +13,9 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 
 ## A. Prepare two kind of Anaconda environment
 
-Open the terminal on linux or **`Anaconda Prompt`** on Windows. Create the environment by command: **`conda create --name [YOUR_ENVIRONMENT_NAME] python=[PYTHON_VERSION]`**
+Open the terminal on linux or **`Anaconda Prompt`** on Windows. 
+
+Create the environment by command: **`conda create --name [YOUR_ENVIRONMENT_NAME] python=[PYTHON_VERSION]`**
 
 1. Create Tensorflow Environment with python 3.5 :     **`conda create --name gandga35 python=3.5`**
 
@@ -22,14 +24,14 @@ Open the terminal on linux or **`Anaconda Prompt`** on Windows. Create the envir
 
 ## B. Install packages in Tensorflow Environment
 
-1- Active the enviroment by command: **`activae [YOUR_ENVIRONMENT_NAME]`**
+1. Active the enviroment by command: **`activae [YOUR_ENVIRONMENT_NAME]`**
 
             On Windows:
                         activate gandga35
             On Linux:
                         . activate gandga35
     
-2- Input following command:
+2. Input following command:
 
             conda install ipython
             conda install graphviz
@@ -56,22 +58,22 @@ Open the terminal on linux or **`Anaconda Prompt`** on Windows. Create the envir
             pip install pydot-ng  
             pip install graphviz
 
-3- If you want to use GPU-version tensorflow, **`MAKE SURE YOU HAVE CUDA AND CuDNN 5.1`**, this is very important.
+3. If you want to use GPU-version tensorflow, **`MAKE SURE YOU HAVE CUDA AND CuDNN 5.1`**, this is very important.
 
-4- Clone these repositories to any place you want, Then input: **`jupyter notebook`** 
+4. Clone these repositories to any place you want, Then input: **`jupyter notebook`** 
 
-5- (option) If You want to switch the backend of keras on windows, You can go to **`C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d`** and find out **`keras_activate.bat`** in this folder. Open the file, then you can change **`set "KERAS_BACKEND=theano"`** to **`set "KERAS_BACKEND=tensorflow"`** if you want.
+5. (option) If You want to switch the backend of keras on windows, You can go to **`C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d`** and find out **`keras_activate.bat`** in this folder. Open the file, then you can change **`set "KERAS_BACKEND=theano"`** to **`set "KERAS_BACKEND=tensorflow"`** if you want.
 
 ## C. Install packages in Pytorch Environment 
 
-1- Active the enviroment by command: **`activae [YOUR_ENVIRONMENT_NAME]`**
+1. Active the enviroment by command: **`activae [YOUR_ENVIRONMENT_NAME]`**
 
             On Windows:
                         activate gandga36
             On Linux:
                         . activate gandga36
     
-2- Input following command: (didn't confirmed whether it is working properly)
+2. Input following command: (didn't confirmed whether it is working properly)
 
             conda install ipython
             conda install graphviz
@@ -86,7 +88,7 @@ Open the terminal on linux or **`Anaconda Prompt`** on Windows. Create the envir
             pip install pydot-ng  
             pip install graphviz
 
-3- Clone these repositories to any place you want, Then input: **`jupyter notebook`** 
+3. Clone these repositories to any place you want, Then input: **`jupyter notebook`** 
 
 ## B. Remove Environments
 
