@@ -90,7 +90,7 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 
 3. Clone these repositories to any place you want, Then input: **`jupyter notebook`** 
 
-## B. Remove Environments
+## D. Remove Environments
 
 * If you want to remove environment, input **`conda remove -n [ENVIRONMENT_NAME] --all`**
 
