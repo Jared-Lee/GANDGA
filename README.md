@@ -94,7 +94,7 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 
 * If you want to remove environment, input **`conda remove -n [ENVIRONMENT_NAME] --all`**
 
-   (Please replace **[ENVIRONMENT_NAME]** to the name of environment which you want to remove.)
+   * (Please replace **[ENVIRONMENT_NAME]** to the name of environment which you want to remove.)
 
 -----
 
