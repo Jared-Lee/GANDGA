@@ -17,9 +17,9 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 
 * Create the environment by command: **`conda create --name [YOUR_ENVIRONMENT_NAME] python=[PYTHON_VERSION]`**
 
-  1. Create Tensorflow Environment with python 3.5 :     **`conda create --name gandga35 python=3.5`**
+   * Create Tensorflow Environment with python 3.5 :     **`conda create --name gandga35 python=3.5`**
 
-  2. Create Pytorch Environment with python 3.6 :     **`conda create --name gandga36 python=3.6`**
+   * Create Pytorch Environment with python 3.6 :     **`conda create --name gandga36 python=3.6`**
 
 
 ## B. Install packages in Tensorflow Environment
