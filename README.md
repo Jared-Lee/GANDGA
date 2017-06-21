@@ -24,9 +24,9 @@ Create the environment by command: **`conda create --name [YOUR_ENVIRONMENT_NAME
 
 1- Active the enviroment by command: **`activae [YOUR_ENVIRONMENT_NAME]`**
 
-            In windows:
+            On windows:
                         activate gandga35
-            In linux:
+            On linux:
                         . activate gandga35
     
 2- input following:
