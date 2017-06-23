@@ -92,8 +92,8 @@ def load_dataset(max_length, max_n_examples, tokenize=False, max_vocab_size=2048
 
     finished = False
 
-    for i in range(99):
-        path = data_dir+("/training-monolingual.tokenized.shuffled/news.en-{}-of-00100".format(str(i+1).zfill(5)))
+    for i in range(100):
+        path = data_dir+("/TopDomainName.Less33-{}0000-OF-996720".format(str(i).zfill(2)))
         # If you using chinese-based OS, encoding default will be Big-5, so You should change it to utf-8
         with open(path, 'r',encoding = 'utf8') as f:
             for line in f:
