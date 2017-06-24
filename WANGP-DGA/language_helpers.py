@@ -142,3 +142,60 @@ def load_dataset(max_length, max_n_examples, tokenize=False, max_vocab_size=2048
 
     print ( "loaded {} lines in dataset".format(len(lines)) )
     return filtered_lines, charmap, inv_charmap
+
+
+    
+def checkDNSFrom(check_this_string):
+    c=[]
+    c.append(check_this_string)
+    recheck=False
+    
+    #delete all sapce
+    temp=c[0]
+    c[0]=c[0].replace(" ","")
+    if temp != c[0]:
+        recheck = True
+    
+    #replace "...." "..." ".." ".--" ".-" to "."
+    temp=c[0]
+    c[0]=c[0].replace("....",".")
+    if temp != c[0]:
+        recheck = True
+    
+    temp=c[0]
+    c[0]=c[0].replace("...",".")
+    if temp != c[0]:
+        recheck = True
+    
+    temp=c[0]
+    c[0]=c[0].replace("..",".")
+    if temp != c[0]:
+        recheck = True
+    
+    temp=c[0]
+    c[0]=c[0].replace(".--",".")
+    if temp != c[0]:
+        recheck = True
+    
+    temp=c[0]
+    c[0]=c[0].replace(".-",".")
+    if temp != c[0]:
+        recheck = True
+    
+    if recheck:
+        return checkDNSFrom( c[0] )
+    elif c[0] == "":
+        return ""
+    elif c[0][0] == "." or c[0][0] == "-":
+        #print(len(c[0]))
+        if len(c[0]) >= 2:
+            c[0] = c[0][1:]
+            return checkDNSFrom( c[0] )
+        else:
+            return ""
+    elif c[0][-1:] == ".":
+        c[0] = c[0][:-1]
+        return checkDNSFrom( c[0] )
+    else:
+        return c[0]
+    
