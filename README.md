@@ -51,6 +51,9 @@ Using Deep Learning To Implement Domain Generation Algorithm.
             
             (use GPU on linux, didn't check, reference: https://www.tensorflow.org/install/install_linux )
             pip3 install --upgrade tensorflow-gpu
+            (or)
+            pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.2.0-cp35-cp35m-linux_x86_64.whl
+
             
             conda install theano
             conda install keras                 (If failed, try: conda install -c conda-forge keras 
