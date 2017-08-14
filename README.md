@@ -38,10 +38,12 @@ Using Deep Learning To Implement Domain Generation Algorithm.
             conda install matplotlib
             conda install notebook
             conda install scipy                 (If failed, try: conda install -c conda-forge scipy )
-            conda install numpy 
             conda install pillow
-            conda install pip
             conda install scikit-learn
+            
+            (option)
+            conda install numpy                 (If you don't have numpy)
+            conda install pip                   (If you don't have pip)
             
             (only use CPU)
             conda install tensorflow            (If failed, try: conda install -c conda-forge tensorflow )
