@@ -58,7 +58,7 @@ Using Deep Learning To Implement Domain Generation Algorithm.
             pip install pydot-ng  
             pip install graphviz
 
-3. If you want to use GPU-version tensorflow, **`MAKE SURE YOU HAVE CUDA AND CuDNN 5.1`**, this is very important.
+3. If you want to use GPU-version tensorflow in windows, **`MAKE SURE YOU HAVE CUDA AND CuDNN 5.1`**, this is very important.
 
 4. Clone these repositories to any place you want, Then input: **`jupyter notebook`** 
 
