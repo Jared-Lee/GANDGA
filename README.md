@@ -58,8 +58,8 @@ Using Deep Learning To Implement Domain Generation Algorithm.
 
             
             conda install theano
-            conda install keras                 (If failed, try: conda install -c conda-forge keras 
-                                                 or maybe you can try: pip install keras )
+            pip install --no-deps keras
+            
             pip install pydot-ng  
             pip install graphviz
 
