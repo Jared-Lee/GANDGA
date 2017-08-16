@@ -12,7 +12,7 @@ This code is based on https://github.com/amirbar/rnn.wgan from **Language Genera
 * CUDA 8.0+
 * cuDNN v5.1 (You may fail if you use a higher or lower version)
 * NVIDIA Graphic Card (Like GTX 1060)
-* TensorFlow r1.2.0
+* TensorFlow r1.1.0
 
 # Setting
 
@@ -22,7 +22,7 @@ This code is based on https://github.com/amirbar/rnn.wgan from **Language Genera
 
 * Create the environment by command: **`conda create --name [YOUR_ENVIRONMENT_NAME] python=[PYTHON_VERSION]`**
 
-   * Create Tensorflow Environment with python 3.5 :     **`conda create --name gandga35 python=3.5`**
+   * Create Tensorflow Environment with python 3.5 :     **`conda create --name py35_tf11 python=3.5`**
 
 
 ## B. Install packages in Tensorflow Environment
@@ -30,9 +30,9 @@ This code is based on https://github.com/amirbar/rnn.wgan from **Language Genera
 1. Active the enviroment by command: **`activae [YOUR_ENVIRONMENT_NAME]`**
 
             On Windows:
-                        activate gandga35
+                        activate py35_tf11
             On Linux:
-                        . activate gandga35
+                        . activate py35_tf11
     
 2. Input following command:
 
@@ -49,12 +49,12 @@ This code is based on https://github.com/amirbar/rnn.wgan from **Language Genera
             conda install pip                   (If you don't have pip)
             
             (use GPU on windows, reference: https://www.tensorflow.org/install/install_windows )
-            pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.2.0-cp35-cp35m-win_amd64.whl
+            pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.1.0-cp35-cp35m-win_amd64.whl
             
             (use GPU on linux, didn't check, reference: https://www.tensorflow.org/install/install_linux )
             pip3 install --upgrade tensorflow-gpu
             (or)
-            pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.2.0-cp35-cp35m-linux_x86_64.whl
+            pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.1.0-cp35-cp35m-linux_x86_64.whl
 
             pip install pydot-ng  
 
