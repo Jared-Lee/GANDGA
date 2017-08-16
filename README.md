@@ -1,5 +1,5 @@
 # GANDGA
-Using Servel generative adversary networks To Implement Domain Generation Algorithm.
+Using Several Generative Adversarial Networks To Implement Domain Generation Algorithm.
 
 -----
 
