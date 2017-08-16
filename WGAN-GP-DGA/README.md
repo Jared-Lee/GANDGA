@@ -47,9 +47,6 @@ This code is based on https://github.com/igul222/improved_wgan_training from **I
             conda install numpy                 (If you don't have numpy)
             conda install pip                   (If you don't have pip)
             
-            (only use CPU)
-            conda install tensorflow            (If failed, try: conda install -c conda-forge tensorflow )
-            
             (use GPU on windows, reference: https://www.tensorflow.org/install/install_windows )
             pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.2.0-cp35-cp35m-win_amd64.whl
             
