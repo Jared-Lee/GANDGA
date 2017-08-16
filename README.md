@@ -1,5 +1,5 @@
 # GANDGA
-Using Several Generative Adversarial Networks To Implement Domain Generation Algorithm.
+A Project That Using Several Generative Adversarial Networks To Implement Domain Generation Algorithm.
 
 -----
 
