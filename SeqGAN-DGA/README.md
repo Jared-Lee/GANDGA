@@ -63,7 +63,6 @@ This code is based on https://github.com/LantaoYu/SeqGAN from **SeqGAN: Sequence
 
 4. Clone these repositories to any place you want, Then input: **`jupyter notebook`** 
 
-5. (option) If You want to switch the backend of keras on windows, You can go to **`C:\ProgramData\Anaconda3\envs\[YOUR_ENVIRONMENT_NAME]\etc\conda\activate.d`** and find out **`keras_activate.bat`** in this folder. Open the file, then you can change **`set "KERAS_BACKEND=theano"`** to **`set "KERAS_BACKEND=tensorflow"`** if you want.
 
 ## C. Remove Environments
 
