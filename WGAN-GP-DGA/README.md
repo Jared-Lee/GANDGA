@@ -11,6 +11,7 @@ This code is based on https://github.com/igul222/improved_wgan_training from **I
 * Anaconda3 x64 (with Python 3.6)
 * CUDA 8.0+
 * cuDNN v5.1 (You may fail if you use a higher or lower version)
+* NVIDIA Graphic Card (Like GTX 1060)
 
 # Setting
 
