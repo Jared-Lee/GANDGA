@@ -16,7 +16,7 @@ This code is based on https://github.com/igul222/improved_wgan_training from **I
 
 # Setting
 
-## A. Anaconda environment
+## A. Anaconda Environment
 
 * Open the terminal on linux or **`Anaconda Prompt`** on Windows. 
 
@@ -25,7 +25,7 @@ This code is based on https://github.com/igul222/improved_wgan_training from **I
    * Create Tensorflow Environment with python 3.5 :     **`conda create --name py35_tf120 python=3.5`**
 
 
-## B. Install packages in Tensorflow Environment
+## B. Install packages in Anaconda Environment
 
 1. Active the enviroment by command: **`activae [YOUR_ENVIRONMENT_NAME]`**
 
