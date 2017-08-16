@@ -16,7 +16,7 @@ This code is based on https://github.com/igul222/improved_wgan_training from **I
 
 # Setting
 
-## Anaconda environment
+## A. Anaconda environment
 
 * Open the terminal on linux or **`Anaconda Prompt`** on Windows. 
 
