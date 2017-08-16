@@ -12,6 +12,7 @@ This code is based on https://github.com/igul222/improved_wgan_training from **I
 * CUDA 8.0+
 * cuDNN v5.1 (You may fail if you use a higher or lower version)
 * NVIDIA Graphic Card (Like GTX 1060)
+* TensorFlow r1.2.0
 
 # Setting
 
