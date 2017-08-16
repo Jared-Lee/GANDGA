@@ -16,7 +16,7 @@ This code is based on https://github.com/LantaoYu/SeqGAN from **SeqGAN: Sequence
 
 # Setting
 
-## Anaconda environment
+## A. Anaconda environment
 
 * Open the terminal on linux or **`Anaconda Prompt`** on Windows. 
 
