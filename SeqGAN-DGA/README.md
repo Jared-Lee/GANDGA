@@ -22,7 +22,7 @@ This code is based on https://github.com/LantaoYu/SeqGAN from **SeqGAN: Sequence
 
 * Create the environment by command: **`conda create --name [YOUR_ENVIRONMENT_NAME] python=[PYTHON_VERSION]`**
 
-   * Create Tensorflow Environment with python 3.5 :     **`conda create --name gandga35 python=3.5`**
+   * Create Tensorflow Environment with python 3.5 :     **`conda create --name py35_tf120 python=3.5`**
 
 
 ## B. Install packages in Tensorflow Environment
@@ -30,9 +30,9 @@ This code is based on https://github.com/LantaoYu/SeqGAN from **SeqGAN: Sequence
 1. Active the enviroment by command: **`activae [YOUR_ENVIRONMENT_NAME]`**
 
             On Windows:
-                        activate gandga35
+                        activate py35_tf120
             On Linux:
-                        . activate gandga35
+                        . activate py35_tf120
     
 2. Input following command:
 
