@@ -1,8 +1,8 @@
-# WGAN-GP-DGA
-Using WGAN-GP To Implement Domain Generation Algorithm.
+# RNN.WGAN-DGA
+Using RNN.WGAN To Implement Domain Generation Algorithm.
 
 # Reference
-This code is based on https://github.com/igul222/improved_wgan_training from **Improved Training of Wasserstein GANs** https://arxiv.org/abs/1704.00028  .
+This code is based on https://github.com/amirbar/rnn.wgan from **Language Generation with Recurrent Generative Adversarial Networks without Pre-training** https://arxiv.org/abs/1706.01399  .
 
 # Suggest Requirement
 * Windows 10 x64
