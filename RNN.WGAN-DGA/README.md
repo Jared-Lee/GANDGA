@@ -22,7 +22,7 @@ This code is based on https://github.com/amirbar/rnn.wgan from **Language Genera
 
 * Create the environment by command: **`conda create --name [YOUR_ENVIRONMENT_NAME] python=[PYTHON_VERSION]`**
 
-   * Create Tensorflow Environment with python 3.5 :     **`conda create --name py35_tf11 python=3.5`**
+   * Create Tensorflow Environment with python 3.5 :     **`conda create --name py35_tf110 python=3.5`**
 
 
 ## B. Install packages in Tensorflow Environment
@@ -30,9 +30,9 @@ This code is based on https://github.com/amirbar/rnn.wgan from **Language Genera
 1. Active the enviroment by command: **`activae [YOUR_ENVIRONMENT_NAME]`**
 
             On Windows:
-                        activate py35_tf11
+                        activate py35_tf110
             On Linux:
-                        . activate py35_tf11
+                        . activate py35_tf110
     
 2. Input following command:
 
