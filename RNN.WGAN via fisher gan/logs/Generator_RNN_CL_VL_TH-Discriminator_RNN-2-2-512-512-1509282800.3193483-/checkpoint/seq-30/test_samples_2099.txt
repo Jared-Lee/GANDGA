@@ -1,0 +1,640 @@
+ssseeexxxxxxxxxxxxxxxxxxxxxxxx||	-2.488786
+ssseeexxxxxxxxxxxxxxxxxxxxxxxx||	-2.488786
+ddsssssxxxxxxxxxxxxxxxxxxxxxxx||	-2.467763
+nssssssxxxxxxxxxxxxxxxxxxxxxxx||	-2.330078
+sslleesxxxxxxxxxxxxxxxxxxxxxxx||	-2.131809
+ssseexxxxxxxxxxxxxxxxxxxxxxxxx||	-1.892498
+bsssssxxxxxxxxxxxxxxxxxxxxxxxx||	-1.695520
+vssssssxxxxxxxxxxxxxxxxxxxxxxx||	-1.490365
+dsshssxxxxxxxxxxxxxxxxxxxxxxxx||	-1.407110
+yyiiiixxxxxxxxxxxxxxxxxxxxxxxx||	-1.182047
+ylllllxxxxxxxxxxxxxxxxxxxxxxxx||	-1.031035
+ossstxxxxxxxxxxxxxxxxxxxxxxxxx||	-0.996399
+isssssxxxxxxxxxxxxxxxxxxxxxxxx||	-0.797162
+essssxxxxxxxxxxxxxxxxxxxxxxxxx||	-0.424919
+ssseesxxxxxxxxxxxxxxxxxxxxxxxx||	-0.382110
+ssessxxxxxxxxxxxxxxxxxxxxxxxxx||	-0.297275
+iyyyhxxxxxxxxxxxxxxxxxxxxxxxxx||	-0.289847
+ssssiixxxxxxxxxxxxxxxxxxxxxxxx||	-0.246163
+dsssixxxxxxxxxxxxxxxxxxxxxxxxx||	-0.195156
+sssrsssxxxxxxxxxxxxxxxxxxxxxxx||	-0.167960
+shssbbssxxxxxxxxxxxxxxxxxxxxxx||	-0.137560
+tooom                         ||	-0.122801
+-ccom                         ||	-0.121150
+ccom                          ||	-0.120903
+ccom                          ||	-0.120903
+ccom                          ||	-0.120903
+ccom                          ||	-0.120903
+ccom                          ||	-0.120903
+ccom                          ||	-0.120903
+ccom                          ||	-0.120903
+ccom                          ||	-0.120903
+ccom                          ||	-0.120903
+vccom                         ||	-0.120623
+ooom                          ||	-0.119535
+ooom                          ||	-0.119535
+ooom                          ||	-0.119535
+ooom                          ||	-0.119535
+ooom                          ||	-0.119535
+ooom                          ||	-0.119535
+ooom                          ||	-0.119535
+kcoom                         ||	-0.119387
+eooom                         ||	-0.119239
+eooom                         ||	-0.119239
+rccom                         ||	-0.118295
+ccm                           ||	-0.118148
+ooggm                         ||	-0.117257
+tcom                          ||	-0.116945
+fccom                         ||	-0.116886
+soom                          ||	-0.115777
+yoom                          ||	-0.115423
+com                           ||	-0.114998
+com                           ||	-0.114998
+ajjooom                       ||	-0.114531
+oom                           ||	-0.114296
+oom                           ||	-0.114296
+bcom                          ||	-0.114124
+zcom                          ||	-0.113050
+eeoom                         ||	-0.112968
+koom                          ||	-0.112920
+mm                            ||	-0.112137
+mm                            ||	-0.112137
+mmm                           ||	-0.111617
+om                            ||	-0.111135
+mmom                          ||	-0.110875
+mmmm                          ||	-0.110539
+room                          ||	-0.109842
+xboom                         ||	-0.109166
+nnoom                         ||	-0.109080
+                              ||	-0.107013
+                              ||	-0.107013
+                              ||	-0.107013
+                              ||	-0.107013
+..om                          ||	-0.100836
+..com                         ||	-0.100557
+..com                         ||	-0.100557
+..com                         ||	-0.100557
+..com                         ||	-0.100557
+..com                         ||	-0.100557
+..com                         ||	-0.100557
+..com                         ||	-0.100557
+..com                         ||	-0.100557
+..com                         ||	-0.100557
+..com                         ||	-0.100557
+..uom                         ||	-0.100328
+n..com                        ||	-0.098986
+v..com                        ||	-0.098663
+e..om                         ||	-0.098421
+i..com                        ||	-0.098338
+e..com                        ||	-0.098194
+e..com                        ||	-0.098194
+a..om                         ||	-0.098130
+gggg.com                      ||	-0.098075
+r..com                        ||	-0.096822
+.om                           ||	-0.096543
+.om                           ||	-0.096543
+t.om                          ||	-0.096168
+ssssss.com                    ||	-0.094952
+u.com                         ||	-0.093585
+uu.com                        ||	-0.093376
+.oom                          ||	-0.093245
+t.com                         ||	-0.093233
+.com                          ||	-0.093043
+.com                          ||	-0.093043
+.com                          ||	-0.093043
+.com                          ||	-0.093043
+.com                          ||	-0.093043
+.com                          ||	-0.093043
+.com                          ||	-0.093043
+kt.com                        ||	-0.092475
+yu.com                        ||	-0.092391
+llll.com                      ||	-0.092277
+b.com                         ||	-0.092127
+oo.com                        ||	-0.091471
+uc.com                        ||	-0.091462
+.i.com                        ||	-0.091173
+kkk.com                       ||	-0.091073
+l.com                         ||	-0.090986
+s.com                         ||	-0.090947
+hsss.com                      ||	-0.090772
+.p.com                        ||	-0.090686
+.l.com                        ||	-0.090403
+leee.com                      ||	-0.090325
+-ass.com                      ||	-0.090292
+a.com                         ||	-0.090266
+a.com                         ||	-0.090266
+a.com                         ||	-0.090266
+ll.com                        ||	-0.090194
+ll.com                        ||	-0.090194
+-.com                         ||	-0.089755
+geee.com                      ||	-0.089475
+ee.com                        ||	-0.089178
+ee.com                        ||	-0.089178
+an.com                        ||	-0.089052
+sx.com                        ||	-0.088830
+hhhh.com                      ||	-0.088697
+aas.com                       ||	-0.088662
+aaas.com                      ||	-0.088655
+eee.com                       ||	-0.088359
+.rrom                         ||	-0.088194
+ie.com                        ||	-0.088112
+r.r.com                       ||	-0.088039
+tii.com                       ||	-0.088038
+aaaaa.com                     ||	-0.088011
+eeee.com                      ||	-0.088002
+weey.com                      ||	-0.087998
+ii.com                        ||	-0.087801
+ii.com                        ||	-0.087801
+aaa.com                       ||	-0.087603
+dda.com                       ||	-0.086935
+rruuu.com                     ||	-0.085564
+nnnn.com                      ||	-0.085078
+xix.com                       ||	-0.084913
+rrr.com                       ||	-0.084363
+rrr.com                       ||	-0.084363
+brrr.com                      ||	-0.082480
+ppppppp.com                   ||	-0.081382
+rrrr.com                      ||	-0.080927
+rbrrr.com                     ||	-0.079538
+yssaaaxxxxxxxxxxxxxxxxxxxxxxxx||	-0.005232
+sssssaxxxxxxxxxxxxxxxxxxxxxxxx||	0.117068
+swiyyhexxxxxxxxxxxxxxxxxxxxxxx||	0.133711
+sssssexxxxxxxxxxxxxxxxxxxxxxxx||	0.296996
+sssssexxxxxxxxxxxxxxxxxxxxxxxx||	0.296996
+ssssseexxxxxxxxxxxxxxxxxxxxxxx||	0.310187
+ssssseexxxxxxxxxxxxxxxxxxxxxxx||	0.310187
+ssssseexxxxxxxxxxxxxxxxxxxxxxx||	0.310187
+ssssseeexxxxxxxxxxxxxxxxxxxxxx||	0.340806
+gggggaaaxxxxxxxxxxxxxxxxxxxxxx||	0.706507
+ttrnniettxxxxxxxxxxxxxxxxxxxxx||	0.744392
+rrrrutttttxxxxxxxxxxxxxxxxxxxx||	0.747836
+rrrrrtttttxxxxxxxxxxxxxxxxxxxx||	0.752022
+rrrrrtttttxxxxxxxxxxxxxxxxxxxx||	0.752022
+nssssxxxxxxxxxxxxxxxxxxxxxxxxx||	0.753793
+ssssssxxxxxxxxxxxxxxxxxxxxxxxx||	0.753894
+ssssssxxxxxxxxxxxxxxxxxxxxxxxx||	0.753894
+rrrrrrtttttxxxxxxxxxxxxxxxxxxx||	0.757103
+rrrrrrtttttxxxxxxxxxxxxxxxxxxx||	0.757103
+brrrrtttttxxxxxxxxxxxxxxxxxxxx||	0.757548
+kneruttttxxxxxxxxxxxxxxxxxxxxx||	0.758558
+rrrrerttttxxxxxxxxxxxxxxxxxxxx||	0.758645
+orrrttttttxxxxxxxxxxxxxxxxxxxx||	0.759844
+ngguuttttxxxxxxxxxxxxxxxxxxxxx||	0.760014
+irrrrtttttxxxxxxxxxxxxxxxxxxxx||	0.761272
+kxuuuttttxxxxxxxxxxxxxxxxxxxxx||	0.761554
+aurrrtttttxxxxxxxxxxxxxxxxxxxx||	0.761923
+frrrrrtttttxxxxxxxxxxxxxxxxxxx||	0.762327
+bbrrrtttttxxxxxxxxxxxxxxxxxxxx||	0.763098
+u.urttttttxxxxxxxxxxxxxxxxxxxx||	0.764352
+rrrreetttxxxxxxxxxxxxxxxxxxxxx||	0.764706
+nnrrrtttttxxxxxxxxxxxxxxxxxxxx||	0.765371
+nnntrrttttxxxxxxxxxxxxxxxxxxxx||	0.765429
+rrrrrrrtttttxxxxxxxxxxxxxxxxxx||	0.765547
+aarrrrtttttxxxxxxxxxxxxxxxxxxx||	0.765713
+ttnnntttxxxxxxxxxxxxxxxxxxxxxx||	0.765933
+ttnnntttxxxxxxxxxxxxxxxxxxxxxx||	0.765933
+jjjjrrrtttttxxxxxxxxxxxxxxxxxx||	0.766670
+ihrrrrtttttxxxxxxxxxxxxxxxxxxx||	0.767315
+bbburrttttxxxxxxxxxxxxxxxxxxxx||	0.767462
+riiburrttttxxxxxxxxxxxxxxxxxxx||	0.767630
+nnnurttttxxxxxxxxxxxxxxxxxxxxx||	0.769119
+nukktttxxxxxxxxxxxxxxxxxxxxxxx||	0.769470
+nnunuuttttxxxxxxxxxxxxxxxxxxxx||	0.770434
+kkkkkktxxxxxxxxxxxxxxxxxxxxxxx||	0.771307
+ennnrrrtttttxxxxxxxxxxxxxxxxxx||	0.771433
+srruuttttxxxxxxxxxxxxxxxxxxxxx||	0.771732
+ddarrrttttxxxxxxxxxxxxxxxxxxxx||	0.771754
+yrrrrrrtttttxxxxxxxxxxxxxxxxxx||	0.772543
+eeenrrttttxxxxxxxxxxxxxxxxxxxx||	0.772580
+dtrrrrrtttttxxxxxxxxxxxxxxxxxx||	0.772624
+uiirtrrttttxxxxxxxxxxxxxxxxxxx||	0.772745
+eeeerrttttxxxxxxxxxxxxxxxxxxxx||	0.774879
+eeeerrttttxxxxxxxxxxxxxxxxxxxx||	0.774879
+nuuuttttxxxxxxxxxxxxxxxxxxxxxx||	0.775097
+nuuuttttxxxxxxxxxxxxxxxxxxxxxx||	0.775097
+iaieerrttttxxxxxxxxxxxxxxxxxxx||	0.775355
+eeeerrrttttxxxxxxxxxxxxxxxxxxx||	0.775658
+eeeerrrttttxxxxxxxxxxxxxxxxxxx||	0.775658
+.ruuttttttxxxxxxxxxxxxxxxxxxxx||	0.775959
+hrrnrttttxxxxxxxxxxxxxxxxxxxxx||	0.776030
+rnnnnnrrttttxxxxxxxxxxxxxxxxxx||	0.776072
+akktrrrttttxxxxxxxxxxxxxxxxxxx||	0.776881
+ndeeerrttttxxxxxxxxxxxxxxxxxxx||	0.777378
+u.nuttttttxxxxxxxxxxxxxxxxxxxx||	0.777528
+eerrttttxxxxxxxxxxxxxxxxxxxxxx||	0.777575
+ukkkkrrttttxxxxxxxxxxxxxxxxxxx||	0.778113
+feierrrttttxxxxxxxxxxxxxxxxxxx||	0.778321
+beebbrrttttxxxxxxxxxxxxxxxxxxx||	0.779076
+ttrrrrtttttxxxxxxxxxxxxxxxxxxx||	0.780168
+ttrrrrtttttxxxxxxxxxxxxxxxxxxx||	0.780168
+vrrrrrrrtttttxxxxxxxxxxxxxxxxx||	0.780300
+ttttttxxxxxxxxxxxxxxxxxxxxxxxx||	0.780753
+ykrryrrttttxxxxxxxxxxxxxxxxxxx||	0.780984
+aannnrrttttxxxxxxxxxxxxxxxxxxx||	0.781105
+uuurtttttxxxxxxxxxxxxxxxxxxxxx||	0.781221
+iifabbrrttttxxxxxxxxxxxxxxxxxx||	0.782514
+bbbbbrrttttxxxxxxxxxxxxxxxxxxx||	0.782596
+aaurrrtttttxxxxxxxxxxxxxxxxxxx||	0.782726
+eeennnrtttxxxxxxxxxxxxxxxxxxxx||	0.783001
+eeiihrrrttttxxxxxxxxxxxxxxxxxx||	0.783193
+applrrtttxxxxxxxxxxxxxxxxxxxxx||	0.783947
+kkkkklxxxxxxxxxxxxxxxxxxxxxxxx||	0.784293
+bbnuurrtttttxxxxxxxxxxxxxxxxxx||	0.784746
+miieeexxxxxxxxxxxxxxxxxxxxxxxx||	0.785172
+eeennnrrttttxxxxxxxxxxxxxxxxxx||	0.785376
+kkueerrttttxxxxxxxxxxxxxxxxxxx||	0.785646
+bbnnnrrttttxxxxxxxxxxxxxxxxxxx||	0.786234
+nnaaarrrttttxxxxxxxxxxxxxxxxxx||	0.786339
+nnaaarrrttttxxxxxxxxxxxxxxxxxx||	0.786339
+nnbbrrttttxxxxxxxxxxxxxxxxxxxx||	0.786600
+auuurttttxxxxxxxxxxxxxxxxxxxxx||	0.786726
+nnnnnnrrttttxxxxxxxxxxxxxxxxxx||	0.787134
+nnnnnnrrttttxxxxxxxxxxxxxxxxxx||	0.787134
+nnnnnnrrttttxxxxxxxxxxxxxxxxxx||	0.787134
+rddnnrtttxxxxxxxxxxxxxxxxxxxxx||	0.787250
+buuuuttttxxxxxxxxxxxxxxxxxxxxx||	0.787967
+sbbbtrrttttxxxxxxxxxxxxxxxxxxx||	0.788361
+.rtttttttxxxxxxxxxxxxxxxxxxxxx||	0.788406
+tuuuttttxxxxxxxxxxxxxxxxxxxxxx||	0.788718
+dnnnnrrttttxxxxxxxxxxxxxxxxxxx||	0.788898
+uubrrrtttttxxxxxxxxxxxxxxxxxxx||	0.788950
+inrrrttttxxxxxxxxxxxxxxxxxxxxx||	0.789074
+jjyrrttttxxxxxxxxxxxxxxxxxxxxx||	0.789186
+crrrrttttttxxxxxxxxxxxxxxxxxxx||	0.789482
+llrrrttttxxxxxxxxxxxxxxxxxxxxx||	0.789601
+eeflferrttttxxxxxxxxxxxxxxxxxx||	0.790146
+kkkkkysxxxxxxxxxxxxxxxxxxxxxxx||	0.790300
+a.duttttttxxxxxxxxxxxxxxxxxxxx||	0.790813
+iiiirnrrttttxxxxxxxxxxxxxxxxxx||	0.791167
+nnnnrrttttxxxxxxxxxxxxxxxxxxxx||	0.792028
+nnnnrrttttxxxxxxxxxxxxxxxxxxxx||	0.792028
+iiinnnrrttttxxxxxxxxxxxxxxxxxx||	0.792305
+lppnnnrrttttxxxxxxxxxxxxxxxxxx||	0.792760
+nnnutttxxxxxxxxxxxxxxxxxxxxxxx||	0.793714
+.ettttttxxxxxxxxxxxxxxxxxxxxxx||	0.794779
+iinnnrrttttxxxxxxxxxxxxxxxxxxx||	0.795012
+saannrrttttxxxxxxxxxxxxxxxxxxx||	0.795249
+juuaaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.795619
+dwgffeerrttttxxxxxxxxxxxxxxxxx||	0.795658
+nnttttxxxxxxxxxxxxxxxxxxxxxxxx||	0.795751
+.nttttttxxxxxxxxxxxxxxxxxxxxxx||	0.795891
+kgkiissxxxxxxxxxxxxxxxxxxxxxxx||	0.796288
+tteerrttttxxxxxxxxxxxxxxxxxxxx||	0.796596
+dppppxrrttttxxxxxxxxxxxxxxxxxx||	0.796894
+onnkttttxxxxxxxxxxxxxxxxxxxxxx||	0.796924
+ffrrrttttxxxxxxxxxxxxxxxxxxxxx||	0.797131
+niinrrttttxxxxxxxxxxxxxxxxxxxx||	0.797178
+eeeharrrttttxxxxxxxxxxxxxxxxxx||	0.797325
+ffkyttttxxxxxxxxxxxxxxxxxxxxxx||	0.798337
+ennnnrtttxxxxxxxxxxxxxxxxxxxxx||	0.798464
+ittttxxxxxxxxxxxxxxxxxxxxxxxxx||	0.798808
+aaaerrttttxxxxxxxxxxxxxxxxxxxx||	0.799003
+s.urttttttxxxxxxxxxxxxxxxxxxxx||	0.799189
+kplbbbrrttttxxxxxxxxxxxxxxxxxx||	0.799547
+auuuttttxxxxxxxxxxxxxxxxxxxxxx||	0.800004
+9thnnrrttttxxxxxxxxxxxxxxxxxxx||	0.800108
+eeeeeerrttttxxxxxxxxxxxxxxxxxx||	0.800372
+sbbbnrrttttxxxxxxxxxxxxxxxxxxx||	0.801011
+aaaarrrttttxxxxxxxxxxxxxxxxxxx||	0.801773
+xxtxsstrrrttttxxxxxxxxxxxxxxxx||	0.801825
+deuuuuttttxxxxxxxxxxxxxxxxxxxx||	0.801897
+.rrttttttxxxxxxxxxxxxxxxxxxxxx||	0.804023
+.artttttxxxxxxxxxxxxxxxxxxxxxx||	0.805041
+uffeeeexxxxxxxxxxxxxxxxxxxxxxx||	0.805271
+aattrrrttttxxxxxxxxxxxxxxxxxxx||	0.805928
+tttxxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.806347
+6errrrtttttxxxxxxxxxxxxxxxxxxx||	0.806365
+arrrbbrrtttttxxxxxxxxxxxxxxxxx||	0.806375
+nrrrssttxxxxxxxxxxxxxxxxxxxxxx||	0.808306
+aeeeeurttttxxxxxxxxxxxxxxxxxxx||	0.808745
+fnnnnnrtttxxxxxxxxxxxxxxxxxxxx||	0.809044
+nnnzrrttttxxxxxxxxxxxxxxxxxxxx||	0.809683
+nsyeerrttttxxxxxxxxxxxxxxxxxxx||	0.810190
+rggaarrttttxxxxxxxxxxxxxxxxxxx||	0.810560
+mnssaxxxxxxxxxxxxxxxxxxxxxxxxx||	0.810572
+egghexxxxxxxxxxxxxxxxxxxxxxxxx||	0.811237
+sseerrrttttxxxxxxxxxxxxxxxxxxx||	0.811327
+wrrritttxxxxxxxxxxxxxxxxxxxxxx||	0.811335
+giiiiexxxxxxxxxxxxxxxxxxxxxxxx||	0.811670
+dhhhhrrrttttxxxxxxxxxxxxxxxxxx||	0.812165
+uuiiixxxxxxxxxxxxxxxxxxxxxxxxx||	0.812814
+annnttxxxxxxxxxxxxxxxxxxxxxxxx||	0.813488
+hweeeerrttttxxxxxxxxxxxxxxxxxx||	0.813775
+vvvvvsnnrrttttxxxxxxxxxxxxxxxx||	0.813936
+i.rrttttttxxxxxxxxxxxxxxxxxxxx||	0.814359
+ttttteexxxxxxxxxxxxxxxxxxxxxxx||	0.814691
+aaaanrrttttxxxxxxxxxxxxxxxxxxx||	0.815216
+aaaanrrttttxxxxxxxxxxxxxxxxxxx||	0.815216
+pppppalrrrttttxxxxxxxxxxxxxxxx||	0.815216
+pffftttxxxxxxxxxxxxxxxxxxxxxxx||	0.815452
+iiaaaaaxxxxxxxxxxxxxxxxxxxxxxx||	0.815709
+idbbbbabrrttttxxxxxxxxxxxxxxxx||	0.816235
+.hhtttttxxxxxxxxxxxxxxxxxxxxxx||	0.816582
+.eertttttxxxxxxxxxxxxxxxxxxxxx||	0.817568
+lhhhrrrrttttxxxxxxxxxxxxxxxxxx||	0.818391
+aanettxxxxxxxxxxxxxxxxxxxxxxxx||	0.818430
+faaaaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.818898
+nnnnnnttxxxxxxxxxxxxxxxxxxxxxx||	0.819248
+neeettxxxxxxxxxxxxxxxxxxxxxxxx||	0.819577
+nnnnnttxxxxxxxxxxxxxxxxxxxxxxx||	0.820062
+iiaaahtxxxxxxxxxxxxxxxxxxxxxxx||	0.820504
+bnnnnttxxxxxxxxxxxxxxxxxxxxxxx||	0.820573
+uupxxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.820652
+obbtttttxxxxxxxxxxxxxxxxxxxxxx||	0.820708
+xciittttxxxxxxxxxxxxxxxxxxxxxx||	0.820754
+.nnrtttttxxxxxxxxxxxxxxxxxxxxx||	0.821136
+ydiirrrttttxxxxxxxxxxxxxxxxxxx||	0.821316
+nneeesttxxxxxxxxxxxxxxxxxxxxxx||	0.821527
+zrrttttrrttttxxxxxxxxxxxxxxxxx||	0.821705
+vsrrrrhssssxxxxxxxxxxxxxxxxxxx||	0.821752
+.aeetttxxxxxxxxxxxxxxxxxxxxxxx||	0.822624
+ggeessxxxxxxxxxxxxxxxxxxxxxxxx||	0.822701
+sissbbrrrttttxxxxxxxxxxxxxxxxx||	0.822736
+stnntttxxxxxxxxxxxxxxxxxxxxxxx||	0.822993
+giiisxxxxxxxxxxxxxxxxxxxxxxxxx||	0.823083
+iiaaaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.823137
+eeeeettxxxxxxxxxxxxxxxxxxxxxxx||	0.823239
+trhhhaxxxxxxxxxxxxxxxxxxxxxxxx||	0.823650
+bbaaaaaaxxxxxxxxxxxxxxxxxxxxxx||	0.823740
+.hprtttttxxxxxxxxxxxxxxxxxxxxx||	0.824053
+liikkaxxxxxxxxxxxxxxxxxxxxxxxx||	0.824877
+ltttttxxxxxxxxxxxxxxxxxxxxxxxx||	0.825086
+hdtuuuttttxxxxxxxxxxxxxxxxxxxx||	0.825878
+wtttnnxxxxxxxxxxxxxxxxxxxxxxxx||	0.826166
+.ssttttxxxxxxxxxxxxxxxxxxxxxxx||	0.826427
+kksssktttxxxxxxxxxxxxxxxxxxxxx||	0.826690
+ytttttxxxxxxxxxxxxxxxxxxxxxxxx||	0.826812
+anaaaxxxxxxxxxxxxxxxxxxxxxxxxx||	0.826905
+.ssrtttttxxxxxxxxxxxxxxxxxxxxx||	0.826928
+aiiintxxxxxxxxxxxxxxxxxxxxxxxx||	0.826974
+eeeeeatxxxxxxxxxxxxxxxxxxxxxxx||	0.827425
+pteeexxxxxxxxxxxxxxxxxxxxxxxxx||	0.828456
+--gggiixxxxxxxxxxxxxxxxxxxxxxx||	0.828851
+jeeeeexxxxxxxxxxxxxxxxxxxxxxxx||	0.829305
+bbaaaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.829510
+dbbbbbbttxxxxxxxxxxxxxxxxxxxxx||	0.829562
+vaaaexxxxxxxxxxxxxxxxxxxxxxxxx||	0.829812
+aaattexxxxxxxxxxxxxxxxxxxxxxxx||	0.829894
+bbbbbeeeexxxxxxxxxxxxxxxxxxxxx||	0.830026
+ddxaattxxxxxxxxxxxxxxxxxxxxxxx||	0.830428
+kffpiissxxxxxxxxxxxxxxxxxxxxxx||	0.830446
+crrttttttxxxxxxxxxxxxxxxxxxxxx||	0.830700
+fnnneetxxxxxxxxxxxxxxxxxxxxxxx||	0.830787
+sssskkrrrttttxxxxxxxxxxxxxxxxx||	0.830944
+tttstxxxxxxxxxxxxxxxxxxxxxxxxx||	0.831408
+eaaeeexxxxxxxxxxxxxxxxxxxxxxxx||	0.831632
+jjfeeexxxxxxxxxxxxxxxxxxxxxxxx||	0.831649
+taaaaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.831822
+eeeaaeexxxxxxxxxxxxxxxxxxxxxxx||	0.831879
+eeeeetxxxxxxxxxxxxxxxxxxxxxxxx||	0.831966
+aiieeexxxxxxxxxxxxxxxxxxxxxxxx||	0.832574
+nnneetxxxxxxxxxxxxxxxxxxxxxxxx||	0.832578
+aaaaaxxxxxxxxxxxxxxxxxxxxxxxxx||	0.832954
+aaaaaxxxxxxxxxxxxxxxxxxxxxxxxx||	0.832954
+naanasxxxxxxxxxxxxxxxxxxxxxxxx||	0.833942
+bbbbeetxxxxxxxxxxxxxxxxxxxxxxx||	0.834378
+ppaaaexxxxxxxxxxxxxxxxxxxxxxxx||	0.834464
+ppaaaexxxxxxxxxxxxxxxxxxxxxxxx||	0.834464
+pppkeeexxxxxxxxxxxxxxxxxxxxxxx||	0.834476
+hhtttxxxxxxxxxxxxxxxxxxxxxxxxx||	0.834931
+ddddtttxxxxxxxxxxxxxxxxxxxxxxx||	0.835199
+beeeeeexxxxxxxxxxxxxxxxxxxxxxx||	0.835227
+aiiieexxxxxxxxxxxxxxxxxxxxxxxx||	0.835239
+bbbbtexxxxxxxxxxxxxxxxxxxxxxxx||	0.835251
+aaaaxxnsxxxxxxxxxxxxxxxxxxxxxx||	0.836593
+rnllhxxxxxxxxxxxxxxxxxxxxxxxxx||	0.836649
+bbaaaxxxxxxxxxxxxxxxxxxxxxxxxx||	0.836973
+aaabxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.837610
+ttaasxxxxxxxxxxxxxxxxxxxxxxxxx||	0.837644
+gggrrutttttxxxxxxxxxxxxxxxxxxx||	0.838066
+dbbaaaeexxxxxxxxxxxxxxxxxxxxxx||	0.838140
+heeeettxxxxxxxxxxxxxxxxxxxxxxx||	0.838513
+riiiibxxxxxxxxxxxxxxxxxxxxxxxx||	0.839331
+jdddbeexxxxxxxxxxxxxxxxxxxxxxx||	0.839536
+ralllxxxxxxxxxxxxxxxxxxxxxxxxx||	0.840949
+pfffxttxxxxxxxxxxxxxxxxxxxxxxx||	0.841127
+nneeeexxxxxxxxxxxxxxxxxxxxxxxx||	0.841264
+eeeeeexxxxxxxxxxxxxxxxxxxxxxxx||	0.841597
+eeeeeexxxxxxxxxxxxxxxxxxxxxxxx||	0.841597
+eeeeeexxxxxxxxxxxxxxxxxxxxxxxx||	0.841597
+kkkkkkkrrttttxxxxxxxxxxxxxxxxx||	0.841962
+aaaaaexxxxxxxxxxxxxxxxxxxxxxxx||	0.841983
+bbbiiiiaxxxxxxxxxxxxxxxxxxxxxx||	0.842038
+aiillxxxxxxxxxxxxxxxxxxxxxxxxx||	0.842129
+bbbbeeexxxxxxxxxxxxxxxxxxxxxxx||	0.842882
+niiffeeexxxxxxxxxxxxxxxxxxxxxx||	0.843362
+aaaaaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.843572
+aaaaaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.843572
+ss.nntttttxxxxxxxxxxxxxxxxxxxx||	0.843658
+aaaeeeexxxxxxxxxxxxxxxxxxxxxxx||	0.843681
+isstttxxxxxxxxxxxxxxxxxxxxxxxx||	0.843822
+deeaeexxxxxxxxxxxxxxxxxxxxxxxx||	0.844795
+.sssttxxxxxxxxxxxxxxxxxxxxxxxx||	0.844858
+xeeeeeexxxxxxxxxxxxxxxxxxxxxxx||	0.845150
+ppptiixxxxxxxxxxxxxxxxxxxxxxxx||	0.845497
+r--reexexxxxxxxxxxxxxxxxxxxxxx||	0.846335
+lllrrrrtttttxxxxxxxxxxxxxxxxxx||	0.846508
+bbbbaexxxxxxxxxxxxxxxxxxxxxxxx||	0.846573
+wwwaaarrrttttxxxxxxxxxxxxxxxxx||	0.846619
+aainxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.846633
+beeeaxxxxxxxxxxxxxxxxxxxxxxxxx||	0.846980
+haiitxxxxxxxxxxxxxxxxxxxxxxxxx||	0.847183
+nannhsxxxxxxxxxxxxxxxxxxxxxxxx||	0.847428
+uyiiiexxxxxxxxxxxxxxxxxxxxxxxx||	0.847793
+jappsxxxxxxxxxxxxxxxxxxxxxxxxx||	0.848093
+ffffaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.848486
+dddeeetxxxxxxxxxxxxxxxxxxxxxxx||	0.848910
+ksaaxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.848996
+pieeeexxxxxxxxxxxxxxxxxxxxxxxx||	0.849349
+eieerrrrrrtttttxxxxxxxxxxxxxxx||	0.849688
+iiiiieexxxxxxxxxxxxxxxxxxxxxxx||	0.849759
+nnnnxtxxxxxxxxxxxxxxxxxxxxxxxx||	0.849779
+alaaaxxxxxxxxxxxxxxxxxxxxxxxxx||	0.850937
+iiapexxxxxxxxxxxxxxxxxxxxxxxxx||	0.851353
+tppssexxxxxxxxxxxxxxxxxxxxxxxx||	0.851448
+eeeeexxxxxxxxxxxxxxxxxxxxxxxxx||	0.851588
+eeeeexxxxxxxxxxxxxxxxxxxxxxxxx||	0.851588
+eeeeexxxxxxxxxxxxxxxxxxxxxxxxx||	0.851588
+eeeeexxxxxxxxxxxxxxxxxxxxxxxxx||	0.851588
+eallnxxxxxxxxxxxxxxxxxxxxxxxxx||	0.851796
+oeeetttxxxxxxxxxxxxxxxxxxxxxxx||	0.852116
+aaaaaaaxxxxxxxxxxxxxxxxxxxxxxx||	0.852655
+beeeesxxxxxxxxxxxxxxxxxxxxxxxx||	0.853308
+eeenexxxxxxxxxxxxxxxxxxxxxxxxx||	0.853508
+eieeexxxxxxxxxxxxxxxxxxxxxxxxx||	0.853775
+dddaavxxxxxxxxxxxxxxxxxxxxxxxx||	0.854598
+ieeeexxxxxxxxxxxxxxxxxxxxxxxxx||	0.854702
+wiiiiiiaaarrrttttxxxxxxxxxxxxx||	0.854726
+iilllxxxxxxxxxxxxxxxxxxxxxxxxx||	0.855281
+eeeeixxxxxxxxxxxxxxxxxxxxxxxxx||	0.855395
+thhxbxxxxxxxxxxxxxxxxxxxxxxxxx||	0.856086
+iihhaexxxxxxxxxxxxxxxxxxxxxxxx||	0.856216
+laaaiaxxxxxxxxxxxxxxxxxxxxxxxx||	0.856314
+pihhaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.857028
+puessxxxxxxxxxxxxxxxxxxxxxxxxx||	0.857103
+ffffxaaxxxxxxxxxxxxxxxxxxxxxxx||	0.857372
+eeennxxxxxxxxxxxxxxxxxxxxxxxxx||	0.857389
+alliexxxxxxxxxxxxxxxxxxxxxxxxx||	0.857540
+eellbxxxxxxxxxxxxxxxxxxxxxxxxx||	0.859219
+iiiiaxxxxxxxxxxxxxxxxxxxxxxxxx||	0.859746
+iiiiiexxxxxxxxxxxxxxxxxxxxxxxx||	0.861199
+euuuuutttttxxxxxxxxxxxxxxxxxxx||	0.862376
+pieeexxxxxxxxxxxxxxxxxxxxxxxxx||	0.863025
+aaaasexxxxxxxxxxxxxxxxxxxxxxxx||	0.863816
+tttttrrttttxxxxxxxxxxxxxxxxxxx||	0.865094
+aaassxxxxxxxxxxxxxxxxxxxxxxxxx||	0.865122
+rsseeexxxxxxxxxxxxxxxxxxxxxxxx||	0.865514
+iiiissssxxxxxxxxxxxxxxxxxxxxxx||	0.866156
+iyrresxxxxxxxxxxxxxxxxxxxxxxxx||	0.866537
+iiiiisxxxxxxxxxxxxxxxxxxxxxxxx||	0.867058
+krtrttrrrttttxxxxxxxxxxxxxxxxx||	0.868861
+pnnnexxxxxxxxxxxxxxxxxxxxxxxxx||	0.868962
+rhhhssaxxxxxxxxxxxxxxxxxxxxxxx||	0.870351
+iiiiexxxxxxxxxxxxxxxxxxxxxxxxx||	0.870355
+nhllhnnxexxxxxxxxxxxxxxxxxxxxx||	0.870962
+nniibxxxxxxxxxxxxxxxxxxxxxxxxx||	0.871209
+nnssaasxxxxxxxxxxxxxxxxxxxxxxx||	0.871216
+hnseetxxxxxxxxxxxxxxxxxxxxxxxx||	0.871229
+uuuurutttttxxxxxxxxxxxxxxxxxxx||	0.872488
+ephjhsxxxxxxxxxxxxxxxxxxxxxxxx||	0.872495
+stseiiexxxxxxxxxxxxxxxxxxxxxxx||	0.872697
+klleesxxxxxxxxxxxxxxxxxxxxxxxx||	0.873739
+dnnnexxxxxxxxxxxxxxxxxxxxxxxxx||	0.873960
+jxjssssxxxxxxxxxxxxxxxxxxxxxxx||	0.874099
+fffffssxxxxxxxxxxxxxxxxxxxxxxx||	0.874822
+iihhiixxxxxxxxxxxxxxxxxxxxxxxx||	0.875544
+nnnnsxxxxxxxxxxxxxxxxxxxxxxxxx||	0.875636
+dddddkxxxxxxxxxxxxxxxxxxxxxxxx||	0.875714
+aaaashxxxxxxxxxxxxxxxxxxxxxxxx||	0.876627
+iiiiixxxxxxxxxxxxxxxxxxxxxxxxx||	0.876996
+iiiiixxxxxxxxxxxxxxxxxxxxxxxxx||	0.876996
+wwwtttttxxxxxxxxxxxxxxxxxxxxxx||	0.877170
+hhhaaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.877290
+aaaaaurrttttxxxxxxxxxxxxxxxxxx||	0.877846
+aaahlaxxxxxxxxxxxxxxxxxxxxxxxx||	0.878096
+tthhhtaxxxxxxxxxxxxxxxxxxxxxxx||	0.879086
+hiiiiixxxxxxxxxxxxxxxxxxxxxxxx||	0.879291
+biisssexxxxxxxxxxxxxxxxxxxxxxx||	0.880586
+xexxaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.880685
+ylaaaarrrttttxxxxxxxxxxxxxxxxx||	0.880892
+sxiiiixlaxxxxxxxxxxxxxxxxxxxxx||	0.882694
+deeesxxxxxxxxxxxxxxxxxxxxxxxxx||	0.882761
+rxxxdsxxxxxxxxxxxxxxxxxxxxxxxx||	0.882886
+yyynnrrttttxxxxxxxxxxxxxxxxxxx||	0.884090
+tttttrrrttttxxxxxxxxxxxxxxxxxx||	0.886106
+nnnpxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.887360
+eeexxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.887791
+fazz-iiixxxxxxxxxxxxxxxxxxxxxx||	0.888381
+ssuuuttttxxxxxxxxxxxxxxxxxxxxx||	0.889081
+cnnnttttxxxxxxxxxxxxxxxxxxxxxx||	0.889390
+iiisssxxxxxxxxxxxxxxxxxxxxxxxx||	0.889742
+eaaaeeeeeexxxxxxxxxxxxxxxxxxxx||	0.891041
+oiistxxxxxxxxxxxxxxxxxxxxxxxxx||	0.891729
+nnnssxxxxxxxxxxxxxxxxxxxxxxxxx||	0.892194
+iiiixxxxxxxxxxxxxxxxxxxxxxxxxx||	0.892341
+fflsssxxxxxxxxxxxxxxxxxxxxxxxx||	0.892831
+uuuuuutttttxxxxxxxxxxxxxxxxxxx||	0.894187
+uuuuuutttttxxxxxxxxxxxxxxxxxxx||	0.894187
+seeeeexxxxxxxxxxxxxxxxxxxxxxxx||	0.894983
+asiixxxxxxxxxxxxxxxxxxxxxxxxxx||	0.895280
+aalllxxxxxxxxxxxxxxxxxxxxxxxxx||	0.895612
+eeesssxxxxxxxxxxxxxxxxxxxxxxxx||	0.897741
+eeesssxxxxxxxxxxxxxxxxxxxxxxxx||	0.897741
+aasssxxxxxxxxxxxxxxxxxxxxxxxxx||	0.898073
+aasssxxxxxxxxxxxxxxxxxxxxxxxxx||	0.898073
+tttttarrrttttxxxxxxxxxxxxxxxxx||	0.898601
+uuussrrttttxxxxxxxxxxxxxxxxxxx||	0.898723
+ohhhttxxxxxxxxxxxxxxxxxxxxxxxx||	0.898985
+nnnsxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.900617
+exaxxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.900825
+hppnnxxxxxxxxxxxxxxxxxxxxxxxxx||	0.902414
+blhhbsxxxxxxxxxxxxxxxxxxxxxxxx||	0.903627
+fhhssstxxxxxxxxxxxxxxxxxxxxxxx||	0.905930
+hhhfffixxxxxxxxxxxxxxxxxxxxxxx||	0.906166
+yeeeeaxxxxxxxxxxxxxxxxxxxxxxxx||	0.910468
+lluuuttttxxxxxxxxxxxxxxxxxxxxx||	0.911042
+ttsyytxxxxxxxxxxxxxxxxxxxxxxxx||	0.913218
+glluuurttttxxxxxxxxxxxxxxxxxxx||	0.914143
+dddddsxxxxxxxxxxxxxxxxxxxxxxxx||	0.914606
+dddddxxxxxxxxxxxxxxxxxxxxxxxxx||	0.914685
+5-tttptexxxxxxxxxxxxxxxxxxxxxx||	0.915213
+illlssxxxxxxxxxxxxxxxxxxxxxxxx||	0.915693
+lllliixxxxxxxxxxxxxxxxxxxxxxxx||	0.916283
+llleeexxxxxxxxxxxxxxxxxxxxxxxx||	0.917217
+uuuuuuutttttxxxxxxxxxxxxxxxxxx||	0.917765
+snnnexxxxxxxxxxxxxxxxxxxxxxxxx||	0.923183
+nsnnsxxxxxxxxxxxxxxxxxxxxxxxxx||	0.924425
+hlllxxxxxxxxxxxxxxxxxxxxxxxxxx||	0.935481
+buttuuuuutttttxxxxxxxxxxxxxxxx||	0.935495
+hssaaaxxxxxxxxxxxxxxxxxxxxxxxx||	0.937394
+ynnnbexxxxxxxxxxxxxxxxxxxxxxxx||	0.941455
+hliiyxxxxxxxxxxxxxxxxxxxxxxxxx||	0.943270
+lllnnttxxxxxxxxxxxxxxxxxxxxxxx||	0.943349
+hhhhhiixxxxxxxxxxxxxxxxxxxxxxx||	0.948593
+llddddaxxxxxxxxxxxxxxxxxxxxxxx||	0.950764
+hhhhhnnxxxxxxxxxxxxxxxxxxxxxxx||	0.951718
+caarttttxxxxxxxxxxxxxxxxxxxxxx||	0.955134
+lelllexxxxxxxxxxxxxxxxxxxxxxxx||	0.956924
+lllllxxxxxxxxxxxxxxxxxxxxxxxxx||	0.956925
+hhhhhaxxxxxxxxxxxxxxxxxxxxxxxx||	0.963263
+bbbbssssssxxxxxxxxxxxxxxxxxxxx||	0.964043
+glllaexxxxxxxxxxxxxxxxxxxxxxxx||	0.964253
+lhhhheeerrttttxxxxxxxxxxxxxxxx||	0.973936
+yynnnnnntxxxxxxxxxxxxxxxxxxxxx||	0.982441
+lllleexxxxxxxxxxxxxxxxxxxxxxxx||	0.982781
+cihhtttxxxxxxxxxxxxxxxxxxxxxxx||	0.983018
+llllsxxxxxxxxxxxxxxxxxxxxxxxxx||	0.983671
+lllaaarrrttttxxxxxxxxxxxxxxxxx||	0.995222
+ullllrrrttttxxxxxxxxxxxxxxxxxx||	1.003541
+hjxxxxxxxxxxxxxxxxxxxxxxxxxxxx||	1.003947
+ossettxxxxxxxxxxxxxxxxxxxxxxxx||	1.018820
+cokuuttttttxxxxxxxxxxxxxxxxxxx||	1.022863
+hhhhhxnxxxxxxxxxxxxxxxxxxxxxxx||	1.028188
+caattttxxxxxxxxxxxxxxxxxxxxxxx||	1.036559
+nnyyykxxxxxxxxxxxxxxxxxxxxxxxx||	1.037057
+sssssaeerrttttxxxxxxxxxxxxxxxx||	1.049151
+klllleexxxxxxxxxxxxxxxxxxxxxxx||	1.052923
+ksssssxxxxxxxxxxxxxxxxxxxxxxxx||	1.083961
+lllllrrrttttxxxxxxxxxxxxxxxxxx||	1.101284
+lsssaaaxxxxxxxxxxxxxxxxxxxxxxx||	1.119032
+hshhhheeexxxxxxxxxxxxxxxxxxxxx||	1.122029
+lllllexxxxxxxxxxxxxxxxxxxxxxxx||	1.143357
+llllltxxxxxxxxxxxxxxxxxxxxxxxx||	1.184376
+zzznllexxxxxxxxxxxxxxxxxxxxxxx||	1.202153
+-hhhheeexxxxxxxxxxxxxxxxxxxxxx||	1.211351
+lllleetxxxxxxxxxxxxxxxxxxxxxxx||	1.230148
+ulllllttxxxxxxxxxxxxxxxxxxxxxx||	1.240391
+iwhhhssxxxxxxxxxxxxxxxxxxxxxxx||	1.267550
+ssaillllexxxxxxxxxxxxxxxxxxxxx||	1.286381
+sssaaaxxxxxxxxxxxxxxxxxxxxxxxx||	1.296813
+pdsssssxxxxxxxxxxxxxxxxxxxxxxx||	1.301967
+coaattttxxxxxxxxxxxxxxxxxxxxxx||	1.307382
+llyyyyyxxxxxxxxxxxxxxxxxxxxxxx||	1.307468
+lllllsxxxxxxxxxxxxxxxxxxxxxxxx||	1.318248
+sssssssxxxxxxxxxxxxxxxxxxxxxxx||	1.320465
+sssssssxxxxxxxxxxxxxxxxxxxxxxx||	1.320465
+sssssssxxxxxxxxxxxxxxxxxxxxxxx||	1.320465
+sssssssxxxxxxxxxxxxxxxxxxxxxxx||	1.320465
+sssssssxxxxxxxxxxxxxxxxxxxxxxx||	1.320465
+sssssssxxxxxxxxxxxxxxxxxxxxxxx||	1.320465
+assssexxxxxxxxxxxxxxxxxxxxxxxx||	1.352721
+tsssssssxxxxxxxxxxxxxxxxxxxxxx||	1.360075
+dddssssxxxxxxxxxxxxxxxxxxxxxxx||	1.390498
+disssssxxxxxxxxxxxxxxxxxxxxxxx||	1.400953
+assssseexxxxxxxxxxxxxxxxxxxxxx||	1.455431
+5viieeexxxxxxxxxxxxxxxxxxxxxxx||	1.463924
+asssssaxxxxxxxxxxxxxxxxxxxxxxx||	1.512529
+ddssnsssxxxxxxxxxxxxxxxxxxxxxx||	1.526898
+wwweeettxxxxxxxxxxxxxxxxxxxxxx||	1.545622
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx||	1.547966
+llllllxxxxxxxxxxxxxxxxxxxxxxxx||	1.558626
+llllllxxxxxxxxxxxxxxxxxxxxxxxx||	1.558626
+llllllxxxxxxxxxxxxxxxxxxxxxxxx||	1.558626
+--y----xxxxxxxxxxxxxxxxxxxxxxx||	1.684571
+lllllltxxxxxxxxxxxxxxxxxxxxxxx||	1.914947
+ssssssssxxxxxxxxxxxxxxxxxxxxxx||	1.965480
+i22222aaixxxxxxxxxxxxxxxxxxxxx||	2.082900
+0ssseessxxxxxxxxxxxxxxxxxxxxxx||	2.211696
+sssssssheexxxxxxxxxxxxxxxxxxxx||	2.297641
+yywwsssxxxxxxxxxxxxxxxxxxxxxxx||	2.533313
+sssssssssxxxxxxxxxxxxxxxxxxxxx||	2.626283

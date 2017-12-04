@@ -1,0 +1,640 @@
+llll.nnrrrrrrrrrrrrrrrrrrrrrrrr||	-2.296245
+.tteeeppppppppppppppppppppppppp||	-2.168404
+t.tvrrrrrrrrrrrrrrrrrrrrrrrrrrr||	-2.099385
+k.rreeeeeeeeeeeeppppppppppppppp||	-2.076845
+v.ttprrrrrrrrrrrrrrrrrrrrrrrrrr||	-2.017231
+y.vpppppppppppppppppppppppppppp||	-1.939918
+.ppaaappppppppppppppppppppppppp||	-1.937690
+w.eeepppppppppppppppppppppppppp||	-1.705066
+dddddddpppppppppppppppppppppppp||	-1.696532
+dddddddpppppppppppppppppppppppp||	-1.696532
+dddddddpppppppppppppppppppppppp||	-1.696532
+.pprrrrrrrrrrrrrrrrrrrrrrrrrrrr||	-1.695503
+ndddddddppppppppppppppppppppppp||	-1.666229
+..nprrrrrrrrrrrrrrrrrrrrrrrrrrr||	-1.623645
+.hrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	-1.594153
+..sssnrrrrrrrrrrrrrrrrrrrrrrrrr||	-1.576178
+.eerrrrrrrrrrrrrrrrrrrrrrrrrrrr||	-1.297401
+.eeerrrrrrrrrrrrrrrrrrrrrrrrrrr||	-1.217836
+.ddddprrrrrrrrrrrrrrrrrrrrrrrrr||	-1.107448
+hihaaaaaappppcom               ||	-0.467692
+elaaaaaaapppppcom              ||	-0.467513
+hhhddaaappppcom                ||	-0.467465
+haaaaaaaaaappppcom             ||	-0.466819
+allllaaaaaappppcom             ||	-0.466501
+laaaaaaaapppppcom              ||	-0.466337
+aaaaaaaaapppppcom              ||	-0.465706
+aaaaaaaaapppppcom              ||	-0.465706
+daaaaaaaapppppcom              ||	-0.465493
+aaaaaaaaaaappppcom             ||	-0.465462
+llllllpippcom                  ||	-0.464333
+6kaaaaaaaaaappppcom            ||	-0.460632
+-------ccom                    ||	-0.456920
+llllllccom                     ||	-0.456749
+llccccom                       ||	-0.455679
+ihhhhpaappcom                  ||	-0.453534
+thhhhhspcom                    ||	-0.452674
+--------iicom                  ||	-0.452592
+ccccm                          ||	-0.452099
+ccccm                          ||	-0.452099
+lllllccom                      ||	-0.451860
+ssssssccom                     ||	-0.448737
+l------aaaaappcom              ||	-0.445470
+bbbpppprrcom                   ||	-0.444407
+aacccom                        ||	-0.444314
+222kbbm                        ||	-0.444179
+uu-----pppcom                  ||	-0.443968
+------aaaaappcom               ||	-0.443782
+oi-----ppppcom                 ||	-0.442917
+hhhcccom                       ||	-0.442837
+hcccm                          ||	-0.442156
+aaaaaaccom                     ||	-0.442037
+ssssssscom                     ||	-0.441314
+ssssssscom                     ||	-0.441314
+cccm                           ||	-0.441298
+cccm                           ||	-0.441298
+cccom                          ||	-0.440388
+cccom                          ||	-0.440388
+cccom                          ||	-0.440388
+cccom                          ||	-0.440388
+haahhhappcom                   ||	-0.439308
+7hsuccom                       ||	-0.439191
+wcccom                         ||	-0.438748
+hhllccom                       ||	-0.438545
+icccm                          ||	-0.438438
+aaaaccom                       ||	-0.438021
+csscom                         ||	-0.438002
+pppcccom                       ||	-0.437925
+uucccom                        ||	-0.437777
+wwcccom                        ||	-0.437514
+whhhhhpapcom                   ||	-0.436878
+rcccm                          ||	-0.436789
+aaccm                          ||	-0.436481
+icccom                         ||	-0.435185
+hssssscom                      ||	-0.433874
+cwwscom                        ||	-0.433763
+ncccom                         ||	-0.433165
+ncccom                         ||	-0.433165
+aaaaavvvcom                    ||	-0.432599
+aaccom                         ||	-0.432380
+ptttaarcom                     ||	-0.432241
+cacom                          ||	-0.432206
+uicccom                        ||	-0.431229
+ylldccom                       ||	-0.430202
+cwwwcom                        ||	-0.429618
+ooco                           ||	-0.429281
+xllccom                        ||	-0.428550
+ccm                            ||	-0.428209
+gggccom                        ||	-0.428121
+yhhhpppppcom                   ||	-0.427544
+ww----nnncom                   ||	-0.427339
+iiicccom                       ||	-0.427130
+vccom                          ||	-0.426532
+vwccom                         ||	-0.425464
+gccom                          ||	-0.425090
+ssscom                         ||	-0.424335
+ccom                           ||	-0.424184
+ccom                           ||	-0.424184
+ccom                           ||	-0.424184
+fbbccom                        ||	-0.423151
+bppppccom                      ||	-0.422605
+...rrrom                       ||	-0.421981
+twwccom                        ||	-0.420658
+dccom                          ||	-0.420344
+u...uum                        ||	-0.420065
+avvllvnvcom                    ||	-0.419771
+wwwwccom                       ||	-0.419594
+..uuuom                        ||	-0.419128
+llllrrcom                      ||	-0.418930
+.c.com                         ||	-0.418730
+uuuuuccom                      ||	-0.418508
+ccrrom                         ||	-0.418504
+tcaom                          ||	-0.418437
+.h..com                        ||	-0.418303
+t.hhhhhrcom                    ||	-0.418181
+flddccom                       ||	-0.417801
+..ddom                         ||	-0.417431
+isssssrcom                     ||	-0.416957
+dviciicom                      ||	-0.416825
+...com                         ||	-0.416805
+...com                         ||	-0.416805
+...com                         ||	-0.416805
+...rom                         ||	-0.416328
+ppppccom                       ||	-0.416247
+                               ||	-0.416201
+                               ||	-0.416201
+                               ||	-0.416201
+vvavvvvrcom                    ||	-0.415831
+esiaaavcom                     ||	-0.415698
+...gom                         ||	-0.415609
+....om                         ||	-0.415298
+....om                         ||	-0.415298
+....om                         ||	-0.415298
+evvvvvvcom                     ||	-0.415265
+9-oom                          ||	-0.414512
+sssssrrcom                     ||	-0.414263
+...gm                          ||	-0.413854
+.u.cm                          ||	-0.413783
+uuuu.om                        ||	-0.413598
+bmmmm                          ||	-0.413527
+oooom                          ||	-0.413508
+m                              ||	-0.413275
+lcom                           ||	-0.413057
+...om                          ||	-0.412934
+...om                          ||	-0.412934
+...om                          ||	-0.412934
+...om                          ||	-0.412934
+...om                          ||	-0.412934
+...om                          ||	-0.412934
+...om                          ||	-0.412934
+mmm                            ||	-0.412915
+mmm                            ||	-0.412915
+mmm                            ||	-0.412915
+mmm                            ||	-0.412915
+mmm                            ||	-0.412915
+l---ppprrrcom                  ||	-0.412625
+c..com                         ||	-0.412224
+r..uom                         ||	-0.412184
+p..com                         ||	-0.412087
+r...om                         ||	-0.412047
+bmmm                           ||	-0.411769
+mm                             ||	-0.411543
+dsiscom                        ||	-0.411512
+...m                           ||	-0.411388
+bbgbwwcom                      ||	-0.411249
+eeuccom                        ||	-0.411166
+..oom                          ||	-0.411051
+.ccom                          ||	-0.410870
+gggcom                         ||	-0.410681
+.eiecom                        ||	-0.410675
+.kk.om                         ||	-0.410249
+jseeccom                       ||	-0.410054
+ihgsvcom                       ||	-0.410040
+com                            ||	-0.409931
+..om                           ||	-0.409818
+..om                           ||	-0.409818
+..om                           ||	-0.409818
+..om                           ||	-0.409818
+..om                           ||	-0.409818
+but.com                        ||	-0.409356
+2iiianncom                     ||	-0.409192
+e.c.om                         ||	-0.408828
+k..mm                          ||	-0.408755
+eeeccom                        ||	-0.408710
+l..rom                         ||	-0.408707
+pp.rrrom                       ||	-0.408577
+-huuu.rrom                     ||	-0.408498
+h.d.com                        ||	-0.408431
+erpp..uom                      ||	-0.408256
+w..om                          ||	-0.408174
+cggggggom                      ||	-0.408038
+eeesssscom                     ||	-0.407826
+tttt.om                        ||	-0.407683
+ue..om                         ||	-0.407227
+rsbbbcom                       ||	-0.407177
+l..oom                         ||	-0.406999
+tttttt.om                      ||	-0.406905
+tttttt.om                      ||	-0.406905
+u.om                           ||	-0.406889
+hh..com                        ||	-0.406837
+e..eom                         ||	-0.406792
+dda..rom                       ||	-0.406668
+f..om                          ||	-0.406408
+.goom                          ||	-0.406123
+vvvvvvs.om                     ||	-0.406070
+tttpcom                        ||	-0.405674
+aa..n.om                       ||	-0.405654
+t.om                           ||	-0.405549
+9ddddddcom                     ||	-0.405461
+vd..om                         ||	-0.405199
+tn..om                         ||	-0.405045
+ssoom                          ||	-0.404868
+aaaaarrcom                     ||	-0.404714
+iirr..om                       ||	-0.404576
+gi.rrrom                       ||	-0.404402
+uwwwwwwsnrcom                  ||	-0.404250
+uuuuucom                       ||	-0.404235
+n.r.om                         ||	-0.404025
+ommm                           ||	-0.404013
+wom                            ||	-0.403876
+.rom                           ||	-0.403810
+doooom                         ||	-0.403686
+hh..om                         ||	-0.403617
+svw.cm                         ||	-0.403477
+wwwwttcom                      ||	-0.403433
+ggggh.om                       ||	-0.403386
+tttntt.om                      ||	-0.403232
+.ooom                          ||	-0.403161
+aooom                          ||	-0.403102
+.o                             ||	-0.402792
+zzmm                           ||	-0.402721
+slnncom                        ||	-0.402590
+ct.om                          ||	-0.402576
+omm                            ||	-0.402450
+omm                            ||	-0.402450
+omm                            ||	-0.402450
+ee..om                         ||	-0.402331
+ne.rrrrrom                     ||	-0.402015
+.oo                            ||	-0.401896
+ss..om                         ||	-0.401708
+ssccrrrrom                     ||	-0.401661
+eecom                          ||	-0.401292
+nnvvvvvcom                     ||	-0.401207
+a.rrom                         ||	-0.401134
+nn..om                         ||	-0.400891
+iii..om                        ||	-0.400866
+kkdd..om                       ||	-0.400756
+kkkkkvv.com                    ||	-0.400430
+ccs.om                         ||	-0.400297
+drr.om                         ||	-0.400272
+crrr.om                        ||	-0.400065
+s.om                           ||	-0.399881
+cgngom                         ||	-0.399695
+ii.r.om                        ||	-0.399677
+see..om                        ||	-0.399548
+bgggggom                       ||	-0.399461
+wwwwiicom                      ||	-0.399380
+ffffvvcom                      ||	-0.399370
+e.om                           ||	-0.399240
+ppppp.om                       ||	-0.399189
+sssdd..om                      ||	-0.399097
+sss..om                        ||	-0.399094
+--.om                          ||	-0.398936
+kkk.om                         ||	-0.398922
+pppppp.om                      ||	-0.398777
+i.om                           ||	-0.398631
+iiiia.com                      ||	-0.398613
+oom                            ||	-0.398374
+oom                            ||	-0.398374
+oom                            ||	-0.398374
+rrcom                          ||	-0.398346
+iii.rrrom                      ||	-0.398234
+pzp.om                         ||	-0.398142
+dlllddddcom                    ||	-0.398005
+ddddddtcom                     ||	-0.397967
+pggggom                        ||	-0.397890
+ddjyy.om                       ||	-0.397756
+wyuuuom                        ||	-0.397705
+e.oom                          ||	-0.397678
+aaaat.om                       ||	-0.397659
+eeelcom                        ||	-0.397511
+lllllrrom                      ||	-0.397387
+bbbbbom                        ||	-0.397364
+opoom                          ||	-0.397237
+s.oom                          ||	-0.397210
+rll.om                         ||	-0.397209
+teecom                         ||	-0.397138
+eeecom                         ||	-0.396872
+yoom                           ||	-0.396631
+otom                           ||	-0.396440
+lll.lp.om                      ||	-0.396074
+scss.om                        ||	-0.395798
+rrrrrcom                       ||	-0.395683
+rrrrrrom                       ||	-0.395602
+erreep.om                      ||	-0.395476
+ppgggom                        ||	-0.395469
+nnnaaa.om                      ||	-0.395305
+wwwwwwwwwwncom                 ||	-0.395151
+ouom                           ||	-0.395114
+yyoom                          ||	-0.395036
+aaaa.com                       ||	-0.394971
+aaaa.com                       ||	-0.394971
+jllliircom                     ||	-0.394920
+bbbboom                        ||	-0.394793
+sssdddddcom                    ||	-0.394765
+eiiiii.om                      ||	-0.394716
+aaaaaa.com                     ||	-0.394714
+cii.com                        ||	-0.394604
+vrrrrcom                       ||	-0.394492
+gdnnssscom                     ||	-0.394464
+niiicom                        ||	-0.394434
+weeeevvcom                     ||	-0.394027
+kkkpvvrcom                     ||	-0.393921
+foom                           ||	-0.393802
+aaaaai.com                     ||	-0.393778
+rrrrcrrom                      ||	-0.393746
+uuoom                          ||	-0.393628
+ahhaa.com                      ||	-0.393517
+iddddzcom                      ||	-0.393478
+ihhhhdhh.om                    ||	-0.393174
+eeeeessscom                    ||	-0.393067
+itiiii.om                      ||	-0.393028
+wii--rrrcom                    ||	-0.392612
+noom                           ||	-0.392517
+llll.om                        ||	-0.392438
+nnntttcom                      ||	-0.392364
+cuuuss.om                      ||	-0.392362
+eeecrom                        ||	-0.392159
+zzzzzz.om                      ||	-0.392090
+iwwwwwrrcom                    ||	-0.391418
+rsssuuom                       ||	-0.391399
+rrnrrrom                       ||	-0.391397
+bcrrrom                        ||	-0.391040
+eeeeee.om                      ||	-0.390456
+iiiwddddcom                    ||	-0.390453
+-nsssss.com                    ||	-0.390387
+npnn.nom                       ||	-0.390366
+nuuuhhnom                      ||	-0.390102
+kkssss.om                      ||	-0.389576
+eeeeeee.om                     ||	-0.389516
+gggeeeeee.om                   ||	-0.389370
+eeeecrom                       ||	-0.389309
+-ppppperrcom                   ||	-0.389230
+eieeecom                       ||	-0.389210
+fpnppeeeee.om                  ||	-0.388558
+kkoom                          ||	-0.388493
+vgiiigrcom                     ||	-0.388428
+lllaaa.com                     ||	-0.388390
+jooggm                         ||	-0.388373
+oll.om                         ||	-0.387869
+niiiiicom                      ||	-0.387846
+naarrrcom                      ||	-0.387702
+sssss.com                      ||	-0.387330
+lflll.rcom                     ||	-0.387073
+srrrrrom                       ||	-0.386999
+eeeeenrrcom                    ||	-0.386656
+iiiiiircom                     ||	-0.386253
+iiiiiircom                     ||	-0.386253
+nnnnnccom                      ||	-0.386249
+ysssssss.com                   ||	-0.385200
+lrroom                         ||	-0.384879
+soss.om                        ||	-0.384764
+ppppeiirrcom                   ||	-0.384668
+iiiiiinrrcom                   ||	-0.384598
+iiiikkkkcom                    ||	-0.383566
+ssssssha.com                   ||	-0.383543
+ennnncom                       ||	-0.383398
+hhsssss.com                    ||	-0.383239
+fkkkoom                        ||	-0.382738
+nnninnrcom                     ||	-0.381404
+aeeieoom                       ||	-0.380180
+llllllvaaa.com                 ||	-0.380047
+nnnnnnrcom                     ||	-0.380045
+annnnncom                      ||	-0.379269
+ynnnnnncom                     ||	-0.378879
+lelnnnncom                     ||	-0.376220
+tttttttsppppppppppppppppppppppp||	-0.117572
+nnttnnnpppppppppppppppppppppppp||	-0.099445
+tttttteeppppppppppppppppppppppp||	-0.082605
+ttttttdpppppppppppppppppppppppp||	-0.080427
+ttttttppppppppppppppppppppppppp||	-0.076048
+tttnppppppppppppppppppppppppppp||	-0.070701
+kkttttspppppppppppppppppppppppp||	-0.068556
+tttteeepppppppppppppppppppppppp||	-0.066674
+ettteeppppppppppppppppppppppppp||	-0.063932
+tttttpppppppppppppppppppppppppp||	-0.062923
+tnnntsvpppppppppppppppppppppppp||	-0.062041
+ijttipppppppppppppppppppppppppp||	-0.059220
+kkkkkkkkeeepppppppppppppppppppp||	-0.058118
+uuueeeppppppppppppppppppppppppp||	-0.057065
+tiiiiiddppppppppppppppppppppppp||	-0.055490
+uuuuupppppppppppppppppppppppppp||	-0.055438
+iutttpppppppppppppppppppppppppp||	-0.055241
+tiiieeppppppppppppppppppppppppp||	-0.053203
+epppppnnppppppppppppppppppppppp||	-0.052478
+bttiiiepppppppppppppppppppppppp||	-0.052110
+tieeeeeeppppppppppppppppppppppp||	-0.051909
+bbeeennpppppppppppppppppppppppp||	-0.049460
+teeeeeppppppppppppppppppppppppp||	-0.048183
+ssnnnnppppppppppppppppppppppppp||	-0.046741
+ttttassappppppppppppppppppppppp||	-0.046559
+uggeeeepppppppppppppppppppppppp||	-0.046016
+ippnnpppppppppppppppppppppppppp||	-0.043449
+pniihpipppppppppppppppppppppppp||	-0.040358
+prrtdddpppppppppppppppppppppppp||	-0.040171
+gnneeeppppppppppppppppppppppppp||	-0.039045
+srrreeppppppppppppppppppppppppp||	-0.037787
+nnppppppppppppppppppppppppppppp||	-0.036957
+rrritaapppppppppppppppppppppppp||	-0.036926
+nlrrreepppppppppppppppppppppppp||	-0.036809
+fgrrrrrpppppppppppppppppppppppp||	-0.034115
+uuesepppppppppppppppppppppppppp||	-0.031928
+pppdrrppppppppppppppppppppppppp||	-0.031147
+nnnpppppppppppppppppppppppppppp||	-0.029429
+kkkkkaapppppppppppppppppppppppp||	-0.029363
+hhiiiiidppppppppppppppppppppppp||	-0.028197
+faannnppppppppppppppppppppppppp||	-0.027076
+anpppeepppppppppppppppppppppppp||	-0.026759
+lttddddeppppppppppppppppppppppp||	-0.025808
+rrrpppppppppppppppppppppppppppp||	-0.025141
+tpppppppppppppppppppppppppppppp||	-0.024524
+rrhbddddppppppppppppppppppppppp||	-0.023709
+gggeepppppppppppppppppppppppppp||	-0.023098
+pprrrsspppppppppppppppppppppppp||	-0.022776
+dhieteepppppppppppppppppppppppp||	-0.022200
+epppppppppppppppppppppppppppppp||	-0.019646
+upggppppppppppppppppppppppppppp||	-0.016584
+ggddddppppppppppppppppppppppppp||	-0.016513
+iiiippepppppppppppppppppppppppp||	-0.016182
+ppppppppppppppppppppppppppppppp||	-0.014983
+ppppppppppppppppppppppppppppppp||	-0.014983
+ppppppppppppppppppppppppppppppp||	-0.014983
+iliiiiddppppppppppppppppppppppp||	-0.011635
+dphhppeeppppppppppppppppppppppp||	-0.011374
+dnaannnappppppppppppppppppppppp||	-0.011330
+raanddppppppppppppppppppppppppp||	-0.010673
+dpppppppppppppppppppppppppppppp||	-0.009424
+hhhiipipppppppppppppppppppppppp||	-0.008644
+nnpnnnppppppppppppppppppppppppp||	-0.008516
+apeeeeppppppppppppppppppppppppp||	-0.008370
+lldddnnpppppppppppppppppppppppp||	-0.008203
+seeeppppppppppppppppppppppppppp||	-0.007598
+iiiinsspppppppppppppppppppppppp||	-0.007539
+wwwiiiiiipppppppppppppppppppppp||	-0.007105
+vrtdleepppppppppppppppppppppppp||	-0.005268
+siiiiiddppppppppppppppppppppppp||	-0.005174
+ne-nnpppppppppppppppppppppppppp||	-0.004128
+aiiiieepppppppppppppppppppppppp||	-0.003720
+wrrreeppppppppppppppppppppppppp||	-0.003197
+eeenpaapppppppppppppppppppppppp||	-0.002919
+fpfffpppppppppppppppppppppppppp||	-0.002760
+eepppraappppppppppppppppppppppp||	-0.002293
+iiiiiiiippppppppppppppppppppppp||	-0.001955
+iuuhhhhhppppppppppppppppppppppp||	-0.001001
+nnnsssspppppppppppppppppppppppp||	0.000445
+iiiiiiiiipppppppppppppppppppppp||	0.002135
+fffffpepppppppppppppppppppppppp||	0.004741
+vkkkeeeeppppppppppppppppppppppp||	0.004952
+noddddppppppppppppppppppppppppp||	0.006092
+ppeeeeeeeeppppppppppppppppppppp||	0.007247
+dzzztttvppppppppppppppppppppppp||	0.007328
+ennevsppppppppppppppppppppppppp||	0.007580
+innnnnppppppppppppppppppppppppp||	0.008896
+ybgpppppppppppppppppppppppppppp||	0.009126
+nnnnnpppppppppppppppppppppppppp||	0.011244
+nnnnnpppppppppppppppppppppppppp||	0.011244
+yyypppppppppppppppppppppppppppp||	0.011349
+cnnntpppppppppppppppppppppppppp||	0.011675
+iieeeeppppppppppppppppppppppppp||	0.013745
+iiisspppppppppppppppppppppppppp||	0.016956
+gdddinnnnpppppppppppppppppppppp||	0.017106
+eeepkaaappppppppppppppppppppppp||	0.019166
+eeeeipppppppppppppppppppppppppp||	0.019302
+spppppppppppppppppppppppppppppp||	0.019725
+rrrssaapppppppppppppppppppppppp||	0.019819
+wweeeeepppppppppppppppppppppppp||	0.020542
+ttvlttppppppppppppppppppppppppp||	0.020622
+iiiiiveeppppppppppppppppppppppp||	0.021303
+ffrrreeeppppppppppppppppppppppp||	0.021663
+rreeeeppppppppppppppppppppppppp||	0.023042
+kkkkaaaaapppppppppppppppppppppp||	0.024919
+newwwwwaapppppppppppppppppppppp||	0.028084
+eaaaeeeeppppppppppppppppppppppp||	0.028934
+bhhwwweeppppppppppppppppppppppp||	0.029970
+iapdvddpppppppppppppppppppppppp||	0.031504
+aaaeeeeeppppppppppppppppppppppp||	0.040090
+nnanaaaaapppppppppppppppppppppp||	0.040822
+eeeedpppppppppppppppppppppppppp||	0.043349
+hahhpppeepppppppppppppppppppppp||	0.045479
+eeeeuddpppppppppppppppppppppppp||	0.052805
+aappppppppppppppppppppppppppppp||	0.053178
+aadddddeppppppppppppppppppppppp||	0.053568
+yiwdiaaappppppppppppppppppppppp||	0.055499
+ddtddddpppppppppppppppppppppppp||	0.056094
+neeeeeppppppppppppppppppppppppp||	0.056972
+nneeeeppppppppppppppppppppppppp||	0.057843
+wsesevepppppppppppppppppppppppp||	0.058155
+ttassddpppppppppppppppppppppppp||	0.059603
+pppppaaappppppppppppppppppppppp||	0.059811
+reeeeeepppppppppppppppppppppppp||	0.066426
+bbghapppppppppppppppppppppppppp||	0.071238
+eeeennnpppppppppppppppppppppppp||	0.075722
+aavippppppppppppppppppppppppppp||	0.075982
+essvseeeppppppppppppppppppppppp||	0.079784
+illliiiiapppppppppppppppppppppp||	0.080811
+ttaaaappppppppppppppppppppppppp||	0.083699
+dddaaaapppppppppppppppppppppppp||	0.085747
+pppaaappppppppppppppppppppppppp||	0.086486
+cgnpppppppppppppppppppppppppppp||	0.089656
+ctttttppppppppppppppppppppppppp||	0.090749
+cddiepppppppppppppppppppppppppp||	0.098823
+heeaaaapppppppppppppppppppppppp||	0.099351
+eeeeeeepppppppppppppppppppppppp||	0.102720
+uhaaaateppppppppppppppppppppppp||	0.103520
+essssdddppppppppppppppppppppppp||	0.103836
+tllldeepppppppppppppppppppppppp||	0.106353
+deeeeeppppppppppppppppppppppppp||	0.107475
+-eeeennndpppppppppppppppppppppp||	0.110752
+ygpsssppppppppppppppppppppppppp||	0.112680
+eeedddppppppppppppppppppppppppp||	0.117897
+vvviigeaapppppppppppppppppppppp||	0.124725
+eeeeeddpppppppppppppppppppppppp||	0.135828
+oraaapppppppppppppppppppppppppp||	0.136198
+-ddeeeeeppppppppppppppppppppppp||	0.136904
+pppsssssppppppppppppppppppppppp||	0.144745
+aaaappppppppppppppppppppppppppp||	0.144908
+wwwaaaapppppppppppppppppppppppp||	0.145546
+aaaaaedddpppppppppppppppppppppp||	0.145672
+eaaaaappppppppppppppppppppppppp||	0.146959
+eeeeeeeeppppppppppppppppppppppp||	0.151916
+eeeeeeeeppppppppppppppppppppppp||	0.151916
+naaaaaapppppppppppppppppppppppp||	0.154907
+awwwaaapppppppppppppppppppppppp||	0.159630
+ussssseeppppppppppppppppppppppp||	0.161371
+cyppppppppppppppppppppppppppppp||	0.161965
+tstrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.167494
+shssseepppppppppppppppppppppppp||	0.167779
+stttrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.169461
+bssaapppppppppppppppppppppppppp||	0.174532
+vtttrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.174860
+ssssppppppppppppppppppppppppppp||	0.177154
+aaaaaeppppppppppppppppppppppppp||	0.180443
+pgpgnnrrrrrrrrrrrrrrrrrrrrrrrrr||	0.180837
+saaaesepppppppppppppppppppppppp||	0.181798
+taaaaaapppppppppppppppppppppppp||	0.184348
+tegrggrrrrrrrrrrrrrrrrrrrrrrrrr||	0.188922
+aaagaleeppppppppppppppppppppppp||	0.192044
+aaaaapppppppppppppppppppppppppp||	0.193231
+kkksurrrrrrrrrrrrrrrrrrrrrrrrrr||	0.194512
+uuurrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.195505
+lllllttttpppppppppppppppppppppp||	0.197197
+bbberrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.202333
+eaaassspppppppppppppppppppppppp||	0.205736
+vveeerreppppppppppppppppppppppp||	0.206756
+caaannppppppppppppppppppppppppp||	0.208472
+cgiaaddpppppppppppppppppppppppp||	0.209841
+aaaaaadddpppppppppppppppppppppp||	0.212423
+sbbsrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.212674
+eeeeeeeeepppppppppppppppppppppp||	0.214033
+orrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.214059
+tgggarrrrrrrrrrrrrrrrrrrrrrrrrr||	0.214551
+rraarprrrrrrrrrrrrrrrrrrrrrrrrr||	0.215712
+pppprrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.217903
+bsssrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.219922
+doppppprrrrrrrrrrrrrrrrrrrrrrrr||	0.220596
+ssssnsspppppppppppppppppppppppp||	0.221448
+ssspssppppppppppppppppppppppppp||	0.225645
+ddaaaaaaapppppppppppppppppppppp||	0.225972
+ssiaaaapppppppppppppppppppppppp||	0.226052
+lllessppppppppppppppppppppppppp||	0.227344
+ruurrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.227539
+aaarrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.230059
+aaaaaaepppppppppppppppppppppppp||	0.230434
+ptlaaaaapppppppppppppppppppppp||	0.232881
+iuunnnnrrrrrrrrrrrrrrrrrrrrrrrr||	0.236265
+aaaaaaanppppppppppppppppppppppp||	0.237908
+psssssspppppppppppppppppppppppp||	0.239082
+aaaaaappppppppppppppppppppppppp||	0.240817
+dhssnrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.240894
+srrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.243497
+eeeegggprrrrrrrrrrrrrrrrrrrrrrr||	0.246548
+dhhherrrrrrrrrrrrrrrrrrrrrrrrrr||	0.247081
+-lllggrpppppppppppppppppppppppp||	0.247662
+cbbnpprrrrrrrrrrrrrrrrrrrrrrrrr||	0.249848
+cllrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.251975
+cggppprrrrrrrrrrrrrrrrrrrrrrrrr||	0.252038
+aaaalappppppppppppppppppppppppp||	0.252195
+aaaiiirrrrrrrrrrrrrrrrrrrrrrrrr||	0.253242
+vvaaaaseppppppppppppppppppppppp||	0.257571
+pyprrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.260741
+rbrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.262592
+vhssvvvpppppppppppppppppppppppp||	0.268957
+aaaaaaaeepppppppppppppppppppppp||	0.269441
+aaaaaaaeepppppppppppppppppppppp||	0.269441
+alllllppppeeppppppppppppppppppp||	0.276657
+saaaaaarapppppppppppppppppppppp||	0.285334
+aaaaaaapppppppppppppppppppppppp||	0.285510
+aaaaaaapppppppppppppppppppppppp||	0.285510
+aaaaaaapppppppppppppppppppppppp||	0.285510
+zaaerrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.287433
+ssaaaaapppppppppppppppppppppppp||	0.288529
+sssaaaapppppppppppppppppppppppp||	0.289229
+sssssaapppppppppppppppppppppppp||	0.292782
+assssaapppppppppppppppppppppppp||	0.293463
+laaaaaapppppppppppppppppppppppp||	0.294122
+saaaasspppppppppppppppppppppppp||	0.295149
+0grrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.295696
+hddhrnnrrrrrrrrrrrrrrrrrrrrrrrr||	0.296404
+llaaaaapppppppppppppppppppppppp||	0.297568
+rrrurrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.298901
+-rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.300997
+svvvsaapppppppppppppppppppppppp||	0.301181
+-lllrrlaaappppppppppppppppppppp||	0.306369
+ssssaaaappppppppppppppppppppppp||	0.315208
+sssssaaappppppppppppppppppppppp||	0.315435
+sssssssappppppppppppppppppppppp||	0.318869
+aaaaaaaappppppppppppppppppppppp||	0.324720
+aaaaaaaappppppppppppppppppppppp||	0.324720
+aaaaaaaappppppppppppppppppppppp||	0.324720
+aaaasssappppppppppppppppppppppp||	0.331248
+dddddeppppppppppppppppppppppppp||	0.335180
+cggssgrrrrrrrrrrrrrrrrrrrrrrrrr||	0.338232
+iirrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.346448
+aaaaavvappppppppppppppppppppppp||	0.356953
+ovvvvrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.363427
+knrnnrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.394338
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.404688
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.404688
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.404688
+-sssssspppppppppppppppppppppppp||	0.418342
+rrnnvvrrrrrrrrrrrrrrrrrrrrrrrrr||	0.426817
+nrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.460460
+idrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.460986
+2raaasaaaappppppppppppppppppppp||	0.501997
+weeennrrrrrrrrrrrrrrrrrrrrrrrrr||	0.544524
+nnrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.555156
+--vvvvvvppppppppppppppppppppppp||	0.589033
+dndnnnddppppppppppppppppppppppp||	0.619248
+zrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.641330
+innnnnrrrrrrrrrrrrrrrrrrrrrrrrr||	0.694009
+drrrrrrrrrrrrrrrrrrrrrrrrrrrrrr||	0.780843

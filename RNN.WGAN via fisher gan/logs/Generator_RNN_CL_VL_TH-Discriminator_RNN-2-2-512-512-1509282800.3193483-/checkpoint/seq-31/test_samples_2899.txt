@@ -1,0 +1,640 @@
+rnnnnnnnnnnssssesesessessessess||	-2.881246
+nesesyhhyssdhhhhhydyssesesesese||	-1.565495
+nssssssssssssasesesessesessesse||	-1.538321
+ikkkksssasesesessesessessessese||	-1.491957
+eggadessssesesessesessessessese||	-1.356116
+mennnnnesesesessessessessessese||	-1.324603
+nylhhhhhhhhhhhhhhyyyyyisesesese||	-1.249907
+erenebebebebebesesesessysssssss||	-1.209037
+bssssepesesessesessessessessese||	-1.180720
+rrrridesyysesessessessessessese||	-1.161429
+nfesesssssnssssssssesesesessese||	-1.153706
+eyywywyyssssyyesessessessessese||	-1.145762
+ssssssssesesesessesessessessese||	-0.988926
+rrebabiisisisisisisissississisi||	-0.975411
+hhssssesesesesssesssessesessese||	-0.974417
+yyyyyyssesessessessessessessese||	-0.941441
+eerrhessssssisisisisissisissisi||	-0.912264
+casssssssisisisisisisisisissisi||	-0.881878
+errrrerresessysysisisisisisisis||	-0.849800
+glarradapapisisisisisisyyyyisis||	-0.829864
+sesessssisissisissisissisissisi||	-0.745511
+idhhhhhhhihihipipiisisisisisisi||	-0.724440
+mmasassisissisisisisisissisisis||	-0.721218
+--------f-------sesesssssssssss||	-0.719874
+yssssspfsssisisisisisisisisisis||	-0.669606
+uopipiiiisisisisississysissysis||	-0.662109
+aaaaaaaasissisisisssissississis||	-0.637024
+cllliii---yisisisisisysisysisis||	-0.634284
+afhhhahisisisessesessessessesse||	-0.602363
+rmrnenssssssisisisisisisisissis||	-0.592591
+hahahaapasasssssssssesessesesse||	-0.589671
+eeepysassasssisisisisisisisisis||	-0.587290
+ssssasasasasasisisissisississis||	-0.556056
+eepepiphhessssesesessesysesesse||	-0.551328
+iesesesyyisisississssssssisyyis||	-0.532346
+bbfebbbbb-bisisisisisisissisisi||	-0.516579
+bhhhhhhhhhhhhhhhabasesesesesess||	-0.511565
+tssssisiisisisississisisisisisi||	-0.483208
+eeedehessssessesssesssessesesse||	-0.482489
+ishisa---sisisisisyyyyyyyysisis||	-0.474062
+nnnnpsspessesessesesessesessess||	-0.473539
+sesssesyyyisisisisisisysisisysi||	-0.459126
+arispesessessessessessessesesse||	-0.452935
+edesesississessessessessessesse||	-0.441997
+rariiisisysssssssssssssesesesse||	-0.439357
+tsssssisisisisisisisisissisisis||	-0.432660
+gawwyssssesisisisisisisyyyyisis||	-0.432358
+llllhhapisipesesesessesysesesse||	-0.419468
+yyyypapasisisisisissisisissisis||	-0.418782
+mmssssisisesesessesessessesesse||	-0.405601
+ivebessisessessessessessessesse||	-0.402371
+iiiiipipisssssssssssesisessesse||	-0.386667
+liiililiwwiwiwisissyssssssssses||	-0.383851
+bibbbbb-sssssesesesisessesysesi||	-0.378862
+aadyssssyyyisesessessessessesse||	-0.375271
+issisessssssssssssesesesessesse||	-0.371800
+ifapiisisisisssissssssssesesess||	-0.368440
+iiisisssssisisisisissessessesse||	-0.364209
+iaahaapyysysssssysissessessesse||	-0.363999
+-qhhhiwapasisesessessessessesse||	-0.356763
+aapaapissssssysisisysisisysesse||	-0.345647
+lhhhhehahiasasasysessessessesys||	-0.338884
+desihhhhishisisisisisisisisesse||	-0.338352
+rrddawhhhhhhhhesesisisisisisise||	-0.338323
+hheppepesesesessessesessessesse||	-0.335892
+nncrchesisesesesessesessessesse||	-0.331058
+ftttaasesesisisissessessessesse||	-0.321129
+aaaaaassssssssssssisysisessesse||	-0.319613
+pppipapapesesessessesessessesse||	-0.319459
+lllalhhhyyasisesesysesessesesse||	-0.317955
+bbbbffbyyyyisisesisisessesisyse||	-0.305343
+sssasissssessssessessessessesse||	-0.296701
+sfssefaa-asesesssssssessessesse||	-0.291421
+ipipiiiiiisisssssssssyisisysess||	-0.275375
+hiiirrlhhhhhisyisisesesessesess||	-0.269412
+npppplllllpssesesesesesessesess||	-0.259385
+rrripisisisisisisisisisisyyyyis||	-0.251507
+gepphhhhisisisesesesessesessess||	-0.250647
+kasesssssssesessessesessessesse||	-0.249922
+hhhiiiiididesssessessessessesse||	-0.247563
+ysyyeeyyssdd                   ||	-0.246809
+pipipipisesessissisissisissesse||	-0.243359
+bbbbebebesessessessessessesesse||	-0.242283
+frnssssssisisisisesisessessesse||	-0.236451
+gdyyssssisisisisisisisissisisis||	-0.227988
+rhhihisisisisisisysesissessesse||	-0.226316
+bbabbbbbbbbbddddu              ||	-0.224144
+lttttassesesesessesessesessesse||	-0.223733
+sssssssasysysssisssisisisisisis||	-0.223598
+sveesesssissessessessessessesse||	-0.221488
+hh-hhhhhhhesysesesesesessesesse||	-0.220861
+ om                            ||	-0.220056
+ om                            ||	-0.220056
+dpppisisisisisesessesessessesse||	-0.219919
+iydddllsssssisisisisisisisisiss||	-0.218694
+ee                             ||	-0.213781
+shhttt                         ||	-0.210500
+dssssesesessessessessessessesse||	-0.200628
+pipipipisisisisisisessessessess||	-0.197724
+afsssssesesesesssessssessessess||	-0.192257
+eiddidididd                    ||	-0.190214
+                               ||	-0.183713
+                               ||	-0.183713
+                               ||	-0.183713
+                               ||	-0.183713
+                               ||	-0.183713
+                               ||	-0.183713
+                               ||	-0.183713
+pspesesesesssessessesessessesse||	-0.181610
+rrrrz                          ||	-0.180971
+dayyyyisisissssssssisisisisissi||	-0.175552
+ogaasssissississisissisissisiss||	-0.168308
+ifiiifff                       ||	-0.167469
+hhhehhhhhhhen.com              ||	-0.165446
+occom                          ||	-0.165432
+taspasisisisisisysisisisysisess||	-0.163308
+ffffnrrsssisisisisisisesisesses||	-0.161961
+ahhisisisesssesssessessessesses||	-0.160928
+tttrwwww-----sesesesesessesesse||	-0.157954
+jjes--ssssss----sesesesysesesse||	-0.156413
+hhhyyyeyisisissisissisissisisis||	-0.155537
+g                              ||	-0.147883
+lirirssssssssesesesessesessesse||	-0.145895
+fipppididisisisisisisisessesses||	-0.144476
+a                              ||	-0.141096
+pkkvu                          ||	-0.135272
+ahhhipiyisisisisysisisisysesses||	-0.134461
+hhhhhhehipisisisesesessesessess||	-0.133648
+aarrrrdessesessessessessesesses||	-0.125343
+posasasisisisississississessess||	-0.115241
+aiiissspisisisisysisysisissisys||	-0.115084
+hddessasisisisissisisissisisiss||	-0.113945
+psssasasyyyyy-s-sisisessessesse||	-0.107120
+ninnnnpipisisisisisisisisisisys||	-0.105087
+siiiipipisipisisisisisyyyisyyys||	-0.103048
+cddppoll                       ||	-0.103003
+zzzzzstom                      ||	-0.101285
+sssspebebesesesessessessessesse||	-0.095395
+rrarisddd                      ||	-0.094058
+eesg.com                       ||	-0.090233
+gglt                           ||	-0.089054
+vvvu                           ||	-0.086273
+oom.com                        ||	-0.083674
+oom.com                        ||	-0.083674
+sssdddidindisesesesessesessesse||	-0.083616
+kevku.com                      ||	-0.083612
+revom.com                      ||	-0.081924
+orr.com                        ||	-0.081125
+eee.com                        ||	-0.078135
+orrlu.com                      ||	-0.077965
+hhwssssss--isisisisisisesysesis||	-0.076777
+bbfbbbfafafisesessessesessesses||	-0.074368
+rekeesesesesesesesssssssssysess||	-0.074352
+ulllum                         ||	-0.074063
+eeep.com                       ||	-0.073847
+eeddhessssesssisisisisisysesiss||	-0.073594
+ooomonnto.com                  ||	-0.072321
+ogut                           ||	-0.071895
+ee.com                         ||	-0.070603
+orrrt.com                      ||	-0.070008
+janjjjjjhyyyesesesesessesessess||	-0.064794
+ooo.com                        ||	-0.062478
+rrorom.com                     ||	-0.061857
+klmm                           ||	-0.061454
+ttbbabassesessesessessessesesse||	-0.061384
+tkdssasesesesessessesessessesse||	-0.058681
+ssssssssss-sisisisisisisissisis||	-0.057224
+er.com                         ||	-0.055140
+okikesssisisisissessessessesses||	-0.055072
+oo.com                         ||	-0.051713
+oo.com                         ||	-0.051713
+ddedesesesissisissisissisissess||	-0.047083
+fffffdddddhhesesesesesesesseses||	-0.042605
+seet.com                       ||	-0.042129
+hahham.com                     ||	-0.039279
+aadisissssssssssesesessessesses||	-0.038846
+ort.com                        ||	-0.035960
+vooc.com                       ||	-0.035412
+e.com                          ||	-0.034705
+svoo.com                       ||	-0.033636
+peeeeey.com                    ||	-0.033372
+ooto.com                       ||	-0.032888
+tttu                           ||	-0.031693
+phhhho.com                     ||	-0.030241
+oeo.com                        ||	-0.029282
+pppefisisesisesisysesysesessess||	-0.029225
+nneeebebesessssssssessessessess||	-0.027394
+nor.com                        ||	-0.027379
+toom.com                       ||	-0.026037
+ananppppepesesessessessessesses||	-0.025669
+oot.com                        ||	-0.023006
+ool.com                        ||	-0.021624
+ega.com                        ||	-0.021525
+ededes.com                     ||	-0.020928
+arrsssssssssssesesessesessesses||	-0.018653
+koot.com                       ||	-0.018635
+ebesssru.com                   ||	-0.017947
+rrruruluu.com                  ||	-0.016776
+ffff.com                       ||	-0.016707
+eeacom.com                     ||	-0.015446
+ppppyyyiiiiiisisissississessess||	-0.013876
+feplessl.com                   ||	-0.013413
+mom.com                        ||	-0.012536
+dddd                           ||	-0.011310
+oho.com                        ||	-0.010648
+ppipipisisisisisissessessesisse||	-0.009288
+rfee.com                       ||	-0.008725
+eefesesssssl.com               ||	-0.008476
+esesesdo.com                   ||	-0.007311
+oog.com                        ||	-0.005695
+com.com                        ||	-0.005448
+iiisisisisisssssssssssssesesses||	-0.005312
+o.com                          ||	-0.003880
+assf.com                       ||	-0.003736
+eseseessl.com                  ||	-0.003284
+asssssasassssssssssssssssdu.com||	-0.002505
+teetuu.com                     ||	-0.002218
+fffot.com                      ||	-0.001410
+ahaga.com                      ||	-0.001180
+rrrrrididdissssisesesisesisisys||	-0.000963
+sssesesesississississisissisiss||	-0.000080
+aarrrsssssyisessesessessesseses||	0.002247
+urmo.com                       ||	0.002565
+opedessssssessesesesssessessess||	0.003398
+sses.com                       ||	0.003621
+rrccomo.com                    ||	0.004063
+rkrom.com                      ||	0.004128
+sso.com                        ||	0.004732
+sso.com                        ||	0.004732
+dtomom.com                     ||	0.005662
+owr.com                        ||	0.006881
+eeeeewewllu.com                ||	0.007148
+rrrrrr.com                     ||	0.008087
+osst.com                       ||	0.008616
+fffpabfc.com                   ||	0.008804
+dooto.com                      ||	0.008856
+gocofsessssl.com               ||	0.009207
+ ir                            ||	0.010128
+ost.com                        ||	0.010905
+mmissesissessessessessessessess||	0.013686
+sddrrrrrrnnnrrtu.com           ||	0.013945
+mwwimiaasisssissisissisissisiss||	0.014190
+dedefelt.com                   ||	0.015788
+aaat.com                       ||	0.016274
+nnnnno.com                     ||	0.016483
+ouuuu.com                      ||	0.016693
+eedededdedd.com                ||	0.016789
+pppbbbesesessesessesessesessess||	0.017775
+tlslllkkpiasisesesisessesyseses||	0.017821
+rddrom.com                     ||	0.017986
+dbbbiiiiiisisysysysysississesse||	0.020509
+ssssso.com                     ||	0.020523
+eeeewwdhhhu.com                ||	0.020829
+yrll.com                       ||	0.021110
+aaa--f---s-sesssssssessessesses||	0.022684
+ilpesepepesesesesessessessesses||	0.022934
+ott.com                        ||	0.023111
+-nnnnnnnnyyyesesessesessessesse||	0.023531
+mmo.com                        ||	0.025008
+aassasasssssssessessessessesses||	0.025821
+4rrlplklllcco.com              ||	0.026992
+wwmommo.com                    ||	0.027021
+pssst.com                      ||	0.027307
+hikkkisssisesesesessessessesses||	0.027812
+ffkfkknuu.com                  ||	0.028082
+cot.com                        ||	0.028579
+rrrrr.com                      ||	0.029574
+ofaaaasssssdl.com              ||	0.031137
+geesessypissssyisisisisisessess||	0.032785
+ummom.com                      ||	0.033322
+ennttum.com                    ||	0.033471
+euwwwwwru.com                  ||	0.033499
+mmuu.com                       ||	0.033694
+sessssesesesesessessssessessess||	0.034117
+aru.com                        ||	0.034308
+sssbom.com                     ||	0.035892
+sissss.com                     ||	0.036234
+aa.com                         ||	0.037500
+aa.com                         ||	0.037500
+siassesesessssssssssssssesesess||	0.038210
+rco.com                        ||	0.038662
+aaasac.com                     ||	0.039260
+--aaan.com                     ||	0.039414
+to.com                         ||	0.039497
+to.com                         ||	0.039497
+a.com                          ||	0.039711
+a.com                          ||	0.039711
+rrgnmmo.com                    ||	0.040444
+gegi.com                       ||	0.040666
+kkkogom.com                    ||	0.040677
+eeebbbebessesssl.com           ||	0.041317
+takt.com                       ||	0.041339
+tbbbbbb-----sesesessessessesess||	0.043142
+uuom.com                       ||	0.043236
+aeeeeelo.com                   ||	0.043840
+ccoluu.com                     ||	0.046332
+hhhtt.com                      ||	0.046351
+euuo.com                       ||	0.047091
+eeaabissssst.com               ||	0.047555
+uracar.com                     ||	0.047835
+stsssysesesesessessesessessesse||	0.048451
+sssssssa.com                   ||	0.048900
+kaassgg.com                    ||	0.049208
+rarrg.com                      ||	0.049669
+ccom.com                       ||	0.049833
+ccom.com                       ||	0.049833
+.it                            ||	0.051299
+rumm.com                       ||	0.051836
+ow.com                         ||	0.052152
+oggo.com                       ||	0.052902
+ryyddyyesesesessessesessessesse||	0.053566
+asssslo.com                    ||	0.055240
+-aa.com                        ||	0.055426
+fajahho.com                    ||	0.056027
+aon.com                        ||	0.056676
+iffifisssl.com                 ||	0.057055
+kkkpg.com                      ||	0.057828
+muuuutu.com                    ||	0.058892
+p---------iiiiiaaapa--sissl.com||	0.059661
+cncco.com                      ||	0.059957
+lelooto.com                    ||	0.060678
+hyesesessessnnnl.com           ||	0.062468
+wnnnn.com                      ||	0.063367
+rpevesstto.com                 ||	0.063656
+fffwwwwllu.com                 ||	0.063862
+iiim.com                       ||	0.064205
+i.com                          ||	0.064604
+muuug.com                      ||	0.065183
+utot.com                       ||	0.065200
+rnrgmmam.com                   ||	0.065538
+rcco.com                       ||	0.067428
+ctte.com                       ||	0.067483
+cvo.com                        ||	0.067553
+cccom.com                      ||	0.067954
+ir.com                         ||	0.068670
+eiaasissnt.com                 ||	0.069167
+utoo.com                       ||	0.069485
+cco.com                        ||	0.069756
+momaasesyysysessessessessessess||	0.070116
+ssjot.com                      ||	0.070242
+rriripisisisesesessessessessess||	0.070255
+uffnu.com                      ||	0.070330
+tttom.com                      ||	0.071544
+orapesesesssssssd.com          ||	0.072200
+mutuuu.com                     ||	0.074767
+aeeeessdu.com                  ||	0.075272
+eiiapapasssssd.com             ||	0.075330
+aaaphom.com                    ||	0.076288
+nn.com                         ||	0.076334
+nn.com                         ||	0.076334
+onnnnnnt.com                   ||	0.076407
+aaaawet.com                    ||	0.076734
+teeeeeasasysssl.com            ||	0.076841
+rrrrf.com                      ||	0.077049
+slrpaparppprro.com             ||	0.078691
+e-eepesysssdu.com              ||	0.079675
+s.com                          ||	0.080872
+y-----tttt.com                 ||	0.080892
+sdyyyyyddl.com                 ||	0.081195
+ig.com                         ||	0.081855
+ii.com                         ||	0.082497
+iittom.com                     ||	0.082770
+rrir.com                       ||	0.084199
+rr.com                         ||	0.085404
+hpoom.com                      ||	0.086176
+eeeeesesisssssst.com           ||	0.086661
+snggo.com                      ||	0.086721
+mmm.com                        ||	0.087728
+gccom.com                      ||	0.088511
+bffffddddddfcom.com            ||	0.090098
+ufitipho.com                   ||	0.090194
+ddnrnn.com                     ||	0.090234
+h.com                          ||	0.090624
+iiifirm.com                    ||	0.092111
+rrhehhihesesesessssl.com       ||	0.092413
+ppppepesdu.com                 ||	0.093972
+-paappidadidiyyesssesesesyyyyy-||	0.094123
+ppppissddo.com                 ||	0.094417
+onnnsssesessesessessessessesess||	0.095346
+rmm.com                        ||	0.096130
+ppil.com                       ||	0.096459
+ga.com                         ||	0.096767
+aaaeeert.com                   ||	0.096833
+srsnnnt.com                    ||	0.099603
+gggom.com                      ||	0.099657
+trgtt.com                      ||	0.099829
+accom.com                      ||	0.101093
+conlkhasessessessessessessesses||	0.101586
+ehebe-ii-i----sissssssssssseses||	0.101991
+eeeeeebesesissssss.com         ||	0.103463
+aaasssdo.com                   ||	0.103773
+c.com                          ||	0.104700
+tmam.com                       ||	0.104734
+paaaalg.com                    ||	0.105316
+mm.com                         ||	0.106333
+pab-----sssssssesessessessesses||	0.106453
+bi.com                         ||	0.106503
+tmmm.com                       ||	0.106786
+bbbbbbibisesesessessessessesses||	0.107453
+tesesesssesssssd.com           ||	0.107901
+tppwwwdl.com                   ||	0.108006
+m.com                          ||	0.108492
+lcucou.com                     ||	0.108616
+mbppap.com                     ||	0.110200
+eeeeeeeeeeesesesssdo.com       ||	0.110542
+gag.com                        ||	0.110872
+w.com                          ||	0.111387
+kuumom.com                     ||	0.112228
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+.com                           ||	0.112983
+ssst.com                       ||	0.113049
+acocom.com                     ||	0.114545
+ttto.com                       ||	0.116520
+cato.com                       ||	0.116526
+ssssst.com                     ||	0.118811
+aaapapppototo.com              ||	0.118826
+nnniv.com                      ||	0.119806
+titatt.com                     ||	0.121160
+ivivvvvvm.com                  ||	0.121389
+eaaaaaasassssst.com            ||	0.121585
+yyaaaasasiasissdo.com          ||	0.121844
+clluu.com                      ||	0.122609
+iiiiiiiiiissn.com              ||	0.122713
+apaaaaa----s-sssssssssisysesses||	0.122932
+wlnlo.com                      ||	0.123113
+b.com                          ||	0.123930
+uuyiyiisisisisysssssssssssseses||	0.124053
+lrrhkkkesesesesessesessessesses||	0.124839
+lgeggu.com                     ||	0.125395
+nppa.com                       ||	0.127440
+ssssssss-sesesessessisisissesse||	0.127670
+jjiim.com                      ||	0.128144
+atiiisessssd.com               ||	0.129518
+i------sissdo.com              ||	0.130306
+kdtot.com                      ||	0.131214
+awaaaaasesessssl.com           ||	0.133267
+aan-nnsssssssssssisisesesyseses||	0.137178
+sassapesesessesssessessessesses||	0.137414
+cct.com                        ||	0.138494
+guuuuutut.com                  ||	0.138528
+efeeyessesesessssssssd.com     ||	0.138822
+feeewepeesesessssst.com        ||	0.139110
+rggttppppipesesesesesessesesses||	0.139826
+aatatesesesss.com              ||	0.140296
+ncca.com                       ||	0.141403
+ssssssssssesesesesesessssssesss||	0.141603
+pnntu.com                      ||	0.142298
+aiiisessnt.com                 ||	0.142556
+yeaaaayesessssdu.com           ||	0.146658
+aapapipipissssst.com           ||	0.147244
+sfisissesssssessss.com         ||	0.148123
+rrrrrrrhhed---sisesesessesesses||	0.148271
+faaaaabababasssdo.com          ||	0.149646
+nenesesssesesssssssdo.com      ||	0.150165
+u.com                          ||	0.150231
+u.com                          ||	0.150231
+aapiiiiiisisist.com            ||	0.150235
+nsg.com                        ||	0.150584
+cnntu.com                      ||	0.151188
+issisisssssdu.com              ||	0.151549
+ncc.com                        ||	0.152198
+ssssssssssssssssd.com          ||	0.153489
+iiiapesessssd.com              ||	0.153913
+cc.com                         ||	0.155062
+asseeesesysssssd.com           ||	0.155452
+dlldddedddo.com                ||	0.156107
+ddedaasassssssesesysesessessess||	0.158843
+uu.com                         ||	0.159658
+nth-------iiiisisisissssssssess||	0.160041
+llltuut.com                    ||	0.161278
+ssesesesisisisssisst.com       ||	0.161518
+isisisyyyyisisisssssssssssseses||	0.162527
+papaaapesissssssd.com          ||	0.162534
+nimomu.com                     ||	0.163578
+stt.com                        ||	0.163723
+aaaaaaaaaad.com                ||	0.165382
+aaayyyysisssd.com              ||	0.165534
+t.com                          ||	0.166974
+t.com                          ||	0.166974
+iiiiiisissdu.com               ||	0.167291
+aaaabesisssssssl.com           ||	0.167329
+mksssssisisesesessesessessesess||	0.167947
+lllamo.com                     ||	0.172490
+npnppppng.com                  ||	0.172930
+siiisisesssssssssssesessesesses||	0.174694
+faaaaaaapasssst.com            ||	0.174751
+fajiaisssisisssst.com          ||	0.174831
+gugutu.com                     ||	0.175047
+lllennessesssd.com             ||	0.175950
+isaaaasesyssdu.com             ||	0.176580
+rll-ssssssl.com                ||	0.177739
+aaaaaiisisssst.com             ||	0.179290
+salaasasesesl.com              ||	0.181091
+ttuuu.com                      ||	0.183815
+leksssssesesessessessesessesses||	0.185328
+aapessssesssssssd.com          ||	0.186574
+ztu.com                        ||	0.187169
+tfaffasasyyesesyyyisessesysesys||	0.189668
+ccinu.com                      ||	0.193578
+ieesesesesesssssss.com         ||	0.194601
+wwwwwssv.com                   ||	0.195443
+-aiia-iiiisisssd.com           ||	0.196154
+lylhluu.com                    ||	0.197709
+aaapeaaaaaaeeesessl.com        ||	0.198042
+diiisisisisisssssssyyisessesess||	0.198203
+nllltto.com                    ||	0.198871
+naaajassssdu.com               ||	0.201561
+llllluluu.com                  ||	0.202521
+tu.com                         ||	0.202821
+nnnnrrrrrrrrhhjhyesesesesesesse||	0.203153
+aaeeeyaaasesessst.com          ||	0.203983
+nnrrrrrum.com                  ||	0.204773
+aaayyyyyysssddu.com            ||	0.206060
+rllllnnnl.com                  ||	0.212980
+tt.com                         ||	0.214216
+oonbisysisssysessessessessesses||	0.214292
+hhhhhhhpssssssssssisesesesesess||	0.215523
+ttt.com                        ||	0.216463
+uiiiiiisisssd.com              ||	0.216737
+caeesesssssesssss.com          ||	0.220252
+ddddyysisesisisisisisissisisiss||	0.221140
+rrraarasasisissississisissesses||	0.223244
+bzeeefebdesssdu.com            ||	0.223602
+gg.com                         ||	0.226092
+aaaaaaaaasasssssssl.com        ||	0.228597
+rhiisisissessessessessessessess||	0.228921
+lkkkipiiapaaapaasesssst.com    ||	0.229305
+nngg.com                       ||	0.230265
+nnncc.com                      ||	0.230371
+oopebssssssesesessessessesesses||	0.232310
+rdedesesesessessessessessessess||	0.234222
+nnnnnlt.com                    ||	0.234420
+mipipiisesesesessst.com        ||	0.234883
+nnyyynnnnnnnnnt.com            ||	0.235294
+ciabibesesssssssd.com          ||	0.236222
+sesevesisysisysessessesessesses||	0.237786
+lllli.com                      ||	0.238580
+lesesesesesesesessssdu.com     ||	0.240763
+dvrlllog.com                   ||	0.241282
+dicanuuuuto.com                ||	0.242895
+tesssssesessessessessessesesses||	0.244031
+ossssssessesessessessessesesses||	0.245345
+gwvuu.com                      ||	0.247209
+ndrrnnnnlu.com                 ||	0.249101
+iiiiviwiwiiiiisisisissst.com   ||	0.250961
+pebeeesesssssssssessessessesses||	0.253919
+lssasasassisissisissessessesses||	0.259242
+liiiiiiiibissdo.com            ||	0.260268
+owrssssessesessesessessessesses||	0.260630
+eyyyysssssssssssesesessessesess||	0.263560
+dew-dwwwwwysesesessesessesseses||	0.265502
+aanaseasessssssssssd.com       ||	0.265664
+dduuu.com                      ||	0.266391
+mdgggggguuuum.com              ||	0.268322
+hhisssisisisesessessessessesses||	0.271080
+nipiiiiiiiisisisisisisd.com    ||	0.276659
+hhhheplyisesesesessesessesseses||	0.279305
+wssssbssisisisisisisisisyyyyise||	0.280656
+rrrsisiasasesesisissysesssesses||	0.281509
+bbhhhhhha----abaabi--sesysesses||	0.283029
+pegedesesssessessessessessesses||	0.296334
+lllsssssppssdsesesesesesesseses||	0.310056
+ynyyyyyyyyyysesssssdsdu.com    ||	0.312711
+snfnlesesessesessessessesessess||	0.312870
+bibbibbibibiisisisisisisysisisy||	0.313389
+lllkal-j-j--------------sysesys||	0.316385
+epi--ipipisisisyyyyyyisisissisy||	0.316976
+cssssesesesesisisisisysisisyses||	0.319562
+nn-----yyyyydyysdddhesesesesses||	0.336607
+sssnnnsssssessessesessesessesse||	0.341478
+rhhennssessessessessessessesses||	0.351266
+rrrrryyyyyesessessesssessessess||	0.355778
+bb-d-ddkkkkkyyyyesesesesesseses||	0.357612
+nnnnnnnnnnndu.com              ||	0.358314
+dsssesesessessessessessessesess||	0.358959
+csssisyyysisisesesessessesesses||	0.360154
+llllllppapapesesesessesessesses||	0.363526
+nnnnnnnnnnnuu.com              ||	0.367143
+rddddesisisesesessessessesesses||	0.380221
+nnadebesyy--sesesyyyyysessesses||	0.381779
+rabibiiiiiisisisssssssssd.com  ||	0.383941
+bpaaapapapiapi-----sisssd.com  ||	0.385420
+dod----pisisesessessessessesses||	0.390889
+rrripisssisesesessessessesesses||	0.391135
+ksssesesesesessesssssssst.com  ||	0.399775
+giiiia----------sssssssessesses||	0.432171
+phhh-sysyyyyyysyyesesesessesess||	0.439055
+ffffysssssssssyyesesesesesseses||	0.448231
+vpbibasesesesesesysessessessess||	0.449229
+gesenendysesessessesessessesses||	0.465775
+rayyyyysysessessisissisissesses||	0.475166
+annyyyyyysysessessessessesseses||	0.498082
+gttipipisisisisisisisisissesses||	0.500796
+hhh-s-ssssssyisesesesessesesses||	0.507746
+edyyyyyyyysssssssisesessesesses||	0.547437
+sssssesesesessessessessessesses||	0.558448
+llyyisysyyyyyyyyyyyyssssd.com  ||	0.564606
+ihihiiiiiiiiiyissssssssssd.com ||	0.564609
+lgssssssessesessesessesessesses||	0.568684
+aaapipipiii---sissssssssst.com ||	0.618425
+nnnnisisisesessesssessessessess||	0.633217
+hvwwwhhhhihhihihihahahassiseses||	0.639367
+ttssssssyesesesesessesessessess||	0.646906
+rrrryyyyeyesesesesssessessesses||	0.716884
+lsssssesesesessessessessesesses||	0.719639
+dggaasasyesissessessessessesses||	0.722054
+wweyesysssisysisessessessessess||	0.765921
+rrrynnnnysssesesesessesessesses||	0.780143
+twwissssissessessessessessesses||	0.784581
+ssssssssasasesisisysisisisysesy||	0.789119
+sssssss--bisisisesesyyyy-sesess||	0.801178
+ggeresesesesesessessessessesses||	0.824290
+nnnyyyayasesssessssessessessess||	0.911005
+nnnspasyesessesisysesessessesse||	1.018490
+nyyyyryrryyyysysesesessesessess||	1.054989
+wwwwwwwwsssesededdedessesessess||	1.182651
+sssssssssssesesesessessesessess||	1.229533
+nsssssssisisisisisisisisisisisy||	1.529856
+yjjyyyyyyyyabyyyyyyyyyisisisisy||	1.642046
+swwwwwpipiisesesessessessessess||	1.644309
+nddsdydesyyyyisisesessesessesse||	2.012213
+ggggawessesesessesessesessesses||	2.252250
+nnnnsysesisisisisisisissisissis||	2.373676
+nnhhhhhhhhhhehesesesesessesesse||	4.496165
+nnnnnewes-sesesesessessessesses||	4.823125
+ddddddhhendhesisisisisisisisisi||	5.012612
+nnnnnntutaasisessessessesessess||	5.840414

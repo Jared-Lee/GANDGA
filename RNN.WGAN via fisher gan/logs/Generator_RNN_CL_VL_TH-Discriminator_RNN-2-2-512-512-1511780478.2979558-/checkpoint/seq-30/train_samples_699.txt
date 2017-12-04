@@ -1,0 +1,640 @@
+cda.pl e||	-19.005777
+tvsmotor.comp||	-16.822308
+netnews.comc||	-15.349482
+fu ||	-13.991744
+c ||	-13.770448
+ ||	-13.537924
+wm ||	-13.439452
+googl ||	-13.417142
+s ||	-13.245797
+fr ||	-13.081963
+busines ||	-13.030401
+co ||	-12.971104
+business ||	-12.799733
+pr ||	-12.739122
+boatdesigns.coa||	-11.356689
+medio||	-9.749370
+gitbook.cov||	-8.853992
+opco1||	-8.763749
+2||	-8.316952
+a2||	-7.997761
+studyindia.coe||	-7.904337
+cin_||	-7.740844
+meanpat.||	-7.637709
+ayrtonsennashop.com.bri||	-7.606862
+fakeid.co.ui||	-7.427306
+gillettestadium.co.||	-7.328628
+grupounoctc.coc||	-7.136831
+fastserbia.coc||	-6.746573
+swissmedic6||	-6.739704
+openthemagaziq||	-6.568171
+airkalugax||	-5.930078
+gukbi.coc||	-5.794250
+indiamayhome.co.uka||	-5.767623
+boe||	-5.699354
+amicosvapo.itd||	-5.656658
+idc.edu.bro||	-5.441043
+shapir.iro||	-5.357014
+mikiya.gr.jp  ||	-5.337466
+german7||	-5.270915
+strem||	-4.997845
+oligarh.orge||	-4.715704
+respublik.infot||	-4.678638
+a1||	-4.659956
+wandererbracelets.co.||	-4.559834
+provokd||	-4.389977
+babymeetstheworld.con||	-4.319189
+kbsn.co.kr.||	-4.274896
+2analz||	-4.205558
+forundex.rul||	-4.181942
+citymuseum.orga||	-4.178477
+tema.namet||	-4.172554
+openehr.orc||	-4.157052
+2anaz||	-4.128478
+gx||	-3.906107
+oligarh.org.e||	-3.892285
+chrwx||	-3.704429
+jswst.goa||	-3.659961
+senaimg.com.ba||	-3.508919
+brooksgroupq||	-3.489295
+tj.gov.cnr||	-3.464271
+fuj||	-3.158992
+z||	-3.075508
+tube4u.c ||	-3.064616
+z||	-3.048697
+wmfe.o ||	-2.874993
+thv||	-2.763515
+ruta.rui||	-2.530874
+corfu.g ||	-2.443980
+kv||	-2.132614
+vreaucredb||	-2.034396
+0799.jp.||	-2.032881
+bitcomine.cy||	-1.902560
+ayrtonsennashop.com.i||	-1.896818
+terryberry.com ||	-1.677911
+lomax.dko||	-1.672304
+pandam||	-1.622173
+hibarai.||	-1.617880
+globalsc||	-1.568565
+agaclm||	-1.564289
+belgourmett||	-1.542392
+sanatoso||	-1.541001
+aveclam||	-1.532048
+opao||	-1.531971
+gayfro||	-1.468942
+aktineo||	-1.466003
+clipga.||	-1.465568
+onriono||	-1.443631
+ti.||	-1.415863
+shoppin||	-1.412753
+shoppin||	-1.412753
+ao||	-1.405049
+gayfo||	-1.387362
+drouo||	-1.371467
+vem||	-1.368408
+tho||	-1.331981
+sp.||	-1.285901
+t.||	-1.272987
+simplyrechargeo||	-1.225012
+vitarost.hu  ||	-1.148782
+ziwzx.coo||	-1.146703
+thamoj||	-1.143253
+mlaw.gov.sg   ||	-1.123869
+realtyserveo||	-1.116293
+phm||	-1.108855
+secharya.||	-1.065212
+edidata.fr  ||	-1.062642
+edidata.fr  ||	-1.062642
+ema.||	-1.062256
+k.||	-1.049048
+kirloskar-em||	-1.021577
+halfpricebano||	-1.013531
+tecd||	-1.006320
+tecd||	-1.006320
+tecnu.||	-1.004551
+mah||	-0.966674
+rishtapakista.||	-0.944552
+click4.co.il  ||	-0.860042
+novinhaexcita.||	-0.844672
+stiricrestine.ro  ||	-0.839326
+bioskoo||	-0.834825
+standupo||	-0.830302
+pc-game.||	-0.789274
+quangninho||	-0.720582
+nitdgp.act||	-0.705700
+atsofb||	-0.677135
+ziwzo||	-0.656052
+m.||	-0.640751
+m||	-0.631851
+healthzone.tip.||	-0.626841
+phpseodirem||	-0.578624
+cv||	-0.551055
+vreaucb||	-0.536208
+fc-beton.dk  ||	-0.500274
+chiasenhac.||	-0.481939
+iskcondesiret.||	-0.478394
+sd-cih||	-0.459573
+techglown.||	-0.448977
+0799.jp   ||	-0.360740
+corfu.gr  ||	-0.339183
+adm.||	-0.336673
+wandererbracelets.v||	-0.334231
+venerabilim||	-0.311538
+ablestor.||	-0.292661
+m||	-0.288281
+runningtrail.fo||	-0.264607
+audio-joy.com  ||	-0.256077
+htoof.com  ||	-0.255166
+airintern.com  ||	-0.253440
+cda.pl    ||	-0.229003
+sueblimely.com  ||	-0.209931
+kc-education.com  ||	-0.209898
+talentindeed.com  ||	-0.200199
+cnpereading.com  ||	-0.197256
+fakeid.co.uk  ||	-0.168412
+tu.kj||	-0.165459
+.||	-0.153551
+gallsource.com  ||	-0.151827
+indiamayhome.co.uk  ||	-0.141507
+huaan..||	-0.132483
+dhzl||	-0.131974
+woopie.jp   ||	-0.073463
+xn--b1apfm1b.xn--p1ai  ||	-0.066562
+jetsoclub.c ||	-0.064808
+tema.nar||	-0.046942
+newsafeupdate.website     ||	-0.046940
+ho||	-0.045267
+thebigpayback.org  ||	-0.045164
+keralaplustwo.||	-0.033064
+ottantaottanta.it     ||	-0.027923
+machparty.de  ||	-0.023516
+vivacity-peterborough.com  ||	-0.023192
+manythings.online            ||	-0.020156
+247webhits.com               ||	-0.019573
+airguru.lt  ||	-0.012542
+ofh||	-0.010566
+kc-education.ca||	0.004805
+espectroaut.||	0.009048
+gallsou.||	0.011516
+4ever.eu                      ||	0.017648
+ruta.ru   ||	0.018290
+ibox.bg     ||	0.019433
+im3721.net          ||	0.019804
+migael24.pl                 ||	0.025821
+.||	0.033349
+sportszert.hu     ||	0.043547
+dhzj001.net     ||	0.046594
+xiuno.cs||	0.048630
+belgourmet.be        ||	0.052343
+lomax.dk   ||	0.054075
+zeek.ir                       ||	0.056450
+cp2128.com                   ||	0.056576
+manythh||	0.056837
+seitensprungnete||	0.056988
+migael24.pl          ||	0.058561
+moe.gov.tw         ||	0.062723
+spel.se                    ||	0.064571
+semgu.kz     ||	0.065879
+sycamoreschools.org   ||	0.069760
+amicosvapo.it     ||	0.077006
+belgourmet.be          ||	0.082600
+tj.gov.cn     ||	0.082706
+icinemax.net         ||	0.085592
+pdfcompressor.org        ||	0.087218
+app.gov.al       ||	0.087414
+e-c||	0.088046
+robonews.net     ||	0.088484
+2478.com           ||	0.088867
+zeek.ir                  ||	0.090867
+theformulaformiracles.com     ||	0.091198
+24multi.top                   ||	0.091534
+4ever.eu               ||	0.092097
+atsoft.by                   ||	0.094121
+holidu.es                    ||	0.096526
+2fl.co                ||	0.096752
+einfranzose.de      ||	0.099116
+cih.org                       ||	0.099555
+drouot.o||	0.101989
+semgu.kz                     ||	0.103742
+recensionelibro.it            ||	0.104111
+out.gr                    ||	0.104221
+may9.ru              ||	0.105502
+belgourmet.be             ||	0.106507
+zeek.ir                ||	0.108405
+simbirsk.city            ||	0.108796
+provokator18.ru             ||	0.109632
+belgourmet.be              ||	0.109905
+generace21.cz       ||	0.110514
+igoshogi.net      ||	0.113127
+opco.me                       ||	0.113567
+maplegrovemn.gov   ||	0.113840
+jetsc||	0.115742
+24multi.top                ||	0.116205
+germania-samogon.ru       ||	0.116874
+germania-samogon.ru       ||	0.116874
+hmdb.org                 ||	0.117778
+theires.org     ||	0.117826
+auto-mk.ru                    ||	0.119328
+ko.gs          ||	0.120452
+generace21.cz              ||	0.122253
+boonex.club                  ||	0.123101
+4pna.com                      ||	0.123417
+ruta.ru                   ||	0.126433
+tecnun.es                     ||	0.126515
+einfranzose.de        ||	0.126595
+sn365.com              ||	0.127086
+amicosvapo.it        ||	0.127994
+dbd.go.th                     ||	0.130746
+e3a.fr          ||	0.130922
+tu.kg             ||	0.134004
+stelcy.ru                    ||	0.134575
+ibranch.in                   ||	0.135470
+machparty.de         ||	0.135493
+may9.ru          ||	0.136461
+webmedipr.jp                 ||	0.137004
+burinfo.org         ||	0.138149
+seitensprungnetz.ch        ||	0.138414
+mafab.hu            ||	0.138823
+92o||	0.139238
+uscatholic.org         ||	0.139732
+sk-house.ua     ||	0.139840
+efactuurdirect.nl             ||	0.140620
+sampey.it              ||	0.140697
+robonews.net          ||	0.141273
+travelplorer.gr       ||	0.141590
+kizasi.jp       ||	0.141782
+tripsta.in               ||	0.145843
+midrag.co.il       ||	0.146223
+blogspot.lt              ||	0.149205
+mafab.hu       ||	0.150014
+sporti.pl             ||	0.151169
+appeto.ir                ||	0.151412
+lamudi.mg                 ||	0.151700
+seitensprungnetz.ch          ||	0.152163
+naver.jp            ||	0.152268
+webmedipr.jp              ||	0.152871
+meuspedidos.com.br          ||	0.152967
+cda.pl          ||	0.153548
+tecnun.es                ||	0.153905
+bmibaku.az             ||	0.154283
+trilulilu.ws    ||	0.154567
+tvsmotor.com                  ||	0.154808
+yourwildhome.com              ||	0.155295
+einfranzose.de             ||	0.155468
+leroymerlin.fr           ||	0.155945
+microlab.mx         ||	0.157361
+shadowsky.xyz            ||	0.158589
+sobhezagros.ir               ||	0.159786
+bmibaku.az            ||	0.160252
+icb.org.au                  ||	0.160660
+kohler.ca               ||	0.161170
+shapir.ir              ||	0.162329
+2478.com        ||	0.162482
+catmobile.ro              ||	0.162678
+cp2128.com     ||	0.162748
+frls.co               ||	0.162850
+kikibt.org               ||	0.162864
+spd.co.il                   ||	0.163113
+dbd.go.th                 ||	0.163889
+missmustardseed.com         ||	0.164660
+mikiya.gr.jp      ||	0.164810
+beppu-u.ac.jp      ||	0.164835
+indexp.ru               ||	0.165294
+gustave.com                  ||	0.166943
+postplay.dev             ||	0.167590
+domaschneee.ru                ||	0.168527
+domaschneee.ru                ||	0.168527
+tecnun.es           ||	0.168951
+tecnun.es           ||	0.168951
+1pchelp.ru               ||	0.169181
+vensi-shop.ru              ||	0.169372
+mikiya.gr.jp               ||	0.170488
+sn11.cca||	0.170825
+thecube.guru            ||	0.171062
+qstark.ru             ||	0.172347
+bmibaku.az   ||	0.172429
+wannads.com                   ||	0.172442
+realplay.tw         ||	0.173279
+sirhow.com                 ||	0.173788
+fc-beton.dk             ||	0.173841
+kikibt.org          ||	0.174295
+kivbf.de         ||	0.174644
+built.io          ||	0.175000
+gustave.com                 ||	0.175351
+bitcomine.com               ||	0.175410
+orphek.com                 ||	0.175452
+brooksgroup.com              ||	0.175700
+brokeroutpost.com             ||	0.175734
+fabaoguo.com                  ||	0.175819
+sensaga.jp           ||	0.176447
+oligarh.org.ua             ||	0.176487
+grupounoctc.com     ||	0.176678
+share4you.com                 ||	0.176859
+gardco.com                  ||	0.177739
+lokerja.xyz    ||	0.179117
+poqstudio.com                 ||	0.179792
+icb.org.au               ||	0.180175
+centurion-hotel.com           ||	0.180240
+ontap.co.za         ||	0.180363
+flexispy.com                 ||	0.181926
+flexispy.com                 ||	0.181926
+ontap.co.za               ||	0.182278
+newastro.dk            ||	0.183540
+kamukta.com              ||	0.186302
+psq.com.cn             ||	0.187723
+acutesoft.com              ||	0.188878
+ablestor.com                 ||	0.189038
+mobilestation.mobi    ||	0.189621
+xiuno.com     ||	0.189882
+pokersnowie.com               ||	0.190319
+espectroa.||	0.191204
+higate.co.za      ||	0.191994
+zhibitech.org.cn       ||	0.192517
+kamukta.com             ||	0.192838
+qcustomplot.com         ||	0.192937
+wxrc.gov.cn            ||	0.192968
+nova-jizn.org            ||	0.193105
+justfog.co.kr               ||	0.193380
+thepromove.com      ||	0.194364
+chatango.com.br        ||	0.196370
+dechamore.com       ||	0.196439
+pureplayradio.com      ||	0.196597
+ugc.edu.co                  ||	0.196751
+doubleteamedteens.com         ||	0.197422
+myhrtoolkit.com     ||	0.198084
+obrkarta.ru           ||	0.199181
+zzbaike.com               ||	0.199214
+tohshin.co.jp         ||	0.199218
+movimientoclic.com      ||	0.199472
+rackset.com               ||	0.200134
+cp2128.com       ||	0.201188
+pureplayradio.com          ||	0.201220
+artnwall.gr         ||	0.201866
+lezyne.com               ||	0.202341
+vpay.co.kr                 ||	0.203781
+nutabu.com              ||	0.204865
+terryberry.com      ||	0.204948
+promo-blog.com         ||	0.205110
+gustave.com              ||	0.206052
+101boyvideos.com              ||	0.206317
+jxndefy.cn        ||	0.206420
+eazel.com              ||	0.207413
+rackset.com              ||	0.207487
+cdhdf.org.mx                  ||	0.207646
+vormetric.com           ||	0.208046
+thedigitalstory.com         ||	0.210442
+mobchannels.com      ||	0.211115
+netsis.com.tr       ||	0.213682
+meanpath.com           ||	0.215241
+tvsmotor.com      ||	0.215572
+karanokyoukai.com     ||	0.216685
+xiuno.com        ||	0.217185
+jxndefy.cn         ||	0.217254
+airfast.co.kr                 ||	0.217550
+poglyad.te.ua            ||	0.218540
+secharyana.gov.in           ||	0.218660
+ibakatv.com     ||	0.220016
+zhibitech.org.cn         ||	0.221453
+msu.edu.my           ||	0.221561
+itelegance.com     ||	0.222500
+novinhaexcitada.com           ||	0.222645
+kc-education.com        ||	0.222936
+segurodicas.com     ||	0.223264
+netnews.com.mt                ||	0.224246
+offshoh||	0.225307
+etech-japan.com              ||	0.225747
+etech-japan.com              ||	0.225747
+ugc.edu.co          ||	0.226090
+prettyflaps.com            ||	0.226096
+hibarai.com              ||	0.226404
+fordpartsgiant.com      ||	0.226451
+insight-zone.com             ||	0.227757
+indywithkids.com              ||	0.228734
+trishasgold.com      ||	0.231379
+cfjuhua.o||	0.232601
+lawrence.co.uk      ||	0.232668
+wendoc.com      ||	0.232678
+unapizcadehogar.com      ||	0.233587
+ludenet.com         ||	0.234402
+teisan-qr.com           ||	0.234582
+share4you.com           ||	0.235800
+kamukta.com      ||	0.236227
+shannonuk.com            ||	0.236451
+rufengda.com        ||	0.236722
+pskb.com           ||	0.237199
+rufengda.com         ||	0.237478
+cdhdf.org.mx                ||	0.239714
+seitensprungnee||	0.241777
+xwt-classics.net             ||	0.242433
+premium-rent.com     ||	0.244497
+asiongjogja.com      ||	0.244514
+frpdf.com      ||	0.246334
+john-west.co.uk         ||	0.248416
+mediatec.de   ||	0.248610
+beppu-u.ac.jp             ||	0.251786
+stiricrestine.ro    ||	0.253671
+wildrape.com             ||	0.254616
+rishtapakistan.com        ||	0.255128
+sadkomed.ru    ||	0.257022
+woodway.com     ||	0.257847
+xpressair.co.id            ||	0.258197
+idcr||	0.261597
+labellevilloise.com        ||	0.262678
+gulf-jao||	0.263481
+healthspeedup.com        ||	0.264830
+vseandroid.ru          ||	0.266512
+wildrape.com       ||	0.269960
+healthspeedup.com             ||	0.271127
+shh.org.tw    ||	0.271938
+netnews.com.mt          ||	0.273707
+fatafeat.com          ||	0.273730
+wannads.com       ||	0.278975
+wannads.com          ||	0.284674
+hibarai.com      ||	0.286215
+zzbaike.com         ||	0.290127
+waselnews.com          ||	0.295763
+ijseas.com      ||	0.301933
+gulf-japan.com       ||	0.306020
+soushu88.com   ||	0.307242
+dbd.go.th    ||	0.309247
+quicket.co.za    ||	0.313163
+alguthmi.cd||	0.323868
+swissmedical.com.ar          ||	0.333277
+quangninh.gov.vn             ||	0.336088
+doubleteamedteens.com    ||	0.343387
+toppigeons.p||	0.351301
+unapizcadehogar.com    ||	0.357636
+adenwifi.com    ||	0.364911
+netsis.com.tr   ||	0.365202
+kba||	0.375136
+spreadsheetgear.com    ||	0.381496
+getofficejobs.net  ||	0.397386
+gardco.com   ||	0.399795
+eig||	0.414739
+nascarfancouncil.com   ||	0.417319
+dtsearch.com   ||	0.424856
+ibox.bo||	0.427185
+onlu||	0.432893
+y||	0.449691
+amicosc||	0.461242
+microlab.mc||	0.461764
+fordpartsgiant.com   ||	0.463694
+sd-city.com   ||	0.468484
+fantavy||	0.473825
+ijseas.cc||	0.499773
+techjooml||	0.509616
+getoffico||	0.512177
+thedit||	0.591958
+fantavoy||	0.612721
+mysqlhighavailae||	0.705919
+hudguiu||	0.723938
+fenixgroup.cz ||	0.775569
+b||	0.834003
+qsty||	0.859243
+o||	0.878353
+thewp||	0.970161
+sakumotm||	0.973916
+justradiot||	0.987799
+forundel||	0.999318
+7.||	1.004076
+jetsocc||	1.007042
+sociales.m||	1.016091
+51yor||	1.027579
+cadeu||	1.057564
+ri||	1.066633
+unaa||	1.075657
+fr||	1.078840
+harm1960.tumblr..||	1.110519
+gur||	1.117323
+m||	1.187418
+wiiel||	1.187949
+dostupniy-million..||	1.194541
+g||	1.200510
+cg||	1.221056
+b||	1.237435
+i||	1.250426
+oldcoma||	1.254439
+spiritmagic.n.||	1.302688
+zzbaikn||	1.334679
+sk-houser||	1.336081
+hu||	1.359134
+kakilereareq.||	1.361129
+xn--bc||	1.391018
+provokator18.rs||	1.448203
+sc||	1.448394
+mac||	1.450695
+fuce||	1.466789
+motorrad-ersatzteile24.dei||	1.475779
+ac||	1.507261
+itsredac||	1.519775
+anderi||	1.531466
+nee||	1.564221
+lecrel||	1.609459
+easeus.c ||	1.618921
+copterexprei||	1.621522
+gruc||	1.625117
+xn--c||	1.642249
+globalsupet||	1.674435
+shwehc||	1.675694
+shwehc||	1.675694
+frane||	1.693325
+tecl||	1.708208
+machpac||	1.709679
+bc||	1.714274
+theformulaformiracles.com ||	1.734627
+24r||	1.742405
+u||	1.748709
+sycamoree||	1.754012
+flash8.nc||	1.760563
+yc||	1.763125
+teststeststestss||	1.763793
+loyolagrc||	1.801055
+ordemens||	1.813424
+alfi||	1.837786
+the-net||	1.888499
+fatafeat.ce||	1.897999
+suanguaa||	1.900821
+4pne||	1.955661
+vseandroa||	1.965796
+wana||	2.005177
+te||	2.007707
+se||	2.013330
+dexdeai||	2.022275
+bol||	2.023110
+c||	2.056755
+ugc.es||	2.121976
+senain||	2.128470
+educationalprogra||	2.128605
+trila||	2.132315
+dexdei||	2.140062
+c||	2.166093
+ni||	2.176801
+ultimate||	2.184578
+airfaa||	2.218596
+golt||	2.227287
+respt||	2.227816
+fre||	2.233765
+in||	2.239666
+skinsafepra||	2.261531
+powerflexusai||	2.263703
+resput||	2.272811
+ti||	2.287449
+mobilestaa||	2.292442
+nitdgt||	2.295271
+minjournal.ne||	2.327646
+civica||	2.331332
+dmoc||	2.335250
+dhamakamusie||	2.340715
+kbsn.a||	2.356638
+fe||	2.378908
+missmustardsn||	2.388306
+mobchaa||	2.395690
+fn||	2.400035
+we||	2.402334
+myhrtoole||	2.423444
+farke||	2.429280
+vintage-watche||	2.436083
+farkindalikatolyee||	2.443002
+mbagluet||	2.452538
+mae||	2.458360
+jamutradisionalmujarab.com ||	2.458429
+frencha||	2.470053
+boardn||	2.472815
+rufea||	2.476840
+centurion-he||	2.492016
+ss||	2.501964
+tuswa||	2.510257
+acherre||	2.514748
+ayrtonsennashoi||	2.522557
+lamuda||	2.525688
+teststeststes||	2.530683
+ordemenfers||	2.549890
+lot||	2.568254
+gscripts.i||	2.583071
+fordpartsgiant.l||	2.597058
+jorgs||	2.663974
+boa||	2.670624
+billpot||	2.689839
+e||	2.699182
+n||	2.768933
+picaxes||	2.781162
+higate.co.z.||	2.865902
+webpro16.i||	2.979028
+webpro16.i||	2.979028
+vpay.co.km||	3.110678
+mobchannels.com ||	3.114377
+markomedia.com ||	3.129916
+gentwenty.com ||	3.150809
+manolo.e||	3.153926
+farkindalikatolyesi.e||	3.192600
+nepcore.com ||	3.198521
+myhrtoolkit.ce||	3.225575
+trbankasubesi.cc||	3.326382
+waselnews.a||	3.348727
+itsreda.c||	3.467760
+vensi-shop.e||	3.553013
+spoon-tamago.c||	3.671111
+chatango.e||	3.748314
+fuckfuckimcummin.tumblr. ||	3.900154
+adenwifi.co ||	4.081365
+wongbanyumas.co ||	4.723637

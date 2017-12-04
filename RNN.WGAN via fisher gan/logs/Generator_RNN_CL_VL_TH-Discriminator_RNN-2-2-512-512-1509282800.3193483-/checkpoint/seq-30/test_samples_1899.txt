@@ -1,0 +1,640 @@
+lllccom                       ||	-0.339809
+lcccom                        ||	-0.338814
+gcccom                        ||	-0.337784
+cccom                         ||	-0.335849
+cccom                         ||	-0.335849
+cccom                         ||	-0.335849
+cccom                         ||	-0.335849
+deeecccom                     ||	-0.334946
+pcccom                        ||	-0.334524
+dcccom                        ||	-0.334422
+ttccom                        ||	-0.334175
+cccm                          ||	-0.332553
+ttpccom                       ||	-0.331849
+ccpom                         ||	-0.330822
+ccfom                         ||	-0.329939
+sccom                         ||	-0.329841
+ccom                          ||	-0.328912
+ccom                          ||	-0.328912
+ccom                          ||	-0.328912
+ccom                          ||	-0.328912
+ccom                          ||	-0.328912
+ooom                          ||	-0.327519
+ooom                          ||	-0.327519
+ooom                          ||	-0.327519
+ooom                          ||	-0.327519
+ooom                          ||	-0.327519
+ooom                          ||	-0.327519
+coom                          ||	-0.327134
+pccom                         ||	-0.326590
+ccm                           ||	-0.325755
+sscom                         ||	-0.325359
+rccom                         ||	-0.325148
+rccom                         ||	-0.325148
+ddccom                        ||	-0.324700
+ddccom                        ||	-0.324700
+ppccom                        ||	-0.323434
+rdaaccom                      ||	-0.323230
+jooom                         ||	-0.321932
+com                           ||	-0.321579
+oom                           ||	-0.320277
+oom                           ||	-0.320277
+ioom                          ||	-0.317002
+--rrcom                       ||	-0.316155
+om                            ||	-0.315980
+om                            ||	-0.315980
+oo                            ||	-0.315447
+oo                            ||	-0.315447
+oo                            ||	-0.315447
+oo                            ||	-0.315447
+vvoom                         ||	-0.315142
+o                             ||	-0.312839
+                              ||	-0.312770
+                              ||	-0.312770
+                              ||	-0.312770
+                              ||	-0.312770
+                              ||	-0.312770
+                              ||	-0.312770
+                              ||	-0.312770
+                              ||	-0.312770
+wmmm                          ||	-0.312514
+mmmm                          ||	-0.308089
+mmmmm                         ||	-0.306681
+rmmm                          ||	-0.304770
+nrmm                          ||	-0.304168
+...om                         ||	-0.300617
+nntjcom                       ||	-0.300402
+...com                        ||	-0.300057
+..om                          ||	-0.298882
+..om                          ||	-0.298882
+..om                          ||	-0.298882
+yy..com                       ||	-0.297777
+..com                         ||	-0.297733
+..com                         ||	-0.297733
+..com                         ||	-0.297733
+..com                         ||	-0.297733
+..com                         ||	-0.297733
+..com                         ||	-0.297733
+s..com                        ||	-0.297158
+..i.com                       ||	-0.296658
+hi..com                       ||	-0.296576
+j..com                        ||	-0.295507
+-llp.om                       ||	-0.295412
+o.om                          ||	-0.295104
+illl..com                     ||	-0.294502
+.om                           ||	-0.294305
+.om                           ||	-0.294305
+t.om                          ||	-0.293025
+.g.com                        ||	-0.290899
+.g.com                        ||	-0.290899
+.oom                          ||	-0.290753
+llllrr.com                    ||	-0.290749
+gg.com                        ||	-0.290289
+ii.om                         ||	-0.289592
+aa.om                         ||	-0.288950
+hhhhr.com                     ||	-0.288218
+.com                          ||	-0.287835
+.com                          ||	-0.287835
+ff.om                         ||	-0.287578
+aaa.om                        ||	-0.287500
+k.com                         ||	-0.287221
+.j.com                        ||	-0.287113
+.ccom                         ||	-0.287035
+bbb.com                       ||	-0.286729
+.e.com                        ||	-0.286321
+s.com                         ||	-0.286251
+lllh.com                      ||	-0.286156
+h.com                         ||	-0.285679
+n.com                         ||	-0.285121
+-.com                         ||	-0.285119
+ik.ccom                       ||	-0.284760
+ttbb.com                      ||	-0.284699
+ttt.com                       ||	-0.284369
+sddn.com                      ||	-0.284216
+tlhh.com                      ||	-0.284069
+ei.com                        ||	-0.283323
+ee.com                        ||	-0.283280
+rr.com                        ||	-0.283026
+nf.com                        ||	-0.282932
+eee.com                       ||	-0.281922
+eee.com                       ||	-0.281922
+vee.com                       ||	-0.281747
+ehaa.com                      ||	-0.281434
+rkdd.com                      ||	-0.278681
+ierr.com                      ||	-0.278668
+nnnn.com                      ||	-0.277992
+nnnn.com                      ||	-0.277992
+nnii.com                      ||	-0.277845
+tiiiii.com                    ||	-0.276177
+nnddd.com                     ||	-0.274762
+ttttttgggggggggggggggggggggggg||	0.160012
+tttttggggggggggggggggggggggggg||	0.162644
+tttttggggggggggggggggggggggggg||	0.162644
+gggggggegggggggggggggggggggggg||	0.163718
+rttttttggggggggggggggggggggggg||	0.166077
+uuuugggggggggggggggggggggggggg||	0.167553
+uuuugggggggggggggggggggggggggg||	0.167553
+gggtgggggggggggggggggggggggggg||	0.169711
+tttteggggggggggggggggggggggggg||	0.170931
+uuuukggggggggggggggggggggggggg||	0.170989
+tttttjgggggggggggggggggggggggg||	0.172067
+gggggggggggggggggggggggggggggg||	0.172315
+gggggggggggggggggggggggggggggg||	0.172315
+gggggggggggggggggggggggggggggg||	0.172315
+gggggggggggggggggggggggggggggg||	0.172315
+gggggggggggggggggggggggggggggg||	0.172315
+gggggggggggggggggggggggggggggg||	0.172315
+gggggggggggggggggggggggggggggg||	0.172315
+ptttttgggggggggggggggggggggggg||	0.173610
+uuurgggggggggggggggggggggggggg||	0.175633
+attttggggggggggggggggggggggggg||	0.175784
+tggaaggggggggggggggggggggggggg||	0.176644
+uurggggggggggggggggggggggggggg||	0.179314
+ttttiegggggggggggggggggggggggg||	0.181004
+rggggggggggggggggggggggggggggg||	0.182698
+rggggggggggggggggggggggggggggg||	0.182698
+rrggtttggggggggggggggggggggggg||	0.184377
+vggggggggggggggggggggggggggggg||	0.184525
+ittttttggggggggggggggggggggggg||	0.184647
+uuuenggggggggggggggggggggggggg||	0.185462
+rrtttggggggggggggggggggggggggg||	0.185602
+ugaagpgggggggggggggggggggggggg||	0.185906
+pggggggggggggggggggggggggggggg||	0.185985
+ttteeeeggggggggggggggggggggggg||	0.187289
+cggggggggggggggggggggggggggggg||	0.188144
+cggggggggggggggggggggggggggggg||	0.188144
+cggggggggggggggggggggggggggggg||	0.188144
+cuuggggggggggggggggggggggggggg||	0.188954
+luuuudgggggggggggggggggggggggg||	0.189743
+fggttggggggggggggggggggggggggg||	0.190220
+tttjnggggggggggggggggggggggggg||	0.191640
+tktkkggggggggggggggggggggggggg||	0.192338
+rettllgggggggggggggggggggggggg||	0.192594
+orgggggggggggggggggggggggggggg||	0.193339
+lggvlggggggggggggggggggggggggg||	0.193360
+aagggggggggggggggggggggggggggg||	0.193532
+aagggggggggggggggggggggggggggg||	0.193532
+aagggggggggggggggggggggggggggg||	0.193532
+tnullggggggggggggggggggggggggg||	0.193605
+tttjiggggggggggggggggggggggggg||	0.193700
+nggggggggggggggggggggggggggggg||	0.193857
+dggggggggggggggggggggggggggggg||	0.194850
+tdbttggggggggggggggggggggggggg||	0.195124
+crgggggggggggggggggggggggggggg||	0.195645
+ggeeeggggggggggggggggggggggggg||	0.196450
+uueeeggggggggggggggggggggggggg||	0.196574
+rbgggggggggggggggggggggggggggg||	0.196619
+ttleeegggggggggggggggggggggggg||	0.197573
+sggggggggggggggggggggggggggggg||	0.197964
+sggggggggggggggggggggggggggggg||	0.197964
+kkgggggggggggggggggggggggggggg||	0.198957
+yggggggggggggggggggggggggggggg||	0.199784
+yggggggggggggggggggggggggggggg||	0.199784
+grrrgggggggggggggggggggggggggg||	0.200118
+aaaggggggggggggggggggggggggggg||	0.201393
+ggdjgggggggggggggggggggggggggg||	0.202868
+dggllggggggggggggggggggggggggg||	0.202937
+crrugggggggggggggggggggggggggg||	0.202957
+urrrkggggggggggggggggggggggggg||	0.203318
+bbgggggggggggggggggggggggggggg||	0.203358
+etggnngggggggggggggggggggggggg||	0.204027
+eegggggggggggggggggggggggggggg||	0.204163
+urrrrggggggggggggggggggggggggg||	0.204590
+wggggllggggggggggggggggggggggg||	0.204668
+gnngtggggggggggggggggggggggggg||	0.205160
+fagggggggggggggggggggggggggggg||	0.205895
+raargggggggggggggggggggggggggg||	0.206049
+ceuggggggggggggggggggggggggggg||	0.206649
+rigggggggggggggggggggggggggggg||	0.207535
+vaeggggggggggggggggggggggggggg||	0.207548
+xggggggggggggggggggggggggggggg||	0.207944
+rrragggggggggggggggggggggggggg||	0.208733
+paaagggggggggggggggggggggggggg||	0.210058
+kkkggggggggggggggggggggggggggg||	0.210819
+skgggggggggggggggggggggggggggg||	0.211078
+larrgggggggggggggggggggggggggg||	0.211284
+rraaaegggggggggggggggggggggggg||	0.211904
+aaaegggggggggggggggggggggggggg||	0.211956
+aaaaaggggggggggggggggggggggggg||	0.212097
+aaaaaggggggggggggggggggggggggg||	0.212097
+aaaaaggggggggggggggggggggggggg||	0.212097
+aaaaaggggggggggggggggggggggggg||	0.212097
+aaaaaggggggggggggggggggggggggg||	0.212097
+aaaaaggggggggggggggggggggggggg||	0.212097
+llltttgggggggggggggggggggggggg||	0.212174
+rllllggggggggggggggggggggggggg||	0.212358
+aeaagggggggggggggggggggggggggg||	0.212459
+ngaaaagggggggggggggggggggggggg||	0.212778
+rrrrgggggggggggggggggggggggggg||	0.213195
+rrrrgggggggggggggggggggggggggg||	0.213195
+rrrrgggggggggggggggggggggggggg||	0.213195
+rrrrgggggggggggggggggggggggggg||	0.213195
+rrrrgggggggggggggggggggggggggg||	0.213195
+eerggggggggggggggggggggggggggg||	0.213769
+yogggggggggggggggggggggggggggg||	0.213900
+leeggggggggggggggggggggggggggg||	0.213917
+aaaarggggggggggggggggggggggggg||	0.214009
+teeeeggggggggggggggggggggggggg||	0.214036
+gaeeeegggggggggggggggggggggggg||	0.214177
+aaaaaagggggggggggggggggggggggg||	0.215076
+aaaaaagggggggggggggggggggggggg||	0.215076
+aaaaaagggggggggggggggggggggggg||	0.215076
+alaarggggggggggggggggggggggggg||	0.215428
+aaaaeggggggggggggggggggggggggg||	0.216302
+aaaaeggggggggggggggggggggggggg||	0.216302
+eestttgggggggggggggggggggggggg||	0.216425
+rrrrtdddgggggggggggggggggggggg||	0.216693
+rrr-gggggggggggggggggggggggggg||	0.216955
+aeaegggggggggggggggggggggggggg||	0.217178
+aaaaargggggggggggggggggggggggg||	0.217508
+pnpggggggggggggggggggggggggggg||	0.217606
+eeeggggggggggggggggggggggggggg||	0.217741
+eeeggggggggggggggggggggggggggg||	0.217741
+eaaegggggggggggggggggggggggggg||	0.218011
+ttiiiagggggggggggggggggggggggg||	0.218535
+paaaeggggggggggggggggggggggggg||	0.218607
+aarrrggggggggggggggggggggggggg||	0.218660
+aaaaaegggggggggggggggggggggggg||	0.218954
+aaaaaegggggggggggggggggggggggg||	0.218954
+ulleeegggggggggggggggggggggggg||	0.219217
+auirrggggggggggggggggggggggggg||	0.219367
+nigggggggggggggggggggggggggggg||	0.219826
+ffttttwwgggggggggggggggggggggg||	0.220299
+rrrrrggggggggggggggggggggggggg||	0.220515
+rrrrrggggggggggggggggggggggggg||	0.220515
+rrrrrggggggggggggggggggggggggg||	0.220515
+aaaeeggggggggggggggggggggggggg||	0.220874
+dtaarrgggggggggggggggggggggggg||	0.221472
+aaajgggggggggggggggggggggggggg||	0.221605
+ringtggggggggggggggggggggggggg||	0.221958
+eaaaeggggggggggggggggggggggggg||	0.222561
+bedggggggggggggggggggggggggggg||	0.223009
+aaaaeegggggggggggggggggggggggg||	0.223203
+aaaaeegggggggggggggggggggggggg||	0.223203
+tnnrrggggggggggggggggggggggggg||	0.223655
+aaeeaagggggggggggggggggggggggg||	0.224061
+eerrgggggggggggggggggggggggggg||	0.224071
+raarrrrggggggggggggggggggggggg||	0.224439
+vvvraaeggggggggggggggggggggggg||	0.224713
+aaaajggggggggggggggggggggggggg||	0.225100
+naaaaagggggggggggggggggggggggg||	0.226005
+rrrrrrgggggggggggggggggggggggg||	0.226260
+-gaaaagggggggggggggggggggggggg||	0.226422
+laaaaaaggggggggggggggggggggggg||	0.226875
+eeergggggggggggggggggggggggggg||	0.227041
+eeergggggggggggggggggggggggggg||	0.227041
+tesseggggggggggggggggggggggggg||	0.227320
+yyuuttgggggggggggggggggggggggg||	0.227626
+ennggggggggggggggggggggggggggg||	0.227651
+reeeeggggggggggggggggggggggggg||	0.228337
+kssugggggggggggggggggggggggggg||	0.228875
+eeellggggggggggggggggggggggggg||	0.229286
+eeeegggggggggggggggggggggggggg||	0.229961
+eeeegggggggggggggggggggggggggg||	0.229961
+ccrrgggggggggggggggggggggggggg||	0.230093
+cllggggggggggggggggggggggggggg||	0.230430
+piapgggggggggggggggggggggggggg||	0.230497
+aaaddagggggggggggggggggggggggg||	0.230556
+dggwpkgggggggggggggggggggggggg||	0.230888
+gsssgggggggggggggggggggggggggg||	0.231033
+laeeeggggggggggggggggggggggggg||	0.231254
+aareeeeggggggggggggggggggggggg||	0.231334
+baikgggggggggggggggggggggggggg||	0.231602
+udddeggggggggggggggggggggggggg||	0.231642
+caxugggggggggggggggggggggggggg||	0.232333
+.ggggggggggggggggggggggggggggg||	0.233479
+deeagggggggggggggggggggggggggg||	0.233687
+vvveeegggggggggggggggggggggggg||	0.234242
+nnnggggggggggggggggggggggggggg||	0.234797
+nnnggggggggggggggggggggggggggg||	0.234797
+nnnggggggggggggggggggggggggggg||	0.234797
+vbgdddgggggggggggggggggggggggg||	0.234917
+sneggggggggggggggggggggggggggg||	0.234995
+uehhajgggggggggggggggggggggggg||	0.235202
+daaaaegggggggggggggggggggggggg||	0.235608
+olnngggggggggggggggggggggggggg||	0.235814
+bbrrrggggggggggggggggggggggggg||	0.235885
+peeeeggggggggggggggggggggggggg||	0.236280
+kklllljggggggggggggggggggggggg||	0.236734
+deeetggggggggggggggggggggggggg||	0.236893
+vvvvvneggggggggggggggggggggggg||	0.237480
+eelllegggggggggggggggggggggggg||	0.237824
+leeeeggggggggggggggggggggggggg||	0.237887
+t.gggggggggggggggggggggggggggg||	0.237991
+dddggggggggggggggggggggggggggg||	0.238025
+-rrrrggggggggggggggggggggggggg||	0.238622
+bannaggggggggggggggggggggggggg||	0.239510
+lppeeegggggggggggggggggggggggg||	0.239575
+deeegggggggggggggggggggggggggg||	0.239611
+dkkdgggggggggggggggggggggggggg||	0.239823
+tjjkkggggggggggggggggggggggggg||	0.240285
+eeeeeggggggggggggggggggggggggg||	0.240654
+eeeeeggggggggggggggggggggggggg||	0.240654
+eeeeeggggggggggggggggggggggggg||	0.240654
+eeeeeggggggggggggggggggggggggg||	0.240654
+eeeeeggggggggggggggggggggggggg||	0.240654
+eeeeeggggggggggggggggggggggggg||	0.240654
+-ieggggggggggggggggggggggggggg||	0.241533
+iarrrggggggggggggggggggggggggg||	0.241777
+eieegggggggggggggggggggggggggg||	0.241816
+bbbbbggggggggggggggggggggggggg||	0.242102
+chhggggggggggggggggggggggggggg||	0.242131
+dleeaggggggggggggggggggggggggg||	0.242170
+.cgggggggggggggggggggggggggggg||	0.242653
+.uuggggggggggggggggggggggggggg||	0.243047
+vvvdddlagggggggggggggggggggggg||	0.243063
+iiitttgggggggggggggggggggggggg||	0.243536
+jjlggggggggggggggggggggggggggg||	0.243656
+annnaggggggggggggggggggggggggg||	0.244017
+lllsrrgggggggggggggggggggggggg||	0.244107
+peeeeegggggggggggggggggggggggg||	0.244394
+bbeeelgggggggggggggggggggggggg||	0.244475
+steeeegggggggggggggggggggggggg||	0.244648
+wwgggggggggggggggggggggggggggg||	0.244652
+ppppppppsjgggggggggggggggggggg||	0.244742
+bbbrrrtggggggggggggggggggggggg||	0.245848
+srnngggggggggggggggggggggggggg||	0.245892
+nnlnlggggggggggggggggggggggggg||	0.246526
+c.gggggggggggggggggggggggggggg||	0.246732
+rdrhssgggggggggggggggggggggggg||	0.246970
+nnnllggggggggggggggggggggggggg||	0.247198
+ddtrjggggggggggggggggggggggggg||	0.247766
+eeaeeeeggggggggggggggggggggggg||	0.248745
+rriieegggggggggggggggggggggggg||	0.248868
+ee-eeggggggggggggggggggggggggg||	0.249050
+eeeeeegggggggggggggggggggggggg||	0.249652
+eeeeeegggggggggggggggggggggggg||	0.249652
+eeeeeegggggggggggggggggggggggg||	0.249652
+eeeeeegggggggggggggggggggggggg||	0.249652
+ieedgggggggggggggggggggggggggg||	0.249670
+riiigggggggggggggggggggggggggg||	0.249902
+sssttggggggggggggggggggggggggg||	0.249903
+eennrggggggggggggggggggggggggg||	0.250099
+csaagggggggggggggggggggggggggg||	0.250220
+llleeegggggggggggggggggggggggg||	0.250415
+eeiwgggggggggggggggggggggggggg||	0.250472
+eeeejggggggggggggggggggggggggg||	0.251290
+bbbbbbgggggggggggggggggggggggg||	0.251386
+bbeeeegggggggggggggggggggggggg||	0.251536
+bbbbbrgggggggggggggggggggggggg||	0.251969
+llliaegggggggggggggggggggggggg||	0.251985
+---ggggggggggggggggggggggggggg||	0.252025
+ddnnttgggggggggggggggggggggggg||	0.252138
+eeeeedgggggggggggggggggggggggg||	0.252197
+fppppleggggggggggggggggggggggg||	0.252352
+bbbssggggggggggggggggggggggggg||	0.252594
+alfwaegggggggggggggggggggggggg||	0.252798
+heeeeggggggggggggggggggggggggg||	0.253032
+heeeeggggggggggggggggggggggggg||	0.253032
+ddnegggggggggggggggggggggggggg||	0.253143
+srrrrrrggggggggggggggggggggggg||	0.253688
+ejsllggggggggggggggggggggggggg||	0.253755
+npiigggggggggggggggggggggggggg||	0.253849
+wrrppggggggggggggggggggggggggg||	0.254072
+.ghggggggggggggggggggggggggggg||	0.254148
+giiiiggggggggggggggggggggggggg||	0.254233
+deeehggggggggggggggggggggggggg||	0.254399
+seeerggggggggggggggggggggggggg||	0.254975
+aaassseggggggggggggggggggggggg||	0.255185
+kkkkkkiigggggggggggggggggggggg||	0.255413
+addddggggggggggggggggggggggggg||	0.255455
+iiwggggggggggggggggggggggggggg||	0.255974
+eeeeeeeggggggggggggggggggggggg||	0.256661
+jrrrrrgggggggggggggggggggggggg||	0.257160
+neeeeegggggggggggggggggggggggg||	0.257370
+neeeeegggggggggggggggggggggggg||	0.257370
+llllajgggggggggggggggggggggggg||	0.257603
+jeerrggggggggggggggggggggggggg||	0.257949
+rryyyylggggggggggggggggggggggg||	0.258047
+lllleegggggggggggggggggggggggg||	0.258260
+phlheleggggggggggggggggggggggg||	0.258961
+ssappggggggggggggggggggggggggg||	0.259415
+lyaaaaeggggggggggggggggggggggg||	0.259663
+lelblljggggggggggggggggggggggg||	0.259671
+g.aggggggggggggggggggggggggggg||	0.259883
+ddddgggggggggggggggggggggggggg||	0.259986
+ddddgggggggggggggggggggggggggg||	0.259986
+..gggggggggggggggggggggggggggg||	0.260354
+..gggggggggggggggggggggggggggg||	0.260354
+..gggggggggggggggggggggggggggg||	0.260354
+eriiiggggggggggggggggggggggggg||	0.260581
+iiaaaegggggggggggggggggggggggg||	0.260675
+nneaajgggggggggggggggggggggggg||	0.261030
+nnnrrggggggggggggggggggggggggg||	0.261085
+ffnngggggggggggggggggggggggggg||	0.261281
+jeeeeggggggggggggggggggggggggg||	0.261573
+hddrrggggggggggggggggggggggggg||	0.261867
+iaaaaijggggggggggggggggggggggg||	0.262352
+yssrtttggggggggggggggggggggggg||	0.262815
+i.gggggggggggggggggggggggggggg||	0.262817
+tyyyrrrggggggggggggggggggggggg||	0.263014
+jjjtgggggggggggggggggggggggggg||	0.263078
+nnneeggggggggggggggggggggggggg||	0.263238
+lllaaiaegggggggggggggggggggggg||	0.263420
+heeeeegggggggggggggggggggggggg||	0.264191
+deeesrgggggggggggggggggggggggg||	0.264249
+lsxigggggggggggggggggggggggggg||	0.265170
+ssaaalgggggggggggggggggggggggg||	0.265476
+.ngggggggggggggggggggggggggggg||	0.265725
+.ngggggggggggggggggggggggggggg||	0.265725
+iiikgggggggggggggggggggggggggg||	0.266006
+...ggggggggggggggggggggggggggg||	0.266947
+bnnnnggggggggggggggggggggggggg||	0.266973
+sllreeeggggggggggggggggggggggg||	0.268075
+nyaaaajggggggggggggggggggggggg||	0.268133
+dbbbbngggggggggggggggggggggggg||	0.268374
+nnnnrggggggggggggggggggggggggg||	0.268446
+aiiinggggggggggggggggggggggggg||	0.268633
+nhhaaaangggggggggggggggggggggg||	0.268678
+g..ggggggggggggggggggggggggggg||	0.269286
+nneeengggggggggggggggggggggggg||	0.269710
+zhrrrggggggggggggggggggggggggg||	0.269891
+lliilleggggggggggggggggggggggg||	0.270217
+lllllegggggggggggggggggggggggg||	0.271337
+.aaggggggggggggggggggggggggggg||	0.271756
+sssrrggggggggggggggggggggggggg||	0.271784
+saeeeeeggggggggggggggggggggggg||	0.271953
+nnnpergggggggggggggggggggggggg||	0.272320
+zrrrreeggggggggggggggggggggggg||	0.272671
+viiisggggggggggggggggggggggggg||	0.272946
+as.ggggggggggggggggggggggggggg||	0.273157
+ddeeeegggggggggggggggggggggggg||	0.273189
+ddeeeegggggggggggggggggggggggg||	0.273189
+nnnbbegggggggggggggggggggggggg||	0.273342
+nhhhlegggggggggggggggggggggggg||	0.273881
+nbnnergggggggggggggggggggggggg||	0.273916
+kddpsjgggggggggggggggggggggggg||	0.274219
+sseeeggggggggggggggggggggggggg||	0.274401
+nnnnnggggggggggggggggggggggggg||	0.274431
+nnnnnggggggggggggggggggggggggg||	0.274431
+nnnnnggggggggggggggggggggggggg||	0.274431
+nnnnnggggggggggggggggggggggggg||	0.274431
+nnnnnggggggggggggggggggggggggg||	0.274431
+nnnnnggggggggggggggggggggggggg||	0.274431
+wjjggggggggggggggggggggggggggg||	0.275068
+seeedegggggggggggggggggggggggg||	0.276273
+ddddeggggggggggggggggggggggggg||	0.276403
+bbnnnngggggggggggggggggggggggg||	0.276534
+snnnaagggggggggggggggggggggggg||	0.276898
+faffpigggggggggggggggggggggggg||	0.276971
+dnnnnggggggggggggggggggggggggg||	0.277263
+sieseggggggggggggggggggggggggg||	0.279469
+..rggggggggggggggggggggggggggg||	0.280105
+.ekggggggggggggggggggggggggggg||	0.280442
+ssaaajgggggggggggggggggggggggg||	0.280532
+ssssgggggggggggggggggggggggggg||	0.280739
+nnnneegggggggggggggggggggggggg||	0.282329
+l..tgggggggggggggggggggggggggg||	0.283023
+iiieeggggggggggggggggggggggggg||	0.283748
+wrdeeegggggggggggggggggggggggg||	0.283870
+nnnnnaaggggggggggggggggggggggg||	0.284802
+lssbbblggggggggggggggggggggggg||	0.284954
+.eeggggggggggggggggggggggggggg||	0.285967
+.eeggggggggggggggggggggggggggg||	0.285967
+.eeggggggggggggggggggggggggggg||	0.285967
+8eaaaegggggggggggggggggggggggg||	0.286251
+.naggggggggggggggggggggggggggg||	0.286523
+iiiiaggggggggggggggggggggggggg||	0.287027
+llllllgggggggggggggggggggggggg||	0.287955
+llllllgggggggggggggggggggggggg||	0.287955
+kllllssjgggggggggggggggggggggg||	0.288425
+issllngggggggggggggggggggggggg||	0.289200
+kk----jggggggggggggggggggggggg||	0.289485
+..nggggggggggggggggggggggggggg||	0.289612
+..nggggggggggggggggggggggggggg||	0.289612
+.rrrgggggggggggggggggggggggggg||	0.290815
+tyyynnnggggggggggggggggggggggg||	0.291872
+ddhddrgggggggggggggggggggggggg||	0.292396
+nnnnnngggggggggggggggggggggggg||	0.292435
+iiirrrgggggggggggggggggggggggg||	0.292685
+yyyrrggggggggggggggggggggggggg||	0.292890
+.sllgggggggggggggggggggggggggg||	0.293303
+illllllegggggggggggggggggggggg||	0.293415
+llaawwwggggggggggggggggggggggg||	0.293782
+l.aaaggggggggggggggggggggggggg||	0.294352
+ehhhhheggggggggggggggggggggggg||	0.294627
+.hhtgggggggggggggggggggggggggg||	0.295291
+iibieegggggggggggggggggggggggg||	0.296662
+rii.gggggggggggggggggggggggggg||	0.297127
+yyppeegggggggggggggggggggggggg||	0.297746
+ffffjggggggggggggggggggggggggg||	0.298357
+fffflljggggggggggggggggggggggg||	0.298549
+ee.egggggggggggggggggggggggggg||	0.298600
+eiiieeeggggggggggggggggggggggg||	0.298960
+nnnndeeggggggggggggggggggggggg||	0.299098
+phhsssaegggggggggggggggggggggg||	0.299287
+wwrrrrgggggggggggggggggggggggg||	0.299993
+wwnngggggggggggggggggggggggggg||	0.300102
+bbbssssjgggggggggggggggggggggg||	0.300356
+hssjsggggggggggggggggggggggggg||	0.300954
+bbbdiiisgggggggggggggggggggggg||	0.301932
+snnnnngggggggggggggggggggggggg||	0.303793
+nnnnnnsggggggggggggggggggggggg||	0.304374
+.ddggggggggggggggggggggggggggg||	0.304774
+iiiiiggggggggggggggggggggggggg||	0.305057
+iiiiiggggggggggggggggggggggggg||	0.305057
+jnnhblljgggggggggggggggggggggg||	0.305102
+ssseeegggggggggggggggggggggggg||	0.305916
+ssseeegggggggggggggggggggggggg||	0.305916
+hrhssssegggggggggggggggggggggg||	0.305990
+nnnpiiiggggggggggggggggggggggg||	0.306658
+bjjnnegggggggggggggggggggggggg||	0.307108
+iiiirrgggggggggggggggggggggggg||	0.307501
+-ssjaagggggggggggggggggggggggg||	0.309017
+zzrrrrgggggggggggggggggggggggg||	0.309251
+jllllllljggggggggggggggggggggg||	0.311222
+nddddddggggggggggggggggggggggg||	0.312352
+weeeeewggggggggggggggggggggggg||	0.312581
+.aiigggggggggggggggggggggggggg||	0.312809
+gjjiiiijgggggggggggggggggggggg||	0.312862
+fssssaeggggggggggggggggggggggg||	0.313835
+iiillijggggggggggggggggggggggg||	0.313848
+iiiisegggggggggggggggggggggggg||	0.314094
+dddnddrggggggggggggggggggggggg||	0.314626
+oosssggggggggggggggggggggggggg||	0.314860
+.ssegggggggggggggggggggggggggg||	0.315277
+4tthhhijgggggggggggggggggggggg||	0.316610
+lllllleggggggggggggggggggggggg||	0.316884
+vsssshjggggggggggggggggggggggg||	0.317459
+.eeeeggggggggggggggggggggggggg||	0.318030
+---ppajggggggggggggggggggggggg||	0.318296
+riiiiiiigggggggggggggggggggggg||	0.318981
+sssseegggggggggggggggggggggggg||	0.320687
+fffssseegggggggggggggggggggggg||	0.320751
+iiiiiegggggggggggggggggggggggg||	0.321463
+iiiiiegggggggggggggggggggggggg||	0.321463
+sssssrgggggggggggggggggggggggg||	0.321966
+hhhhjjgggggggggggggggggggggggg||	0.322252
+hhhhhhhggggggggggggggggggggggg||	0.324840
+yyppppppeggggggggggggggggggggg||	0.325708
+-nnddddggggggggggggggggggggggg||	0.325832
+wjjrrrgggggggggggggggggggggggg||	0.326149
+hhqhrrrggggggggggggggggggggggg||	0.326264
+jiiiirgggggggggggggggggggggggg||	0.327222
+dssssjgggggggggggggggggggggggg||	0.327443
+ihnniieggggggggggggggggggggggg||	0.327876
+iyyyeegggggggggggggggggggggggg||	0.330074
+iiiiiigggggggggggggggggggggggg||	0.331317
+ssspjjgggggggggggggggggggggggg||	0.331760
+iiiiirrggggggggggggggggggggggg||	0.335402
+piwwwiaggggggggggggggggggggggg||	0.335450
+ssssjegggggggggggggggggggggggg||	0.335538
+lilllllljggggggggggggggggggggg||	0.335637
+cccggggggggggggggggggggggggggg||	0.335649
+iiiiijgggggggggggggggggggggggg||	0.336035
+iiiiijgggggggggggggggggggggggg||	0.336035
+iiiilijggggggggggggggggggggggg||	0.337011
+jj-jssgggggggggggggggggggggggg||	0.337521
+gyyyyssjgggggggggggggggggggggg||	0.337616
+hhhhhhaaaegggggggggggggggggggg||	0.338293
+ixiiiegggggggggggggggggggggggg||	0.338815
+hhhhssjggggggggggggggggggggggg||	0.338984
+iiiiissggggggggggggggggggggggg||	0.340779
+sssssaaggggggggggggggggggggggg||	0.342279
+ddiiiiiggggggggggggggggggggggg||	0.345490
+ssssssgggggggggggggggggggggggg||	0.347129
+sssssjgggggggggggggggggggggggg||	0.348605
+wwllleeggggggggggggggggggggggg||	0.350856
+sffffffllggggggggggggggggggggg||	0.353382
+-hhhhheegggggggggggggggggggggg||	0.353753
+hhhhhhhjgggggggggggggggggggggg||	0.355119
+dsssssjggggggggggggggggggggggg||	0.357493
+sssilijggggggggggggggggggggggg||	0.358696
+yyyllygggggggggggggggggggggggg||	0.359511
+llllllljgggggggggggggggggggggg||	0.361829
+llllllljgggggggggggggggggggggg||	0.361829
+yyyybbgggggggggggggggggggggggg||	0.365815
+sssssaaaaggggggggggggggggggggg||	0.368260
+issssssegggggggggggggggggggggg||	0.369351
+hhhhh.gggggggggggggggggggggggg||	0.370203
+sssssseggggggggggggggggggggggg||	0.371277
+sssssseggggggggggggggggggggggg||	0.371277
+sssssseggggggggggggggggggggggg||	0.371277
+dddjjjjggggggggggggggggggggggg||	0.371776
+sssiiijggggggggggggggggggggggg||	0.377658
+siiiyyykgggggggggggggggggggggg||	0.378260
+hhhbiiiijggggggggggggggggggggg||	0.380071
+lllllllegggggggggggggggggggggg||	0.380458
+sssssssggggggggggggggggggggggg||	0.385645
+ssssssjggggggggggggggggggggggg||	0.386465
+ssssssjggggggggggggggggggggggg||	0.386465
+ssssssjggggggggggggggggggggggg||	0.386465
+wwwwrrgggggggggggggggggggggggg||	0.388734
+yfsssssegggggggggggggggggggggg||	0.390472
+siiiiiiwgggggggggggggggggggggg||	0.390490
+wiiiiijggggggggggggggggggggggg||	0.408711
+yyyyyprggggggggggggggggggggggg||	0.409130
+wssssseggggggggggggggggggggggg||	0.410334
+wwwvveeegggggggggggggggggggggg||	0.411832
+sssiiiijgggggggggggggggggggggg||	0.411942
+sssssssegggggggggggggggggggggg||	0.412428
+ssssssslgggggggggggggggggggggg||	0.413041
+dsssssssjggggggggggggggggggggg||	0.424203
+wwwwwggggggggggggggggggggggggg||	0.425443
+sssssssjgggggggggggggggggggggg||	0.428499
+jjyyyyyjgggggggggggggggggggggg||	0.446338
+sssssssseggggggggggggggggggggg||	0.458337
+6bbbssiieggggggggggggggggggggg||	0.474196
+lllllllllllljggggggggggggggggg||	0.544913
+b55llllljggggggggggggggggggggg||	0.571288
+wwwwwwwsgggggggggggggggggggggg||	1.000761

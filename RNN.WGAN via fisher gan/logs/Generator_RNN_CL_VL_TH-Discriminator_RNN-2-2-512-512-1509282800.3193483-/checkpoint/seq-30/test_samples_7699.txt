@@ -1,0 +1,640 @@
+ffffffffssssssssssssssssssssss||	-5.355284
+ffffffssssssssssssssssssssssss||	-5.338263
+ffffffeessssssssssssssssssssss||	-5.235023
+fffpapasssssssssssssssssssssss||	-5.224825
+pppppepessssssssssssssssssssss||	-5.220394
+pppppajapppassssssssssssssssss||	-5.192088
+pppkppppisssssssssssssssssssss||	-5.153525
+fdppppppesssssssssssssssssssss||	-5.152051
+appapppassssssssssssssssssssss||	-5.095374
+dffffessssssssssssssssssssssss||	-5.095202
+pappasssssssssssssssssssssssss||	-5.001576
+fappiissssssssssssssssssssssss||	-4.926984
+apeeppesssssssssssssssssssssss||	-4.926459
+ffffiiieiissssssssssssssssssss||	-4.924573
+eeppeppassssssssssssssssssssss||	-4.882894
+aaapppppasssssssssssssssssssss||	-4.873363
+pehepsssssssssssssssssssssssss||	-4.866744
+epplllssssssssssssssssssssssss||	-4.864357
+paeeeppsssssssssssssssssssssss||	-4.859657
+afeeaaasssssssssssssssssssssss||	-4.815513
+feeeaassssssssssssssssssssssss||	-4.795431
+aaaaapppssssssssssssssssssssss||	-4.788296
+eaaredasssssssssssssssssssssss||	-4.780499
+aaapapasssssssssssssssssssssss||	-4.774693
+aadaddssssssssssssssssssssssss||	-4.754423
+iilpssssssssssssssssssssssssss||	-4.751086
+peeddessssssssssssssssssssssss||	-4.749163
+2dddaeeeesssssssssssssssssssss||	-4.743137
+aaaaaaapasssssssssssssssssssss||	-4.742681
+eeeeaaaaaapassssssssssssssssss||	-4.740394
+yaffenssssssssssssssssssssssss||	-4.740286
+eeakssssssssssssssssssssssssss||	-4.731172
+iipipipsssssssssssssssssssssss||	-4.730452
+iaaddddepsssssssssssssssssssss||	-4.729561
+fpdidissssssssssssssssssssssss||	-4.725419
+aaaaaaaaasssssssssssssssssssss||	-4.717216
+keeepessssssssssssssssssssssss||	-4.717075
+iaaaaeeeesssssssssssssssssssss||	-4.708478
+iiipssssssssssssssssssssssssss||	-4.701671
+iiiippssssssssssssssssssssssss||	-4.696921
+ipasisisssssssssssssssssssssss||	-4.695096
+eaaassssssssssssssssssssssssss||	-4.694058
+aaaaaaasssssssssssssssssssssss||	-4.692651
+hpeeeebasessssssssssssssssssss||	-4.692540
+nipppessssssssssssssssssssssss||	-4.689880
+dfffbddsssssssssssssssssssssss||	-4.679613
+eaeeesssssssssssssssssssssssss||	-4.678895
+aiiiaaapasssssssssssssssssssss||	-4.678230
+iiiifffsssssssssssssssssssssss||	-4.677744
+aaaaaassssssssssssssssssssssss||	-4.674447
+eeeaesssssssssssssssssssssssss||	-4.674184
+kkkeeeeepsssssssssssssssssssss||	-4.667266
+iaaasssppissssssssssssssssssss||	-4.665294
+ieeeedssssssssssssssssssssssss||	-4.663798
+xxeepepassssssssssssssssssssss||	-4.661579
+eeeeeassssssssssssssssssssssss||	-4.661427
+iiaasassssssssssssssssssssssss||	-4.653769
+jjdaapssssssssssssssssssssssss||	-4.653767
+aaaaasssssssssssssssssssssssss||	-4.652751
+aeeeeessssssssssssssssssssssss||	-4.650568
+eeeeeeesssssssssssssssssssssss||	-4.648290
+eeeeeessssssssssssssssssssssss||	-4.648239
+eeeeeeeessssssssssssssssssssss||	-4.646768
+eeeeesssssssssssssssssssssssss||	-4.646152
+eeeeesssssssssssssssssssssssss||	-4.646152
+eeeeesssssssssssssssssssssssss||	-4.646152
+144aaaapssssssssssssssssssssss||	-4.645481
+aaaawaapssssssssssssssssssssss||	-4.644163
+eeeessssssssssssssssssssssssss||	-4.641559
+eeeessssssssssssssssssssssssss||	-4.641559
+iessssssssssssssssssssssssssss||	-4.636799
+eeeieessssssssssssssssssssssss||	-4.635451
+aaaassssssssssssssssssssssssss||	-4.632629
+pheiiiypssssssssssssssssssssss||	-4.627817
+haaaaaasssssssssssssssssssssss||	-4.626229
+2222222eeieessssssssssssssssss||	-4.624616
+fiiiiissssssssssssssssssssssss||	-4.623005
+eissssssssssssssssssssssssssss||	-4.618445
+2eeeedkassssssssssssssssssssss||	-4.616943
+aasaaaaassssssssssssssssssssss||	-4.616496
+aiiedessssssssssssssssssssssss||	-4.616327
+baedssssssssssssssssssssssssss||	-4.615789
+eessssssssssssssssssssssssssss||	-4.615383
+aaaseessssssssssssssssssssssss||	-4.612121
+iiiddapassssssssssssssssssssss||	-4.611823
+deeeeessssssssssssssssssssssss||	-4.611602
+seeaaaadieeeeeeesessssssssssss||	-4.609601
+hhahaaaahahsssssssssssssssssss||	-4.607707
+upaeeepsssssssssssssssssssssss||	-4.601402
+iissssssssssssssssssssssssssss||	-4.600801
+ehheiapassssssssssssssssssssss||	-4.599437
+iiiiiipsssssssssssssssssssssss||	-4.598833
+iiisssssssssssssssssssssssssss||	-4.597287
+psssseeeeppassssssssssssssssss||	-4.591332
+fee--sasssssssssssssssssssssss||	-4.588263
+fee444eessssssssssssssssssssss||	-4.587783
+fdayaaasssssssssssssssssssssss||	-4.586274
+aaaaa-ssssssssssssssssssssssss||	-4.577509
+ariihhssssssssssssssssssssssss||	-4.572357
+aaladpasssssssssssssssssssssss||	-4.571158
+aassssssssssssssssssssssssssss||	-4.568005
+haajssssssssssssssssssssssssss||	-4.567757
+iiiiisssssssssssssssssssssssss||	-4.566447
+abaaaassssssssssssssssssssssss||	-4.565195
+pppsspisssssssssssssssssssssss||	-4.563199
+hhhhppisesssssssssssssssssssss||	-4.562561
+seeessssssssssssssssssssssssss||	-4.558163
+biiiiippasssssssssssssssssssss||	-4.558088
+iiiiiissssssssssssssssssssssss||	-4.557514
+xdeeeessssssssssssssssssssssss||	-4.555860
+nsiisaaapapsssssssssssssssssss||	-4.554120
+iiiiiiisssssssssssssssssssssss||	-4.548851
+xiaaaaaidissssssssssssssssssss||	-4.548586
+aasissssssssssssssssssssssssss||	-4.548125
+hdhaaaassasassssssssssssssssss||	-4.545411
+-iidddpassssssssssssssssssssss||	-4.545409
+aaaeeeyyysssssssssssssssssssss||	-4.543580
+hhhhheeassssssssssssssssssssss||	-4.541332
+eeee-sisasssssssssssssssssssss||	-4.540188
+illffffessssssssssssssssssssss||	-4.539131
+hhhhppppasssssssssssssssssssss||	-4.538364
+3eeeryssssssssssssssssssssssss||	-4.538142
+yyeeesssssssssssssssssssssssss||	-4.534122
+siiiesssssssssssssssssssssssss||	-4.530990
+wiaiipisssssssssssssssssssssss||	-4.525502
+eeebeeesssssssssssssssssssssss||	-4.521570
+aaawwassssssssssssssssssssssss||	-4.521119
+baasaasassssssssssssssssssssss||	-4.517367
+kqpfpppassssssssssssssssssssss||	-4.516186
+deesssasssssssssssssssssssssss||	-4.500319
+iiiihihhssssssssssssssssssssss||	-4.499645
+fddreessssssssssssssssssssssss||	-4.497897
+wiiiidasssssssssssssssssssssss||	-4.497157
+i-isssssssssssssssssssssssssss||	-4.494020
+hhhhhiiiisssssssssssssssssssss||	-4.490799
+aanefassssssssssssssssssssssss||	-4.488750
+ddiiisasasssssssssssssssssssss||	-4.476009
+bbbbebesssssssssssssssssssssss||	-4.474026
+iwkiiissssssssssssssssssssssss||	-4.467370
+kpppkkkassssssssssssssssssssss||	-4.462541
+aaaassyyxyssssssssssssssssssss||	-4.454485
+a222aaakssssssssssssssssssssss||	-4.453537
+bbbbahhhahahasssssssssssssssss||	-4.451940
+-a-assssssssssssssssssssssssss||	-4.441473
+bbyiiiisssssssssssssssssssssss||	-4.439519
+bbbbababadasssssssssssssssssss||	-4.438293
+eedenessssssssssssssssssssssss||	-4.433139
+ddffisasssssssssssssssssssssss||	-4.426807
+jababassssssssssssssssssssssss||	-4.421497
+nnpipapassssssssssssssssssssss||	-4.411794
+ahhhssssssssssssssssssssssssss||	-4.408655
+thheeeeeesssssssssssssssssssss||	-4.406781
+ssiininrddssssssssssssssssssss||	-4.392020
+laawapppipesssssssssssssssssss||	-4.391301
+ewbbppasssssssssssssssssssssss||	-4.381320
+tbaaddadasssssssssssssssssssss||	-4.378532
+reeeeeesssssssssssssssssssssss||	-4.372420
+assassssssssssssssssssssssssss||	-4.365670
+byyyesssssssssssssssssssssssss||	-4.361465
+syisisiiipssssssssssssssssssss||	-4.355824
+hhhyyayassssssssssssssssssssss||	-4.346006
+zhskiiisssssssssssssssssssssss||	-4.343656
+lbbbafasssssssssssssssssssssss||	-4.342377
+eaabbbbabsssssssssssssssssssss||	-4.341137
+aaayyyxdssssssssssssssssssssss||	-4.338893
+dddiiiyyesssssssssssssssssssss||	-4.337894
+bhbbbbbabassssssssssssssssssss||	-4.327695
+reeeesssssssssssssssssssssssss||	-4.325255
+itaaayyapapassssssssssssssssss||	-4.321016
+essssassssssssssssssssssssssss||	-4.314412
+eoiwwassssssssssssssssssssssss||	-4.294290
+yyawtaayssssssssssssssssssssss||	-4.288888
+bbbbbbbbseesssssssssssssssssss||	-4.282434
+hfrrhhhhff--ssssssssssssssssss||	-4.281519
+hhhhhhheesssssssssssssssssssss||	-4.272946
+sihiinisssssssssssssssssssssss||	-4.250764
+tzziiixdddssssssssssssssssssss||	-4.243265
+nnnyyebepassssssssssssssssssss||	-4.228400
+deyysaxassssssssssssssssssssss||	-4.220461
+bbbiibbbssssssssssssssssssssss||	-4.218616
+ndddedesesssssssssssssssssssss||	-4.211684
+ueeessssssssssssssssssssssssss||	-4.211376
+o4ebaassssssssssssssssssssssss||	-4.197587
+raalaaasasssssssssssssssssssss||	-4.190612
+vehhaapassssssssssssssssssssss||	-4.188704
+bbbbbbbbasssssssssssssssssssss||	-4.183506
+yyyebhbsssssssssssssssssssssss||	-4.181306
+ywwzzepppassssssssssssssssssss||	-4.173423
+aaaannnnnassssssssssssssssssss||	-4.157951
+kkkkpppppessssssssssssssssssss||	-4.144331
+ilisiiiisissssssssssssssssssss||	-4.136947
+hhsississsssssssssssssssssssss||	-4.127660
+rrriipppppasssssssssssssssssss||	-4.127404
+--i----ddsssssssssssssssssssss||	-4.125822
+hhhhhdddedaessssssssssssssssss||	-4.103008
+lakeesssssssssssssssssssssssss||	-4.089773
+ayyyyyssssssssssssssssssssssss||	-4.077136
+-nneppesssssssssssssssssssssss||	-4.058163
+ddeddessssssssssssssssssssssss||	-4.042615
+iwliiiiissssssssssssssssssssss||	-4.028883
+nypyyeesssssssssssssssssssssss||	-4.023436
+bhhhhhhhhhbeeessssssssssssssss||	-4.020282
+-csppppassssssssssssssssssssss||	-4.007882
+reggasssssssssssssssssssssssss||	-3.995803
+rppaasssssssssssssssssssssssss||	-3.979749
+jjzzhhaassssssssssssssssssssss||	-3.963351
+--------abssssssssssssssssssss||	-3.939558
+lliiiissssssssssssssssssssssss||	-3.920934
+jhhhhhasssssssssssssssssssssss||	-3.892039
+yyyyyyyssassssssssssssssssssss||	-3.886766
+m--k---sssssssssssssssssssssss||	-3.859333
+hxbbbbesssssssssssssssssssssss||	-3.848155
+lalaiissssssssssssssssssssssss||	-3.845735
+caappapassssssssssssssssssssss||	-3.833904
+yhhhhhhhhhahasssssssssssssssss||	-3.831131
+asxxdsssssssssssssssssssssssss||	-3.827168
+yhhhhhhhhissssssssssssssssssss||	-3.814914
+ddheddisssssssssssssssssssssss||	-3.800680
+asssssssssssssssssssssssssssss||	-3.776948
+asssssssssssssssssssssssssssss||	-3.776948
+rddeeessssssssssssssssssssssss||	-3.754029
+pppsssssssssssssssssssssssssss||	-3.750787
+llepepasssssssssssssssssssssss||	-3.744469
+dzfassasssssssssssssssssssssss||	-3.723914
+sxexxxexisssssssssssssssssssss||	-3.686568
+tseahsssssssssssssssssssssssss||	-3.666486
+rhelyyeessssssssssssssssssssss||	-3.643894
+yyyyyyyyyyssssssssssssssssssss||	-3.623377
+--nnnnesssssssssssssssssssssss||	-3.617707
+kdkhpppissssssssssssssssssssss||	-3.610188
+yyyyybbbbbbassssssssssssssssss||	-3.594034
+b4444eesssssssssssssssssssssss||	-3.569772
+rreessssssssssssssssssssssssss||	-3.527938
+caeeesssssssssssssssssssssssss||	-3.513738
+kkjiddssssssssssssssssssssssss||	-3.508025
+rrpfaaasssssssssssssssssssssss||	-3.501634
+ddddeebbssssssssssssssssssssss||	-3.472975
+bbbbbbbsssssssssssssssssssssss||	-3.460279
+kkinbbbbsissssssssssssssssssss||	-3.405248
+yyyyyyyyyyyyysssssssssssssssss||	-3.380723
+bbinnnksssssssssssssssssssssss||	-3.352441
+cikpesssssssssssssssssssssssss||	-3.345343
+bbhhh44sesssssssssssssssssssss||	-3.343868
+myssesssssssssssssssssssssssss||	-3.341663
+vueeessssessssssssssssssssssss||	-3.337133
+hhhhh-ssssssssssssssssssssssss||	-3.306066
+psssesssssssssssssssssssssssss||	-3.237862
+fowwwwasssssssssssssssssssssss||	-3.232283
+sissssssssssssssssssssssssssss||	-3.085727
+rxaxesssssssssssssssssssssssss||	-3.081351
+hhhkkkhhhhisssssssssssssssssss||	-3.068288
+yhhhhsssssssssssssssssssssssss||	-2.904564
+xaxxxxhhhhdyssssssssssssssssss||	-2.882737
+kbbbssssasssssssssssssssssssss||	-2.857586
+bdddbbesssssssssssssssssssssss||	-2.729837
+hlalllllasssssssssssssssssssss||	-2.703379
+hhhhhhhhhhhhssssssssssssssssss||	-2.680658
+bfsssssssssassssssssssssssssss||	-2.562016
+hhhhhhhhhhhsssssssssssssssssss||	-2.509704
+rrhihhhassssssssssssssssssssss||	-2.348555
+fddnndddssssssssssssssssssssss||	-2.331275
+sfysssssssssssssssssssssssssss||	-2.252051
+nrnk--esssssssssssssssssssssss||	-2.180421
+lffsssssssssssssssssssssssssss||	-1.906152
+nny--sssssssssssssssssssssssss||	-1.858991
+0000000n                      ||	-1.847075
+bqqqqqqnln                    ||	-1.818688
+rrrxll                        ||	-1.604391
+nbhhabssssssssssssssssssssssss||	-1.561728
+rrrrr                         ||	-1.547662
+rrrrrg                        ||	-1.540860
+rrrrru                        ||	-1.528512
+bbbbssssssssssssssssssssssssss||	-1.495687
+dqqakkddddddddddddddssssssssss||	-1.472090
+rrrrt                         ||	-1.464258
+ssssppasssssssssssssssssssssss||	-1.437863
+usddiissssssssssssssssssssssss||	-1.428849
+uunndddassssssssssssssssssssss||	-1.403442
+vvvviissssssssssssssssssssssss||	-1.389158
+rvhkaassssssssssssssssssssssss||	-1.374159
+onzasssassssssssssssssssssssss||	-1.370462
+vvvheepsssssssssssssssssssssss||	-1.359263
+lgllllhpppssssssssssssssssssss||	-1.344217
+vvvvv44hssssssssssssssssssssss||	-1.336133
+sswwllllfsssssssssssssssssssss||	-1.325352
+ollesessssssssssssssssssssssss||	-1.323436
+ssjjssssssssssssssssssssssssss||	-1.313167
+ssssnpisssssssssssssssssssssss||	-1.306507
+olllssssssssssssssssssssssssss||	-1.296320
+ssssssisssssssssssssssssssssss||	-1.292660
+ddddddddddasssssssssssssssssss||	-1.288198
+ssssssdassssssssssssssssssssss||	-1.277440
+gggkkessssssssssssssssssssssss||	-1.253042
+ddddppapasssssssssssssssssssss||	-1.249001
+llllllaissssssssssssssssssssss||	-1.246116
+yhhhtom                       ||	-1.237327
+llvvvpisssssssssssssssssssssss||	-1.234479
+trvvyaasssssssssssssssssssssss||	-1.213138
+0spspassssssssssssssssssssssss||	-1.211817
+bssssssbesssssssssssssssssssss||	-1.211320
+bsssssesssssssssssssssssssssss||	-1.199675
+ttkpppeessssssssssssssssssssss||	-1.195127
+dddddddddsssssssssssssssssssss||	-1.193568
+sssseessssssssssssssssssssssss||	-1.183142
+tyyllllhpassssssssssssssssssss||	-1.178322
+lllllddddassssssssssssssssssss||	-1.168570
+ppkmm                         ||	-1.160584
+nnnneiesssssssssssssssssssssss||	-1.158882
+ttddlissssssssssssssssssssssss||	-1.157265
+ddddddddssssssssssssssssssssss||	-1.144673
+ddddddssasssssssssssssssssssss||	-1.130358
+otaqa2apasssssssssssssssssssss||	-1.118683
+sssfssssssssssssssssssssssssss||	-1.109341
+dffum                         ||	-1.076476
+wwwwaaaassssssssssssssssssssss||	-1.067080
+ssssssssssssssssssssssssssssss||	-1.057634
+ssssssssssssssssssssssssssssss||	-1.057634
+ssssssssssssssssssssssssssssss||	-1.057634
+ssssssssssssssssssssssssssssss||	-1.057634
+ssssssssssssssssssssssssssssss||	-1.057634
+ssssssssssssssssssssssssssssss||	-1.057634
+ssssssssssssssssssssssssssssss||	-1.057634
+ssssssssssssssssssssssssssssss||	-1.057634
+lllllessssssssssssssssssssssss||	-1.054489
+2yyy2nnwssssssssssssssssssssss||	-1.047258
+dxxxqxxxxxxassssssssssssssssss||	-1.037363
+zlllllllsessssssssssssssssssss||	-1.033015
+ddddddssssssssssssssssssssssss||	-1.027877
+xxxbbbbbbbbbssssssssssssssssss||	-1.024516
+ksshhhhbbbbsssssssssssssssssss||	-1.000539
+dddsddssssssssssssssssssssssss||	-0.992746
+rsyynnom.com                  ||	-0.990688
+bdbnntt.com                   ||	-0.988736
+co.com                        ||	-0.984653
+kilmm                         ||	-0.977635
+dyhrttt.com                   ||	-0.975172
+tubbbbsssassssssssssssssssssss||	-0.969278
+wbasssssssssssssssssssssssssss||	-0.959803
+bxruuu.com                    ||	-0.959246
+trrto.com                     ||	-0.958907
+dxxxbbbsssssssssssssssssssssss||	-0.948828
+nnnnnppppessssssssssssssssssss||	-0.943984
+fffdolnnnn                    ||	-0.939118
+swwsssssssssssssssssssssssssss||	-0.937730
+ppjjjn                        ||	-0.937516
+kkkkklmm.com                  ||	-0.935253
+ogpeepepepasssssssssssssssssss||	-0.929790
+ssssiiiiisssssssssssssssssssss||	-0.922835
+.or                           ||	-0.913496
+kkkonu.com                    ||	-0.912274
+ddddssssssssssssssssssssssssss||	-0.909220
+hhgo.com                      ||	-0.908234
+nro.com                       ||	-0.907241
+wrrwo.com                     ||	-0.891789
+ssidduuuu.com                 ||	-0.889000
+sppporg.com                   ||	-0.886095
+lro.com                       ||	-0.879899
+syssssssssssssssssssssssssssss||	-0.866997
+alot.com                      ||	-0.861044
+elolomo.com                   ||	-0.859439
+egog.com                      ||	-0.858008
+00rrru.com                    ||	-0.855348
+-tt.nom                       ||	-0.850036
+o.com                         ||	-0.849523
+nyor.com                      ||	-0.848647
+sssasaabbbbbabasssssssssssssss||	-0.848108
+lssaaaaahsssssssssssssssssssss||	-0.842527
+evdtt                         ||	-0.841811
+cdoo.com                      ||	-0.840023
+nrrrr.com                     ||	-0.831916
+trtllyysssssssssssssssssssssss||	-0.830173
+nnrar.com                     ||	-0.825978
+rilmmm                        ||	-0.824103
+viccom                        ||	-0.822898
+raaaa.com                     ||	-0.821636
+gsssssssssssssssssssssssssssss||	-0.820316
+aog.com                       ||	-0.817920
+-cot.com                      ||	-0.814045
+nrt.com                       ||	-0.807922
+rtlt.com                      ||	-0.807160
+geppt                         ||	-0.803851
+lsssssfassssssssssssssssssssss||	-0.797695
+obeeeet.com                   ||	-0.796700
+rlrrrg.com                    ||	-0.794286
+rgann.com                     ||	-0.788671
+ioo.com                       ||	-0.783399
+oeos.com                      ||	-0.782749
+rrro.com                      ||	-0.764743
+rrro.com                      ||	-0.764743
+ll.uom                        ||	-0.763668
+ggyyyessssssssssssssssssssssss||	-0.762334
+vx.com                        ||	-0.755103
+y.om                          ||	-0.748059
+rrcg.com                      ||	-0.747751
+rrkrrru.com                   ||	-0.741139
+llsssekessssssssssssssssssssss||	-0.739814
+rrrruu.com                    ||	-0.725566
+aaaaaint.com                  ||	-0.721655
+eenm                          ||	-0.718261
+rrrlg.com                     ||	-0.717951
+hddv.com                      ||	-0.716864
+ceen.com                      ||	-0.715063
+noee.com                      ||	-0.714972
+eeeeenn.com                   ||	-0.709399
+ll.com                        ||	-0.709119
+wnnbnnkkysssssssssssssssssssss||	-0.707800
+iuuug.com                     ||	-0.694761
+zz.com                        ||	-0.690088
+rrr.com                       ||	-0.688646
+lllkkkbsssssssssssssssssssssss||	-0.684659
+m.com                         ||	-0.671208
+eeet.com                      ||	-0.666564
+eeet.com                      ||	-0.666564
+taset.com                     ||	-0.664305
+idddddt                       ||	-0.661098
+sssppepissssssssssssssssssssss||	-0.660071
+h--omm.com                    ||	-0.659570
+jjl.com                       ||	-0.648132
+sfdddnro.com                  ||	-0.642893
+pll.com                       ||	-0.640999
+rbee.com                      ||	-0.639020
+t.com                         ||	-0.638434
+bbl.com                       ||	-0.631931
+fttt.com                      ||	-0.628565
+.uu                           ||	-0.619170
+.uu                           ||	-0.619170
+.uu                           ||	-0.619170
+iico.com                      ||	-0.608188
+kkyy.com                      ||	-0.604522
+r.om                          ||	-0.601038
+bbbbb.com                     ||	-0.599928
+v.com                         ||	-0.597803
+iiic.com                      ||	-0.590690
+nnnyyyisssssssssssssssssssssss||	-0.587084
+kkkkkkkkkkssssasssssssssssssss||	-0.584680
+hass-o.com                    ||	-0.572308
+epec.com                      ||	-0.567057
+seeen.com                     ||	-0.566383
+yyrrro.com                    ||	-0.564106
+iimmm.com                     ||	-0.561272
+rinirr                        ||	-0.559136
+veentu.com                    ||	-0.552072
+lssssssdssssssssssssssssssssss||	-0.551295
+aaattt.com                    ||	-0.544002
+r-rrrrrrrrrrrror.com          ||	-0.543377
+eett.com                      ||	-0.537036
+icmm.com                      ||	-0.519181
+eeellt.com                    ||	-0.518136
+.com                          ||	-0.500389
+.com                          ||	-0.500389
+.com                          ||	-0.500389
+.com                          ||	-0.500389
+.com                          ||	-0.500389
+.com                          ||	-0.500389
+.com                          ||	-0.500389
+.com                          ||	-0.500389
+.com                          ||	-0.500389
+yyyyyyyytom.com               ||	-0.494214
+ee.com                        ||	-0.484705
+yw.com                        ||	-0.474772
+a.com                         ||	-0.472347
+a.com                         ||	-0.472347
+eerl.com                      ||	-0.468805
+err.com                       ||	-0.467348
+nsssssssssssssssssssssssssssss||	-0.464790
+.nom                          ||	-0.463636
+eek.com                       ||	-0.459532
+ydd.com                       ||	-0.454231
+irru.com                      ||	-0.453458
+ennot.com                     ||	-0.452485
+.rom                          ||	-0.445326
+.rom                          ||	-0.445326
+eartt.com                     ||	-0.424975
+wep.com                       ||	-0.424481
+e.com                         ||	-0.422912
+fiiipddddddddk                ||	-0.422078
+0innnn.com                    ||	-0.413686
+eeeppprr.com                  ||	-0.408533
+fddu.com                      ||	-0.403614
+-.com                         ||	-0.374739
+-.nom                         ||	-0.374014
+yhhhhhhh.com                  ||	-0.355213
+phpirrg.com                   ||	-0.324095
+ahhrutt.com                   ||	-0.313305
+fffov.com                     ||	-0.311318
+bsdsasssssssssssssssssssssssss||	-0.302483
+rrrrkessssssssssssssssssssssss||	-0.275815
+abbh.com                      ||	-0.243115
+fff.com                       ||	-0.221304
+-nnnggg.com                   ||	-0.218509
+ssse.com                      ||	-0.196160
+kpp                           ||	-0.189844
+.m                            ||	-0.189738
+nbbboo.com                    ||	-0.188241
+ssss.com                      ||	-0.187861
+mao.com                       ||	-0.187718
+oos.com                       ||	-0.187569
+.ou                           ||	-0.187417
+oow.com                       ||	-0.187324
+.om                           ||	-0.187292
+.om                           ||	-0.187292
+ccom.uu                       ||	-0.187224
+ccom.uu                       ||	-0.187224
+ol.com                        ||	-0.187198
+orrrm.com                     ||	-0.187081
+cddddt.com                    ||	-0.187032
+rttot.com                     ||	-0.186886
+sssso.com                     ||	-0.186829
+rom.com                       ||	-0.186623
+doro.com                      ||	-0.186620
+nvrrr.com                     ||	-0.186536
+nnnm.com                      ||	-0.186521
+                              ||	-0.186434
+                              ||	-0.186434
+                              ||	-0.186434
+lll.com                       ||	-0.186242
+csl                           ||	-0.186196
+clom.com                      ||	-0.185664
+ssss000.com                   ||	-0.185661
+ddddd.com                     ||	-0.185322
+mkvv.com                      ||	-0.185238
+kkkkkuum                      ||	-0.185204
+ccom.com                      ||	-0.185177
+nrutg.com                     ||	-0.184925
+vnnl.com                      ||	-0.184920
+bbuuuu.com                    ||	-0.184887
+uum.com                       ||	-0.184840
+uum.com                       ||	-0.184840
+uwng.com                      ||	-0.184776
+vvu.com                       ||	-0.184759
+nnr                           ||	-0.184758
+nnn                           ||	-0.184752
+ooo.com                       ||	-0.184743
+ooo.com                       ||	-0.184743
+llll.com                      ||	-0.184734
+ohhhhot.com                   ||	-0.184712
+nnnng.com                     ||	-0.184602
+tuu.com                       ||	-0.184587
+onoo.com                      ||	-0.184572
+uoor.com                      ||	-0.184561
+ssssug.com                    ||	-0.184480
+ccnm                          ||	-0.184462
+nnnnn.com                     ||	-0.184454
+uuuu.com                      ||	-0.184397
+uuuu.com                      ||	-0.184397
+cggo.com                      ||	-0.184287
+ammmmom.com                   ||	-0.184163
+suuuu.com                     ||	-0.184121
+odtt.com                      ||	-0.184061
+vuntm                         ||	-0.184034
+blooo.com                     ||	-0.184000
+sttt.com                      ||	-0.183978
+doroom.com                    ||	-0.183952
+ttt.com                       ||	-0.183911
+ttt.com                       ||	-0.183911
+gtt.com                       ||	-0.183850
+ocot.com                      ||	-0.183837
+rnum                          ||	-0.183825
+ooom.com                      ||	-0.183801
+nnnnn                         ||	-0.183786
+rom                           ||	-0.183746
+oozo.com                      ||	-0.183682
+vvuu.com                      ||	-0.183681
+olbtt.com                     ||	-0.183651
+omom.com                      ||	-0.183651
+clnog                         ||	-0.183458
+rrmmm                         ||	-0.183347
+g21cog.com                    ||	-0.183245
+ooot.com                      ||	-0.183232
+ggot.com                      ||	-0.183218
+obbbbbtm.com                  ||	-0.183168
+llllm                         ||	-0.183092
+lll                           ||	-0.183085
+lrrllll.com                   ||	-0.183083
+ssttoo.com                    ||	-0.183034
+llllu.com                     ||	-0.183032
+bomom                         ||	-0.182950
+yggggggg.com                  ||	-0.182935
+uruuuu.com                    ||	-0.182929
+ttuuu.com                     ||	-0.182888
+llgtt.com                     ||	-0.182857
+dkkkkgg                       ||	-0.182809
+llll                          ||	-0.182785
+bboutt                        ||	-0.182758
+nnnnnnnn                      ||	-0.182623
+lnnotg.com                    ||	-0.182622
+ccom                          ||	-0.182407
+ccom                          ||	-0.182407
+ccom                          ||	-0.182407
+nnnnnn.com                    ||	-0.182395
+ggrrgm.com                    ||	-0.182370
+nnmmm                         ||	-0.182362
+wlsssltto.com                 ||	-0.182340
+tottt.com                     ||	-0.182136
+tgg                           ||	-0.182028
+nnnnuuu.com                   ||	-0.182014
+sxooomo.com                   ||	-0.182009
+mcom                          ||	-0.181964
+dcom                          ||	-0.181956
+rgggg                         ||	-0.181947
+ttmm                          ||	-0.181840
+cggg                          ||	-0.181813
+lllltt                        ||	-0.181722
+gggm                          ||	-0.181607
+xxxxxxhhog.com                ||	-0.181599
+mowwt                         ||	-0.181557
+ocom                          ||	-0.181482
+goggot.com                    ||	-0.181342
+nnnnnnm.com                   ||	-0.181279
+toog                          ||	-0.181218
+mommm                         ||	-0.181052
+mllg                          ||	-0.181031
+ottttt.com                    ||	-0.181007
+jmmudu                        ||	-0.180837
+nnnnnnn.com                   ||	-0.180434
+mmttm                         ||	-0.180263
+uvvvyyt.com                   ||	-0.180245
+orrmum                        ||	-0.179746
+onnnot                        ||	-0.179519
+ulllll.com                    ||	-0.179267
+tmmmmm                        ||	-0.179171
+dmmmom                        ||	-0.178958
+ttrrrn                        ||	-0.178474
+dddddrm                       ||	-0.178114
+mmmmmmm                       ||	-0.177732
+lllissssssssssssssssssssssssss||	-0.125662
+s---kr.com                    ||	-0.088991
+lnppssssssssssssssssssssssssss||	-0.061454
+hhdsssssssssssssssssssssssssss||	0.093331
+ddrrhhasssssssssssssssssssssss||	0.146045
+rrwessssssssssssssssssssssssss||	0.231349
+copyssssssssssssssssssssssssss||	0.339113
+knndhddeesesssssssssssssssssss||	0.591952
+llffrdpsssssssssssssssssssssss||	0.767448
+rnnnnsssssssssssssssssssssssss||	0.840358
+rrrbdassssssssssssssssssssssss||	0.871202
+ddasssssssssssssssssssssssssss||	2.429042
+rsspppssssssssssssssssssssssss||	2.860144
+rlllllppisssssssssssssssssssss||	2.939002
+rrlllsssssssssssssssssssssssss||	6.050754
